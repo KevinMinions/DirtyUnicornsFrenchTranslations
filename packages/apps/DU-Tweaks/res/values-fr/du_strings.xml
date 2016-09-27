@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Copyright (C) 2014-2016 The Dirty Unicorns Project
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Tabs -->
+    <string name="system_category">Système</string>
+    <string name="lockscreen_category">Écran de déverrouillage</string>
+    <string name="statusbar_category">Barre d\'état</string>
+    <string name="navigation_category">Navigation</string>
+    <string name="multitasking_category">Multi-tâche</string>
+
+    <!-- Categories -->
+    <string name="recents_category">Applications récentes</string>
+    <string name="powermenu_category">Menu Marche/Arrêt</string>
+    <string name="misctweaks_category">Réglages divers</string>
+    <string name="button_settings">Boutons</string>
+    <string name="statusbar_notifications_category">Notifications</string>
+    <string name="statusbar_items_category">Éléments de la barre d\'état</string>
+    <string name="quicksettings_category">Configuration rapide</string>
+    <string name="traffic_category">Indicateurs de trafic</string>
+
+    <!-- Dialog -->
+    <string name="dirtytweaks_dialog_title">Aidez-Nous, Aidez-Vous !</string>
+    <string name="dirtytweaks_dialog_message">Malheureusement, nous ne sommes pas des magiciens !\n\nSi vous trouvez un bogue avec un de ces réglages, ouvrez un ticket d\'incident sur Jira ou contactez un développeur de DU en fournissant les éléments suivant :\n\n1 - Journal d\'erreur (Logcat ou Last_Kmsg)\n2 - Kernel et Modes installés\n3 - Des informations utiles\n\nSans rapport de bogue correcte, ne vous attendez pas à ce que les problèmes soient corrigés. Rappelez-vous, nous ne sommes pas des magiciens, nous pouvons donc passer à côté de certaines choses.</string>
+    <string name="dirtytweaks_dialog_toast">À LIRE ENTIÈREMENT !</string>
+
+    <!-- Immersive Recents -->
+    <string name="immersive_recents_title">Applications récentes immersives</string>
+    <string name="immersive_recents_summary">Apparence de l\'écran des applications récentes</string>
+    <string name="immersive_recents_dialog_title">Choisir l\'apparence</string>
+    <string name="immersive_recents_default">Par défaut</string>
+    <string name="immersive_recents_fullscreen">Plein-écran</string>
+    <string name="immersive_recents_statusbar">Uniquement la barre d\'état</string>
+    <string name="immersive_recents_navbar">Uniquement la barre de navigation</string>
+
+    <!-- Power Menu -->
+    <string name="powermenu_screenshot">Capture d\'écran</string>
+    <string name="powermenu_screenrecord">Capture vidéo</string>
+    <string name="powermenu_torch">Lampe de poche</string>
+    <string name="powermenu_power">Éteindre</string>
+    <string name="powermenu_reboot">Redémarrer</string>
+    <string name="powermenu_airplane">Mode Avion</string>
+    <string name="powermenu_settings">Paramètres</string>
+    <string name="powermenu_lockdown">Verrouiller</string>
+    <string name="powermenu_soundpanel">Panneau de volume</string>
+    <string name="powermenu_options">Options supplémentaires</string>
+    <string name="powermenu_lockscreen_title">Écran de déverrouillage</string>
+    <string name="powermenu_lockscreen_summary">Afficher le menu Marche/Arrêt sur l\'écran de déverrouillage</string>
+
+    <!-- Advanced reboot options -->
+    <string name="advanced_reboot_title">Redémarrage avancé</string>
+    <string name="advanced_reboot_summary">Ajoute les options dans le menu Menu Marche/Arrêt pour redémarrer dans le recovery et le bootloader</string>
+    <string name="advanced_reboot_dialog_title">Menu de redémarrage avancé</string>
+    <string name="advanced_reboot_disabled">Désactiver</string>
+    <string name="advanced_reboot_hide_on_keyguard">Masquer sur l\'écran de déverrouillage</string>
+    <string name="advanced_reboot_show_always">Toujours afficher</string>
+
+    <!-- Expanded desktop -->
+    <string name="expanded_desktop_category">Bureau étendu</string>
+    <string name="expanded_hide_nothing">Ne rien masquer</string>
+    <string name="expanded_hide_status">Masquer la barre d\'état</string>
+    <string name="expanded_hide_navigation">Masquer la barre de navigation</string>
+    <string name="expanded_hide_both">Masquer les deux</string>
+    <string name="expanded_nothing_to_show">Pour ajouter une configuration du bureau étendu par application, désactiver \"Activé pour tout\".</string>
+    <string name="expanded_desktop_state">État</string>
+    <string name="expanded_enabled_for_all">Activé pour tout</string>
+    <string name="expanded_user_configurable">Configurable</string>
+    <string name="expanded_desktop_style">Style</string>
+    <string name="expanded_desktop_style_description">Sélectionner le style par défaut du bureau étendu</string>
+    <string name="expanded_desktop_title">Options</string>
+
+    <!-- Scrolling Cache -->
+    <string name="pref_scrollingcache_title">Mémoire cache de défilement</string>
+    <string name="pref_scrollingcache_summary">Améliore les performances de défilement mais augmente l\'utilisation de la mémoire RAM</string>
+    <string name="pref_scrollingcache_force_enable">Forcer l\'activation</string>
+    <string name="pref_scrollingcache_default_enable">Activer par défaut</string>
+    <string name="pref_scrollingcache_default_disable">Désactiver par défaut</string>
+    <string name="pref_scrollingcache_force_disable">Forcer la désactivation</string>
+
+    <!-- Flashlight notification -->
+    <string name="flashlight_notification_title">Lampe de poche</string>
+    <string name="flashlight_notification_summary">Activer la notification lorsque la lampe de poche est en cours d\'utilisation</string>
+
+    <!-- Volume Key Rotation -->
+    <string name="swap_volume_buttons_title">Réorienter</string>
+    <string name="swap_volume_buttons_summary">En mode Paysage, inverser les boutons Volume</string>
+
+    <!-- Volume rocker wake -->
+    <string name="volume_rocker_wake_title">Réveiller par bouton Volume</string>
+    <string name="volume_rocker_wake_summary">Sortir l\'appareil de la veille en appuyant sur un des boutons Volume</string>
+
+    <!-- Volume rocker music control -->
+    <string name="volume_rocker_music_controls_title">Contrôle de lecture</string>
+    <string name="volume_rocker_music_controls_summary">Sur écran éteint, un appui prolongé sur les touches Volume change la chanson</string>
+
+    <!-- Notification Count in Statusbar -->
+    <string name="status_bar_notif_count_title">Notifications en attente</string>
+    <string name="status_bar_notif_count_summary">Afficher le nombre de notifications en attente</string>
+
+    <!-- Force expanded notifications -->
+    <string name="force_expanded_notifications_title">Forcer les notifications étendues</string>
+    <string name="force_expanded_notifications_summary">Disponible uniquement pour les applications prenant en charge les notifications étendues</string>
+
+    <!-- Disabling immersive mode messages -->
+    <string name="disable_immersive_message_title">Messages immersifs</string>
+    <string name="disable_immersive_message_summary">Masquer tous les messages immersifs</string>
+
+    <!-- Toast Icons -->
+    <string name="toast_icon_title">Icône Toast</string>
+    <string name="toast_icon_summary">Afficher l\'icône de l\'application correspondante dans la notification Toast</string>
+
+    <!-- Tiles animation style  -->
+    <string name="quicksettings_tiles_category">Animation des tuiles</string>
+    <string name="qs_tile_animation_style_title">Style</string>
+    <string name="qs_tile_animation_duration_title">Vitesse</string>
+    <string name="qs_tile_animation_interpolator_title">Effet supplémentaire</string>
+    <string name="qs_tile_animation_style_off">Aucune animation</string>
+    <string name="qs_tile_animation_style_flip">Par retournement</string>
+    <string name="qs_tile_animation_style_rotate">Par rotation</string>
+    <string name="qs_tile_animation_duration_low">Lente</string>
+    <string name="qs_tile_animation_duration_default">Normale</string>
+    <string name="qs_tile_animation_duration_fast">Rapide</string>
+    <string name="qs_tile_animation_interpolator_linearInterpolator">Linéaire</string>
+    <string name="qs_tile_animation_interpolator_accelerateInterpolator">Accélérer</string>
+    <string name="qs_tile_animation_interpolator_decelerateInterpolator">Décélérer</string>
+    <string name="qs_tile_animation_interpolator_accelerateDecelerateInterpolator">Accélérer et décélérer</string>
+    <string name="qs_tile_animation_interpolator_bounceInterpolator">Rebondir</string>
+    <string name="qs_tile_animation_interpolator_overshootInterpolator">Surpasser</string>
+    <string name="qs_tile_animation_interpolator_anticipateInterpolator">Anticiper</string>
+    <string name="qs_tile_animation_interpolator_anticipateOvershootInterpolator">Anticiper et surpasser</string>
+    <string name="qs_set_animation_style">%1$s</string>
+    <string name="qs_set_animation_duration">%1$s</string>
+    <string name="qs_set_animation_interpolator">%1$s</string>
+
+    <!-- MediaScanner behavior on boot -->
+    <string name="media_scanner_on_boot_title">Comportement de l\'analyseur de médias au démarrage</string>
+    <string name="media_scanner_on_boot_enabled">Analyser les médias</string>
+    <string name="media_scanner_on_boot_ask">Demander pour analyser (notification)</string>
+    <string name="media_scanner_on_boot_disabled">Ne pas analyser les médias</string>
+
+    <!-- Network traffic -->
+    <string name="network_traffic_title">Trafic réseau</string>
+    <string name="show_network_traffic_state">Indicateurs de vitesse de réseau</string>
+    <string name="show_network_traffic_unit">Unité d\'affichage</string>
+    <string name="show_network_traffic_frequency">Intervalle de mise à jour</string>
+    <string name="show_network_traffic_disable">Désactivé</string>
+    <string name="show_network_traffic_up">Sortant</string>
+    <string name="show_network_traffic_down">Entrant</string>
+    <string name="show_network_traffic_all">Entrant et sortant</string>
+    <string name="show_network_traffic_bit">Bits par seconde</string>
+    <string name="show_network_traffic_byte">Bytes par seconde</string>
+    <string name="show_network_traffic_500">500 ms</string>
+    <string name="show_network_traffic_1000">1000 ms</string>
+    <string name="show_network_traffic_1500">1500 ms</string>
+    <string name="show_network_traffic_2000">2000 ms</string>
+    <string name="network_traffic_autohide">Masquer automatiquement</string>
+    <string name="network_traffic_autohide_summary">Ne pas afficher l\'indicateur de vitesse de réseau lorsqu\'il n\'y a pas de trafic</string>
+    <string name="network_traffic_autohide_threshold">Seuil d\'inactivité</string>
+    <string name="network_traffic_hidearrow">Masquer les flèches</string>
+    <string name="network_traffic_hidearrow_summary">Masquer les flèches de l\'indicateur de trafic</string>
+
+    <!-- Quick Pulldown-->
+    <string name="quick_pulldown_title">Déroulement rapide</string>
+    <string name="quick_pulldown_summary">Côté %1$s de la barre d\'état déroulée pour accéder aux Paramètres rapides</string>
+    <string name="quick_pulldown_summary_always">Toujours afficher les Paramètres rapides lorsque la barre d\'état est déroulée</string>
+    <string name="quick_pulldown_off">Désactivé</string>
+    <string name="quick_pulldown_left">gauche</string>
+    <string name="quick_pulldown_right">droit</string>
+    <string name="quick_pulldown_always">Toujours</string>
+
+</resources>
