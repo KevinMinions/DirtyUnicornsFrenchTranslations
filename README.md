@@ -1,4 +1,4 @@
-[Alt text](https://lh3.googleusercontent.com/kIOFfKKHNDO-H_JCsi5xNHoUWmjQYWjptyDUnQuPSvD-rTpwRTu9DizU60YHyDUx4wxWrvnfz4TSUGbulXZ_LgESwsNuDJWG.png)
+[Alt text](https://goo.gl/photos/NP2HfhiHkYybBJhQ9)
 
 # Fichiers de traduction pour Dirty Unicorns 11 (Android 7.0) #
 
