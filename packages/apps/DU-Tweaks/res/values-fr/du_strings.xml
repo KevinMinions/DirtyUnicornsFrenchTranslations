@@ -48,6 +48,8 @@
     <string name="immersive_recents_navbar">Uniquement la barre de navigation</string>
 
     <!-- Power Menu -->
+    <string name="powermenu_lockscreen_title">Écran de déverrouillage</string>
+    <string name="powermenu_lockscreen_summary">Afficher le menu Marche/Arrêt sur l\'écran de déverrouillage</string>
     <string name="powermenu_screenshot">Capture d\'écran</string>
     <string name="powermenu_screenrecord">Capture vidéo</string>
     <string name="powermenu_torch">Lampe de poche</string>
@@ -58,8 +60,7 @@
     <string name="powermenu_lockdown">Verrouiller</string>
     <string name="powermenu_soundpanel">Panneau de volume</string>
     <string name="powermenu_options">Options supplémentaires</string>
-    <string name="powermenu_lockscreen_title">Écran de déverrouillage</string>
-    <string name="powermenu_lockscreen_summary">Afficher le menu Marche/Arrêt sur l\'écran de déverrouillage</string>
+    <string name="powermenu_dialog_dim">Luminosité de l\'arrière-plan</string>
 
     <!-- Advanced reboot options -->
     <string name="advanced_reboot_title">Redémarrage avancé</string>
@@ -90,6 +91,10 @@
     <string name="pref_scrollingcache_default_enable">Activer par défaut</string>
     <string name="pref_scrollingcache_default_disable">Désactiver par défaut</string>
     <string name="pref_scrollingcache_force_disable">Forcer la désactivation</string>
+
+    <!-- QuickSettings haptic feedback -->
+    <string name="quick_settings_vibrate_title">Retour haptique</string>
+    <string name="quick_settings_vibrate_summary">Vibrer lors des appuis sur les tuiles</string>
 
     <!-- Flashlight notification -->
     <string name="flashlight_notification_title">Lampe de poche</string>
@@ -146,6 +151,9 @@
     <string name="qs_set_animation_duration">%1$s</string>
     <string name="qs_set_animation_interpolator">%1$s</string>
 
+    <!-- Option to show brightness bar in quick settings -->
+    <string name="show_brightness">Afficher le curseur de luminosité</string>
+
     <!-- MediaScanner behavior on boot -->
     <string name="media_scanner_on_boot_title">Comportement de l\'analyseur de médias au démarrage</string>
     <string name="media_scanner_on_boot_enabled">Analyser les médias</string>
@@ -181,5 +189,48 @@
     <string name="quick_pulldown_left">gauche</string>
     <string name="quick_pulldown_right">droit</string>
     <string name="quick_pulldown_always">Toujours</string>
+
+    <!-- Lockscreen Torch -->
+    <string name="keyguard_torch_title">Lampe de poche</string>
+    <string name="keyguard_torch_summary">Sur écran éteint, un appui prolongé sur la touche Marche/Arrêt allume la lampe de poche</string>
+
+    <!-- Statusbar Clock options -->
+    <string name="status_bar_title">Barre d\'état</string>
+    <string name="status_bar_style_title">Style</string>
+    <string name="status_bar_clock">Date et heure</string>
+    <string name="clock_title_enable">Position</string>
+    <string name="clock_enabled">Activé</string>
+    <string name="clock_disabled">Désactivé</string>
+    <string name="status_bar_clock_style_reset">Réinitialiser la couleur</string>
+    <string name="status_bar_show_clock_title">Afficher l\'heure et la date</string>
+    <string name="status_bar_am_pm_title">AM/PM</string>
+    <string name="status_bar_am_pm_info">L\'heure sur 24 heures est activée</string>
+    <string name="enable_clock_weekday">Jour de la semaine</string>
+    <string name="enable_clock_weekday_summary">Jour de la semaine abrégé avant l\'heure</string>
+    <string name="right_clock">À droite</string>
+    <string name="center_clock">Au centre</string>
+    <string name="left_clock">À gauche</string>
+    <string name="dont_show">Masqué</string>
+    <string name="clock_date_display">Date</string>
+    <string name="clock_date_display_summary">Afficher une date personnalisée avant l\'heure</string>
+    <string name="clock_date_style">Style de la date</string>
+    <string name="clock_date_position">Position de la date</string>
+    <string name="clock_date_format">Format de la date</string>
+    <string name="clock_date_string_edittext_title">Doit être au format de date Java par ex : MM/dd/yy</string>
+    <string name="clock_date_string_edittext_summary">Saisir le code</string>
+    <string name="clock_date_right">À droite de l\'heure</string>
+    <string name="clock_date_left">À gauche de l\'heure</string>
+    <string name="am_pm_clock_normal">Police de taille normale</string>
+    <string name="am_pm_clock_small">Police de petite taille</string>
+    <string name="am_pm_clock_none">Masquer</string>
+    <string name="clock_date_display_none">Masquer</string>
+    <string name="clock_date_display_small">Police de petite taille</string>
+    <string name="clock_date_display_normal">Police de taille normale</string>
+    <string name="clock_date_style_normal">Normale</string>
+    <string name="clock_date_style_lowercase">Minuscule</string>
+    <string name="clock_date_style_uppercase">Majuscule</string>
+    <string name="clock_date_format_custom">Personnalisée (format java)</string>
+    <string name="default_string">Par défaut</string>
+    <string name="reset">Réinitialiser</string>
 
 </resources>
