@@ -1,4 +1,4 @@
-![LogoFR](http://img4.hostingpics.net/pics/32328320160806NouveauLogofr03.png)
+![LogoFR](http://img4.hostingpics.net/pics/264349DUFR11GitHub.png)
 
 # Fichiers de traduction pour Dirty Unicorns 11 (Android 7.0) #
 
