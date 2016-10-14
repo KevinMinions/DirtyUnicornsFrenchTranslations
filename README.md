@@ -1,5 +1,5 @@
   <img alt="LogoFR"
-       src="http://img4.hostingpics.net/pics/246623DUFR11GitHub2.png" />
+       src="http://img4.hostingpics.net/pics/842140DUFR11GitHub2.jpg" />
 
 # Fichiers de traduction pour Dirty Unicorns 11 (Android 7.0) #
 
