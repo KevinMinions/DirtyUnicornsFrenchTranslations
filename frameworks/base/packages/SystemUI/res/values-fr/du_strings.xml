@@ -45,6 +45,7 @@
 
     <!-- SystemUI Tuner Parts -->
     <string name="systemui_tuner_statusbar_title">Éléments de la barre d\'état</string>
+    <string name="systemui_tuner_nightmode_title">Mode Nuit</string>
 
     <!-- Quick Settings tiles -->
     <string name="quick_settings_screenshot_label">Capture d\'écran</string>
@@ -69,6 +70,14 @@
     <string name="quick_settings_music_label">Musique</string>
     <string name="quick_settings_music_play">Lecture</string>
     <string name="quick_settings_music_pause">Pause</string>
-    <string name="quick_settings_ime_label">Mode de saisie</string>
+    <string name="quick_settings_ime_tile_label">Mode de saisie</string>
+    <string name="quick_settings_caffeine_label">Caféine</string>
+    <string name="accessibility_quick_settings_caffeine_off">Caféine désactivée</string>
+    <string name="accessibility_quick_settings_caffeine_on">Caféine activée</string>
+
+    <!-- Show lte/4g switch -->
+    <string name="show_lte_fourgee_title">Icône \"4G\"</string>
+    <string name="show_lte_fourgee_summary">Utiliser l\'icône \"4G\" dans la barre d\'état plutôt que \"LTE\"</string>
+    <string name="statusbar_tuner_category_title">Éléments de la barre d\'état à afficher</string>
 
 </resources>
