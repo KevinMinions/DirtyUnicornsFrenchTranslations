@@ -16,6 +16,9 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- General strings -->
+    <string name="dirty_tweaks_summary_title">Personnaliser l\'appareil</string>
+
     <!-- Tabs -->
     <string name="system_category">Système</string>
     <string name="lockscreen_category">Écran de déverrouillage</string>
@@ -30,8 +33,11 @@
     <string name="button_settings">Boutons</string>
     <string name="statusbar_notifications_category">Notifications</string>
     <string name="statusbar_items_category">Éléments de la barre d\'état</string>
+    <string name="nightmode_category">Mode Nuit</string>
     <string name="quicksettings_category">Configuration rapide</string>
     <string name="traffic_category">Indicateurs de trafic</string>
+    <string name="breathing_notifications_category">Notifications clignotantes</string>
+    <string name="omniswitch_category">OmniSwitch</string>
 
     <!-- Dialog -->
     <string name="dirtytweaks_dialog_title">Aidez-Nous, Aidez-Vous !</string>
@@ -46,6 +52,13 @@
     <string name="immersive_recents_fullscreen">Plein-écran</string>
     <string name="immersive_recents_statusbar">Uniquement la barre d\'état</string>
     <string name="immersive_recents_navbar">Uniquement la barre de navigation</string>
+
+    <!-- Quick Settings brightness slider -->
+    <string name="qs_brightness_slider_title">Curseur de luminosité</string>
+    <string name="qs_brightness_slider_summary">Afficher le curseur de luminosité</string>
+
+    <string name="brightness_icon_title">Icône de luminosité</string>
+    <string name="brightness_icon_summary">Afficher l\'icône de luminosité à gauche du curseur de luminosité permettant d\'ajuster automatiquement la luminosité</string>
 
     <!-- Power Menu -->
     <string name="powermenu_lockscreen_title">Écran de déverrouillage</string>
@@ -151,6 +164,13 @@
     <string name="qs_set_animation_duration">%1$s</string>
     <string name="qs_set_animation_interpolator">%1$s</string>
 
+    <!-- Quick settings tiles columns and rows config -->
+    <string name="qs_layout_category">Disposition</string>
+    <string name="qs_rows_portrait_title">Lignes (portrait)</string>
+    <string name="qs_rows_landscape_title">Lignes (paysage)</string>
+    <string name="qs_columns_title">Colonnes</string>
+    <string name="sysui_qqs_count_title">Tuiles d\'aperçu</string>
+
     <!-- Option to show brightness bar in quick settings -->
     <string name="show_brightness">Afficher le curseur de luminosité</string>
 
@@ -183,8 +203,8 @@
 
     <!-- Quick Pulldown-->
     <string name="quick_pulldown_title">Déroulement rapide</string>
-    <string name="quick_pulldown_summary">Côté %1$s de la barre d\'état déroulée pour accéder aux Paramètres rapides</string>
-    <string name="quick_pulldown_summary_always">Toujours afficher les Paramètres rapides lorsque la barre d\'état est déroulée</string>
+    <string name="quick_pulldown_summary">Côté %1$s de la barre d\'état déroulée pour accéder au volet de Configuration rapide</string>
+    <string name="quick_pulldown_summary_always">Toujours afficher volet de Configuration rapide lorsque la barre d\'état est déroulée</string>
     <string name="quick_pulldown_off">Désactivé</string>
     <string name="quick_pulldown_left">gauche</string>
     <string name="quick_pulldown_right">droit</string>
@@ -232,5 +252,22 @@
     <string name="clock_date_format_custom">Personnalisée (format java)</string>
     <string name="default_string">Par défaut</string>
     <string name="reset">Réinitialiser</string>
+
+    <!-- Advanced data tile -->
+    <string name="qs_advanced_data_title">Tuile de données</string>
+    <string name="qs_advanced_data_summary">Activer ou désactiver les données mobiles</string>
+
+    <!-- Do not disturb switch in volume panel -->
+    <string name="tuner_full_zen_title">Ne pas déranger</string>
+    <string name="tuner_full_zen_summary">Afficher le commutateur \"Ne pas déranger\" dans le panneau de volume</string>
+
+    <!-- Breathing Notifications -->
+    <string name="breathing_notifications_title">Notifications clignotantes</string>
+    <string name="missed_call_breath_title">Appel manqué</string>
+    <string name="missed_call_breath_summary">Faire clignoter la notification d\'appel manqué, dans la barre d\'état</string>
+    <string name="voicemail_breath_title">Messagerie vocale</string>
+    <string name="voicemail_breath_summary">Faire clignoter la notification de la messagerie vocale, dans la barre d\'état</string>
+    <string name="sms_breath_title">SMS</string>
+    <string name="sms_breath_summary">Faire clignoter la notification de réception de nouveau SMS, dans la barre d\'état</string>
 
 </resources>
