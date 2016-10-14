@@ -79,6 +79,10 @@
     <string name="volume_steps_voice_call_title">Appel vocal</string>
     <string name="volume_steps_reset">Configuration d\'origine</string>
 
+    <!-- Scramble PIN Layout on Lockscreen -->
+    <string name="unlock_scramble_pin_layout_title">Disposition aléatoire</string>
+    <string name="unlock_scramble_pin_layout_summary">Changer l\'ordre des numéros du pavé numérique pour la saisie du code PIN de déverrouillage</string>
+
     <!-- Dashboard suggestions -->
     <string name="dashboard_category">Tableau de bord</string>
     <string name="dashboard_suggestions_title">Suggestions</string>
@@ -96,5 +100,76 @@
     <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
     <string name="supersu_title">SuperSU</string>
 
+    <!-- Wake on Plug -->
+    <string name="wake_when_plugged_or_unplugged_title">Réveiller au branchement</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Allumer l\'écran lorsque le chargeur est connecté ou déconnecté</string>
+
+    <!-- LED notifications -->
+    <string name="color_picker_dialog_title">Couleur</string>
+    <string name="omni_battery_light_settings">Voyant de batterie</string>
+    <string name="omni_notification_light_settings">Voyant de notification</string>
+    <string name="omni_leds">Voyants</string>
+    <string name="batterylight_title">Voyant de batterie</string>
+    <string name="battery_light_enable">Activé</string>
+    <string name="battery_low_pulse_title">Clignoter si batterie faible</string>
+    <string name="battery_light_list_title">Couleurs</string>
+    <string name="battery_light_low_color_title">Batterie faible</string>
+    <string name="battery_light_medium_color_title">Batterie en charge</string>
+    <string name="battery_light_full_color_title">Batterie chargée à 90%</string>
+    <string name="battery_light_really_full_color_title">Batterie chargée à 100%</string>
+    <string name="edit_battery_settings">Voyant de batterie</string>
+    <string name="notification_light_general_title">Général</string>
+    <string name="led_color_green">Vert</string>
+    <string name="led_color_red">Rouge</string>
+    <string name="led_color_blue">Bleu</string>
+    <string name="ok">OK</string>
+    <string name="advanced">Paramètres avancés</string>
+    <string name="profiles_add">Ajouter...</string>
+
+    <!-- Notification light dialogs -->
+    <string name="edit_light_settings">Paramètres du voyant</string>
+    <string name="pulse_speed_title">Durée et vitesse d\'impulsion</string>
+    <string name="default_time">Normale</string>
+    <string name="custom_time">Personnalisée</string>
+    <string name="dialog_delete_title">Supprimer</string>
+    <string name="dialog_delete_message">Voulez-vous supprimer l\'élément sélectionné\u00A0?</string>
+
+    <!-- Values for the notification light pulse spinners -->
+    <string name="pulse_length_always_on">Toujours allumée</string>
+    <string name="pulse_length_very_short">Très courte</string>
+    <string name="pulse_length_short">Courte</string>
+    <string name="pulse_length_normal">Normale</string>
+    <string name="pulse_length_long">Longue</string>
+    <string name="pulse_length_very_long">Très longue</string>
+    <string name="pulse_speed_very_fast">Très rapide</string>
+    <string name="pulse_speed_fast">Rapide</string>
+    <string name="pulse_speed_normal">Normale</string>
+    <string name="pulse_speed_slow">Lente</string>
+    <string name="pulse_speed_very_slow">Très lente</string>
+
+    <!-- Lights settings screen, notification light settings -->
+    <string name="notification_light_title">Voyant de notification</string>
+    <string name="notificationlight_title">Voyant de notification</string>
+    <string name="notification_light_applist_title">Applications</string>
+    <string name="notification_light_phonelist_title">Téléphone</string>
+    <string name="notification_light_use_custom">Couleurs spécifiques</string>
+    <string name="notification_light_default_value">Par défaut</string>
+    <string name="notification_light_missed_call_title">Appel manqué</string>
+    <string name="notification_light_voicemail_title">Messagerie vocale</string>
+    <string name="notification_light_screen_on">Activer sur écran allumé</string>
+    <string name="notification_light_zen_mode">Activer en mode Ne pas déranger</string>
+    <string name="notification_light_use_multiple_leds">Voyant multiple</string>
+    <string name="keywords_lights_brightness_level">Luminosité faible</string>
+    <string name="notification_light_automagic">Couleurs automatiques</string>
+
+    <!-- Lights settings, LED notification -->
+    <string name="led_notification_title">Voyant</string>
+    <string name="led_notification_text">Luminosité du voyant activé dans les paramètres</string>
+    <string name="notification_light_no_apps_summary">Pour ajouter une application, activer \"%1$s\" et appuyer sur \"\u002b\" de la barre de menu</string>
+    <string name="font_sample_text">11:57</string>
+
+    <!-- Add application dialog box title -->
+    <string name="profile_choose_app">Sélectionner une application</string>
+    <string name="reset">Configuration d\'origine</string>
 
 </resources>
