@@ -83,6 +83,14 @@
     <string name="advanced_reboot_hide_on_keyguard">Masquer sur l\'écran de déverrouillage</string>
     <string name="advanced_reboot_show_always">Toujours afficher</string>
 
+    <!-- Power menu Animations  -->
+    <string name="power_menu_animation_title">Animation du menu Marche/Arrêt</string>
+    <string name="power_menu_animation_summary">Modifier l\'animation d\'ouverture et de fermeture du menu Marche/Arrêt</string>
+    <string name="power_menu_animation_dialog_title">Animation du menu Marche/Arrêt</string>
+    <string name="power_menu_animation_aosp">AOSP (Par défaut)</string>
+    <string name="power_menu_animation_bottom">En bas</string>
+    <string name="power_menu_animation_top">En haut</string>
+
     <!-- Expanded desktop -->
     <string name="expanded_desktop_category">Bureau étendu</string>
     <string name="expanded_hide_nothing">Ne rien masquer</string>
@@ -169,7 +177,7 @@
     <string name="qs_rows_portrait_title">Lignes (portrait)</string>
     <string name="qs_rows_landscape_title">Lignes (paysage)</string>
     <string name="qs_columns_title">Colonnes</string>
-    <string name="sysui_qqs_count_title">Tuiles d\'aperçu</string>
+    <string name="sysui_qqs_count_title">Tuiles d\'en-tête</string>
 
     <!-- Option to show brightness bar in quick settings -->
     <string name="show_brightness">Afficher le curseur de luminosité</string>
@@ -271,7 +279,7 @@
     <!-- OmniSwitch Recents -->
     <string name="aosp_recents_title">AOSP</string>
     <string name="omniswitch_recents_title">OmniSwitch</string>
-    <string name="recents_use_omniswitch_title">Utiliser entant qu\'alternative des Applications récentes</string>
+    <string name="recents_use_omniswitch_title">Applications récentes</string>
     <string name="recents_use_omniswitch_summary">Utiliser OmniSwitch au lieu de la vue des applications récentes AOSP</string>
     <string name="omniswitch_start_settings_title">Paramètres OmniSwitch</string>
     <string name="omniswitch_start_settings_summary">Afficher les paramètres pour OmniSwitch</string>
