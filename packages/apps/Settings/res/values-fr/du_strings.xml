@@ -24,6 +24,11 @@
     <string name="mod_version">Version de DU</string>
     <string name="mod_version_default">Inconnue</string>
 
+    <!-- DU Changelog -->
+    <string name="duchangelog_title">Note de version</string>
+    <string name="duchangelog_summary">Consulter la liste des changements dans DU</string>
+    <string name="duchangelog_app_name">DU Changelog</string>
+
     <!-- https://android.googlesource.com/platform/packages/apps/Settings/+/android-6.0.1_r63/res/values-fr/strings.xml -->
     <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
     <string name="local_backup_password_title">Mot de passe sauvegarde PC</string>
@@ -53,10 +58,15 @@
     <!-- Used for diagnostic screens, precise translation is always necessary -->
     <string name="intent_sender_data_label"><xliff:g id="data">Données :</xliff:g></string>
 
+    <!-- Double tap to launch camera options -->
+    <string name="dt2l_camera_category">Double appui</string>
+    <string name="dt2l_camera_vib_title">Niveau de vibration</string>
+    <string name="dt2l_camera_vib_summary">Ajuster le niveau de vibration de l\'ouverture de l\'application Appareil photo</string>
+
     <!-- Improve AOSP Translations -->
     <string name="camera_double_tap_power_gesture_title">Bouton Marche/Arrêt</string>
     <string name="camera_double_tap_power_gesture_desc">Démarrer l\'appareil photo sans déverrouiller l\'écran par double appui sur le bouton Marche/Arrêt</string>
-    <string name="camera_gesture_desc">Ouvrir l\'application Appareil photo en faisant pivoter votre poignet deux fois.</string>
+    <string name="camera_gesture_desc">Ouvrir l\'application Appareil photo en faisant pivoter votre poignet deux fois</string>
 
     <!-- Display : Rotation -->
     <string name="display_rotation_title">Rotation</string>
@@ -106,9 +116,11 @@
 
     <!-- LED notifications -->
     <string name="color_picker_dialog_title">Couleur</string>
-    <string name="omni_battery_light_settings">Voyant de batterie</string>
-    <string name="omni_notification_light_settings">Voyant de notification</string>
-    <string name="omni_leds">Voyants</string>
+    <string name="battery_light_settings_title">Voyant de batterie</string>
+    <string name="battery_light_settings_summary">Paramétrer le voyant de charge de la batterie</string>
+    <string name="notification_light_settings_title">Voyant de notification</string>
+    <string name="notification_light_settings_summary">Paramétrer le voyant de notification</string>
+    <string name="ledsettings_category">Voyants</string>
     <string name="batterylight_title">Voyant de batterie</string>
     <string name="battery_light_enable">Activé</string>
     <string name="battery_low_pulse_title">Clignoter si batterie faible</string>
@@ -171,5 +183,10 @@
     <!-- Add application dialog box title -->
     <string name="profile_choose_app">Sélectionner une application</string>
     <string name="reset">Configuration d\'origine</string>
+
+    <!-- Linked / unlinked notification volume -->
+    <string name="link_volume_option_title">Lier les volumes des notifications et de la sonnerie</string>
+    <string name="ring_notification_volume_option_title">Volume de notifications et de sonnerie</string>
+
 
 </resources>
