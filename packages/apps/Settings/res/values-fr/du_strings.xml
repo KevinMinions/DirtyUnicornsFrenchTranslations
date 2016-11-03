@@ -26,8 +26,7 @@
 
     <!-- DU Changelog -->
     <string name="duchangelog_title">Note de version</string>
-    <string name="duchangelog_summary">Consulter la liste des changements dans DU</string>
-    <string name="duchangelog_app_name">DU Changelog</string>
+    <string name="duchangelog_summary">Consulter la liste des changements</string>
 
     <!-- https://android.googlesource.com/platform/packages/apps/Settings/+/android-6.0.1_r63/res/values-fr/strings.xml -->
     <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
