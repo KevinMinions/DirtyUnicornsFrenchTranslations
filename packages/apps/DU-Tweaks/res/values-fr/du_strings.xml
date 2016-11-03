@@ -38,6 +38,7 @@
     <string name="traffic_category">Indicateurs de trafic</string>
     <string name="breathing_notifications_category">Notifications clignotantes</string>
     <string name="omniswitch_category">OmniSwitch</string>
+    <string name="carrier_label_category">Libellé opérateur</string>
 
     <!-- Dialog -->
     <string name="dirtytweaks_dialog_title">Aidez-Nous, Aidez-Vous !</string>
@@ -209,6 +210,16 @@
     <string name="network_traffic_hidearrow">Masquer les flèches</string>
     <string name="network_traffic_hidearrow_summary">Masquer les flèches de l\'indicateur de trafic</string>
 
+    <!-- Custom Carrier Label -->
+    <string name="custom_carrier_label_title">Libellé</string>
+    <string name="custom_carrier_label_explain">Saisir un nouveau libellé. Laisser vide pour revenir au libellé d\'origine.</string>
+    <string name="custom_carrier_label_notset">Non défini</string>
+    <string name="show_carrier_title">Libellé opérateur</string>
+    <string name="show_carrier_disabled">Désactivé</string>
+    <string name="show_carrier_keyguard">Écran de déverrouillage</string>
+    <string name="show_carrier_statusbar">Barre d\'état</string>
+    <string name="show_carrier_enabled">Sur les deux</string>
+
     <!-- Quick Pulldown-->
     <string name="quick_pulldown_title">Déroulement rapide</string>
     <string name="quick_pulldown_summary">Côté %1$s de la barre d\'état déroulée pour accéder au volet de Configuration rapide</string>
@@ -231,6 +242,7 @@
     <string name="clock_disabled">Désactivé</string>
     <string name="status_bar_clock_style_reset">Réinitialiser la couleur</string>
     <string name="status_bar_show_clock_title">Afficher l\'heure et la date</string>
+    <string name="status_bar_clock_seconds_title">Afficher les secondes</string>
     <string name="status_bar_am_pm_title">AM/PM</string>
     <string name="status_bar_am_pm_info">L\'heure sur 24 heures est activée</string>
     <string name="enable_clock_weekday">Jour de la semaine</string>
@@ -248,16 +260,21 @@
     <string name="clock_date_string_edittext_summary">Saisir le code</string>
     <string name="clock_date_right">À droite de l\'heure</string>
     <string name="clock_date_left">À gauche de l\'heure</string>
+    <string name="clock_am_pm_date_normal">Normal</string>
+    <string name="clock_am_pm_date_small">Petit</string>
+    <string name="clock_am_pm_date_none">Masqué</string>
     <string name="am_pm_clock_normal">Police de taille normale</string>
     <string name="am_pm_clock_small">Police de petite taille</string>
     <string name="am_pm_clock_none">Masquer</string>
     <string name="clock_date_display_none">Masquer</string>
     <string name="clock_date_display_small">Police de petite taille</string>
     <string name="clock_date_display_normal">Police de taille normale</string>
-    <string name="clock_date_style_normal">Normale</string>
+    <string name="clock_date_style_normal">Normal</string>
     <string name="clock_date_style_lowercase">Minuscule</string>
     <string name="clock_date_style_uppercase">Majuscule</string>
     <string name="clock_date_format_custom">Personnalisée (format java)</string>
+    <string name="cancel">Annuler</string>
+    <string name="save">Enregistrer</string>
 
     <!-- Advanced data tile -->
     <string name="qs_advanced_data_title">Tuile de données</string>
@@ -358,7 +375,7 @@
     <string name="fling_trails_enable_title">Tracé des gestes</string>
     <string name="fling_trails_enable_summary">Afficher le tracé des gestes par glissement</string>
     <string name="fling_trails_color_title">Couleur du tracé</string>
-    <string name="fling_trails_width_title">Largeur du tracé</string>
+    <string name="fling_trails_width_title">Épaisseur du tracé</string>
     <string name="fling_appearance">Apparence</string>
     <string name="fling_show_logo_title">Afficher le logo de Fling</string>
     <string name="fling_animate_logo_title">Animer le logo</string>
@@ -437,5 +454,8 @@
     <string name="smartbar_config_backup_error_toast">Erreur lors de la sauvegarde du profil</string>
     <string name="smartbar_config_restore_error_toast">Erreur lors de la restauration du profil</string>
     <string name="navbar_buttons_alpha_title">Transparence des boutons</string>
+
+    <!-- Lockscreen Shortcuts -->
+    <string name="lockscreen_targets_title">Raccourcis du bas</string>
 
 </resources>
