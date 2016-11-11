@@ -51,4 +51,12 @@
 
     <!-- The tips of trimming video -->
     <string name="fail_trim">Découpe de la vidéo impossible</string>
+
+    <!-- Group by Tags tab on Action Bar. [CHAR LIMIT=12] -->
+    <string name="tags">Étiquettes</string>
+
+    <!-- Title of a menu item to group photo by tags [CHAR LIMIT=30]-->
+    <string name="group_by_tags">Par étiquette</string>
+    <!-- Message for first run dialog asking if the user wants to remember photo locations [CHAR LIMIT = None] -->
+    <string name="remember_location_prompt">Ajoutez des tags à vos photos et à vos vidéos pour identifier l\'endroit de la prise de vue.\n\nD\'autres applications peuvent accéder à ces informations, ainsi qu\'aux images enregistrées.</string>
 </resources>
