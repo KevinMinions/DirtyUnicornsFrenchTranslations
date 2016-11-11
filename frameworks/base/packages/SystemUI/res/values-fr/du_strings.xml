@@ -100,4 +100,8 @@
     <string name="lockscreen_choose_action_title">Raccourci</string>
     <string name="lockscreen_none_target">Aucun</string>
 
+    <!-- Screenshot action -->
+    <string name="screenshot_abort_title">Aucune capture d\'écran</string>
+    <string name="screenshot_abort_text">Opération annulée</string>
+
 </resources>
