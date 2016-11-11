@@ -122,6 +122,10 @@
     <string name="flashlight_notification_title">Lampe de poche</string>
     <string name="flashlight_notification_summary">Activer la notification lorsque la lampe de poche est en cours d\'utilisation</string>
 
+    <!-- Volume key controls media stream -->
+    <string name="volume_keys_control_media_stream_title">Flux audio \"Multi-média\"</string>
+    <string name="volume_keys_control_media_stream_summary">Utiliser les boutons Volume pour régler uniquement le flux audio \"Multi-média\"</string>
+
     <!-- Volume Key Rotation -->
     <string name="swap_volume_buttons_title">Réorienter</string>
     <string name="swap_volume_buttons_summary">En mode Paysage, inverser les boutons Volume</string>
@@ -457,5 +461,19 @@
 
     <!-- Lockscreen Shortcuts -->
     <string name="lockscreen_targets_title">Raccourcis du bas</string>
+
+    <!-- Optional screenshot type -->
+    <string name="screenshot_type_title">Type de capture d\'écran</string>
+    <string name="screenshot_type_fullscreen">Plein écran</string>
+    <string name="screenshot_type_partial">Partiel : Sélectionner la zone à capturer</string>
+
+    <!-- Screenshot delay -->
+    <string name="screenshot_options_category">Capture d\'écran</string>
+    <string name="screenshot_delay_title">Délai</string>
+    <string name="screenshot_delay_summary">Régler le délai avant la prise de capture d\'écran</string>
+
+    <!-- Quick Settings on lockscreen -->
+    <string name="lockscreen_qs_disabled_title">Désactiver Configuration rapide</string>
+    <string name="lockscreen_qs_disabled_summary">Désactiver les raccourcis et l\'accès au volet de Configuration rapide sur l\'écran de déverrouillage</string>
 
 </resources>
