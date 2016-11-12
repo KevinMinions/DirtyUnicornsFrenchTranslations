@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DU Updater</string>
+    <string name="drawer_open">Ouvrir</string>
+    <string name="drawer_close">Fermer</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="action_download">Télécharger</string>
+</resources>
