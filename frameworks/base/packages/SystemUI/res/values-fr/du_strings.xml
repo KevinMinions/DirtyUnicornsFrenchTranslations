@@ -49,6 +49,7 @@
 
     <!-- Quick Settings tiles -->
     <string name="quick_settings_screenshot_label">Capture d\'écran</string>
+    <string name="quick_settings_region_screenshot_label">Capture d\'écran partielle</string>
     <string name="quick_settings_adb_network">ADB par le réseau</string>
     <string name="quick_settings_network_adb_enabled_label">Activé</string>
     <string name="quick_settings_network_adb_disabled_label">Désactivé</string>
@@ -108,5 +109,7 @@
     <string name="bluetooth_battery_title">État de la batterie Bluetooth</string>
     <string name="bluetooth_battery_summary">Afficher l\'état de la batterie de l\'appareil Bluetooth connecté (si disponible)</string>
 
+    <!-- Android Auto 2.0x QS tile -->
+    <string name="quick_settings_androidauto_label">Android Auto</string>
 
 </resources>
