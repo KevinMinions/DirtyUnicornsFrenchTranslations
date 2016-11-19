@@ -131,7 +131,7 @@
     <string name="swap_volume_buttons_summary">En mode Paysage, inverser les boutons Volume</string>
 
     <!-- Volume rocker wake -->
-    <string name="volume_rocker_wake_title">Réveiller par bouton Volume</string>
+    <string name="volume_rocker_wake_title">Réveiller avec les boutons Volume</string>
     <string name="volume_rocker_wake_summary">Sortir l\'appareil de la veille en appuyant sur un des boutons Volume</string>
 
     <!-- Volume rocker music control -->
@@ -260,7 +260,7 @@
     <string name="clock_date_style">Style de la date</string>
     <string name="clock_date_position">Position de la date</string>
     <string name="clock_date_format">Format de la date</string>
-    <string name="clock_date_string_edittext_title">Doit être au format de date Java par ex : MM/dd/yy</string>
+    <string name="clock_date_string_edittext_title">Doit être au format de date Java \"DateFormat\" par ex : MM/dd/yy</string>
     <string name="clock_date_string_edittext_summary">Saisir le code</string>
     <string name="clock_date_right">À droite de l\'heure</string>
     <string name="clock_date_left">À gauche de l\'heure</string>
@@ -282,7 +282,7 @@
 
     <!-- Advanced data tile -->
     <string name="qs_advanced_data_title">Tuile de données</string>
-    <string name="qs_advanced_data_summary">Activer ou désactiver les données mobiles</string>
+    <string name="qs_advanced_data_summary">Activer ou désactiver les données mobiles  par appui sur la tuile</string>
 
     <!-- Do not disturb switch in volume panel -->
     <string name="tuner_full_zen_title">Ne pas déranger</string>
@@ -475,5 +475,18 @@
     <!-- Quick Settings on lockscreen -->
     <string name="lockscreen_qs_disabled_title">Désactiver Configuration rapide</string>
     <string name="lockscreen_qs_disabled_summary">Désactiver les raccourcis et l\'accès au volet de Configuration rapide sur l\'écran de déverrouillage</string>
+
+    <!-- Battery customizations -->
+    <string name="status_bar_battery_style_category">Batterie</string>
+    <string name="status_bar_battery_style_title">Style de la batterie</string>
+    <string name="status_bar_battery_style_icon_portrait">Icône portrait</string>
+    <string name="status_bar_battery_style_icon_landscape">Icône paysage</string>
+    <string name="status_bar_battery_style_circle">Cercle</string>
+    <string name="status_bar_battery_style_text">Texte</string>
+    <string name="status_bar_battery_style_hidden">Masqué</string>
+    <string name="status_bar_battery_percentage_title">Pourcentage</string>
+    <string name="status_bar_battery_percentage_default">Masqué</string>
+    <string name="status_bar_battery_percentage_text_inside">Dans l\'icône</string>
+    <string name="status_bar_battery_percentage_text_next">Après l\'icône</string>
 
 </resources>
