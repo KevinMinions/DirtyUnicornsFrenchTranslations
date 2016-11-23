@@ -38,7 +38,7 @@
     <string name="screenrecord_notif_error">Impossible d\'enregistrer l\'écran</string>
 
     <!-- Content description of the battery level icon for accessibility while the device is charging (not shown on the screen). [CHAR LIMIT=NONE] -->
-    <string name="accessibility_battery_level_charging">Batterie en charge, <xliff:g id="battery_percentage">%d</xliff:g> percent.</string>
+    <string name="accessibility_battery_level_charging">Batterie en charge, <xliff:g id="battery_percentage">%d</xliff:g> pourcent.</string>
 
     <!-- Screenshot Delete Toast -->
     <string name="delete_screenshot_toast">Capture d\'écran supprimée</string>
