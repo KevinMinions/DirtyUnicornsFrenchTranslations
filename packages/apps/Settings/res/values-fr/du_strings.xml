@@ -25,8 +25,17 @@
     <string name="mod_version_default">Inconnue</string>
 
     <!-- DU Changelog -->
-    <string name="duchangelog_title">Note de version</string>
+    <string name="duchangelog_title">Notes de version</string>
     <string name="duchangelog_summary">Consulter la liste des changements</string>
+    <string name="duchangelog_weeklies">Compilations hebdomadaires</string>
+    <string name="duchangelog_official">Compilations officielles</string>
+    <string name="warning_text">Les présentes notes de version sont des résumés. Pour plus de détails, rendez-vous sur notre Github ou notre Gerrit.</string>
+    <string name="weeklies">Hebdomadaires</string>
+    <string name="official">Officielles</string>
+    <string name="changelog_header_version"></string>
+    <string name="changelog_dialog_title">Avertissement</string>
+    <string name="changelog_dialog_message">Activer le Wi-Fi ou les données mobiles pour télécharger la note de version</string>
+    <string name="changelog_dialog_ok">OK</string>
 
     <!-- https://android.googlesource.com/platform/packages/apps/Settings/+/android-6.0.1_r63/res/values-fr/strings.xml -->
     <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
