@@ -114,9 +114,12 @@
     <string name="pref_scrollingcache_default_disable">Désactiver par défaut</string>
     <string name="pref_scrollingcache_force_disable">Forcer la désactivation</string>
 
-    <!-- QuickSettings haptic feedback -->
+    <!-- QS tiles category -->
     <string name="quick_settings_vibrate_title">Retour haptique</string>
     <string name="quick_settings_vibrate_summary">Vibrer lors des appuis sur les tuiles</string>
+    <string name="qs_tile_title_visibility_title">Titres</string>
+    <string name="qs_tile_title_visibility_summary_on">Les titres des tuiles du volet de Configuration rapide sont affichées</string>
+    <string name="qs_tile_title_visibility_summary_off">Les titres des tuiles du volet de Configuration rapide ne sont pas affichées</string>
 
     <!-- Flashlight notification -->
     <string name="flashlight_notification_title">Lampe de poche</string>
@@ -514,5 +517,10 @@
     <string name="force_charge_battery_text_title">Pourcentage de charge de la batterie</string>
     <string name="force_charge_battery_text_summary_on">Afficher le pourcentage de la batterie en dehors de l\'icône, lors de la charge</string>
     <string name="force_charge_battery_text_summary_off">Afficher le pourcentage de la batterie dans l\'icône, lors de la charge</string>
+    <string name="text_charging_symbol_title">Charging symbol near percentage text</string>
+    <string name="text_charging_symbol_dialog">Afficher un symbole à côté du texte de niveau de batterie, lors de la charge</string>
+    <string name="text_charging_symbol_default">Désactivé</string>
+    <string name="text_charging_symbol_flash">Éclair</string>
+    <string name="text_charging_symbol_tilde">Tilde</string>
 
 </resources>
