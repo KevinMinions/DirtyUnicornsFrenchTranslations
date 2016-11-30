@@ -517,8 +517,8 @@
     <string name="force_charge_battery_text_title">Pourcentage de charge de la batterie</string>
     <string name="force_charge_battery_text_summary_on">Afficher le pourcentage de la batterie en dehors de l\'icône, lors de la charge</string>
     <string name="force_charge_battery_text_summary_off">Afficher le pourcentage de la batterie dans l\'icône, lors de la charge</string>
-    <string name="text_charging_symbol_title">Charging symbol near percentage text</string>
-    <string name="text_charging_symbol_dialog">Afficher un symbole à côté du texte de niveau de batterie, lors de la charge</string>
+    <string name="text_charging_symbol_title">Icône d\'indication de charge</string>
+    <string name="text_charging_symbol_dialog">Icône d\'indication de charge</string>
     <string name="text_charging_symbol_default">Désactivé</string>
     <string name="text_charging_symbol_flash">Éclair</string>
     <string name="text_charging_symbol_tilde">Tilde</string>
