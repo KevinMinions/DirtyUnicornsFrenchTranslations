@@ -98,27 +98,10 @@ ifndef DU_BUILD_TYPE
     PLATFORM_VERSION_CODENAME := 100-%-FR
 endif
 
-# Build DU-Updater for only official, test and weeklies
-# ifeq ($(DU_BUILD_TYPE),OFFICIAL)
-    # PRODUCT_PACKAGES += \
-        # DU-Updater
-# endif
-# ifeq ($(DU_BUILD_TYPE),WEEKLIES)
-    # PRODUCT_PACKAGES += \
-        # DU-Updater
-# endif
-# ifeq ($(DU_BUILD_TYPE),TEST)
-    # PRODUCT_PACKAGES += \
-        # DU-Updater
-# endif
-
-# Use signing keys for only official and weeklies
-ifeq ($(DU_BUILD_TYPE),OFFICIAL)
-    PRODUCT_DEFAULT_DEV_CERTIFICATE := ../.keys/releasekey
-endif
-ifeq ($(DU_BUILD_TYPE),WEEKLIES)
-    PRODUCT_DEFAULT_DEV_CERTIFICATE := ../.keys/releasekey
-endif
+#Build DU-Updater only if DU_BUILD_TYPE isn't DIRTY-DEEDS
+ifneq ($(DU_BUILD_TYPE),DIRTY-DEEDS)
+PRODUCT_PACKAGES += \
+    DU-Updater
 
 # easy way to extend to add more packages
 -include vendor/extra/product.mk
