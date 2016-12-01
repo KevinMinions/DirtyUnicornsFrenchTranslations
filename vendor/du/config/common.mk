@@ -102,6 +102,7 @@ endif
 ifneq ($(DU_BUILD_TYPE),DIRTY-DEEDS)
 PRODUCT_PACKAGES += \
     DU-Updater
+endif
 
 # easy way to extend to add more packages
 -include vendor/extra/product.mk
