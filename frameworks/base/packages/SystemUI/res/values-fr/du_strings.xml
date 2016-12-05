@@ -78,7 +78,7 @@
 
     <!-- Show lte/4g switch -->
     <string name="show_lte_fourgee_title">Icône \"4G\"</string>
-    <string name="show_lte_fourgee_summary">Utiliser l\'icône \"4G\" dans la barre d\'état plutôt que \"LTE\"</string>
+    <string name="show_lte_fourgee_summary">Utiliser l\'icône \"4G\" plutôt que \"LTE\"</string>
     <string name="statusbar_tuner_category_title">Éléments de la barre d\'état à afficher</string>
 
     <!-- Navigation bar Tile -->
@@ -111,5 +111,10 @@
 
     <!-- Android Auto 2.0x QS tile -->
     <string name="quick_settings_androidauto_label">Android Auto</string>
+
+    <!-- Data/Wifi activity arrows -->
+    <string name="data_wifi_activity_arrows_title">Indicateurs d\'activité</string>
+    <string name="data_wifi_activity_arrows_summary_on">Afficher les flèches d\'activité pour les Données Mobiles et le Wi-Fi</string>
+    <string name="data_wifi_activity_arrows_summary_off">Masquer les flèches d\'activité pour les Données Mobiles et le Wi-Fi</string>
 
 </resources>
