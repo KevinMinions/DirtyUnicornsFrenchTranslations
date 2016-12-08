@@ -26,4 +26,5 @@ Copyright (C) 2016 The Android Open Source Project
         <item>Poulet</item>
         <item>Dessert</item>
     </string-array>
+    <string name="confirm_delete">Oublier %s ?</string>
 </resources>
