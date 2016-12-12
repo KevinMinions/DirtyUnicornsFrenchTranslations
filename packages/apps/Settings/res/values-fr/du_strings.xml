@@ -197,5 +197,13 @@
     <string name="link_volume_option_title">Lier les volumes des notifications et de la sonnerie</string>
     <string name="ring_notification_volume_option_title">Volume de notifications et de sonnerie</string>
 
+    <!-- Themes -->
+    <string name="themes_title">Thèmes</string>
+    <string name="themes_dashboard_summary">Gestion des thèmes</string>
+
+    <!-- Manage applications: show substratum overlays -->
+    <string name="filter_substratum_apps">Surcouches Substratum</string>
+    <string name="menu_show_substratum">Afficher les surcouches</string>
+    <string name="menu_hide_substratum">Masquer les surcouches</string>
 
 </resources>
