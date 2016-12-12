@@ -185,7 +185,7 @@
     <string name="qs_rows_portrait_title">Lignes (portrait)</string>
     <string name="qs_rows_landscape_title">Lignes (paysage)</string>
     <string name="qs_columns_title">Colonnes</string>
-    <string name="sysui_qqs_count_title">Tuiles d\'en-tête</string>
+    <string name="qs_small_tiles_title">Tuiles d\'en-tête</string>
 
     <!-- Option to show brightness bar in quick settings -->
     <string name="show_brightness">Afficher le curseur de luminosité</string>
