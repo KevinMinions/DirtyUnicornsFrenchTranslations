@@ -46,6 +46,7 @@
     <!-- SystemUI Tuner Parts -->
     <string name="systemui_tuner_statusbar_title">Éléments de la barre d\'état</string>
     <string name="systemui_tuner_nightmode_title">Mode Nuit</string>
+    <string name="systemui_tuner_pnc_title">Notification d\'alimentation</string>
 
     <!-- Quick Settings tiles -->
     <string name="quick_settings_screenshot_label">Capture d\'écran</string>
