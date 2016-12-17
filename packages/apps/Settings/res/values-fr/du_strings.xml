@@ -74,7 +74,6 @@
     <!-- Improve AOSP Translations -->
     <string name="camera_double_tap_power_gesture_title">Bouton Marche/Arrêt</string>
     <string name="camera_double_tap_power_gesture_desc">Démarrer l\'appareil photo sans déverrouiller l\'écran par double appui sur le bouton Marche/Arrêt</string>
-    <string name="double_twist_for_camera_mode_title">Activation du mode Autoportrait</string>
     <string name="camera_gesture_desc">Ouvrir l\'application Appareil photo en faisant pivoter votre poignet deux fois</string>
 
     <!-- Display : Rotation -->
@@ -89,6 +88,7 @@
 
     <!-- Gesture Settings -->
     <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_title">Activation du mode Autoportrait</string>
     <string name="double_twist_for_camera_mode_custom_summary">Dans l\'application \"Appareil photo Google\", pivoter rapidement dans les deux sens, pour basculer entre le mode \"Autoportrait\" et le mode normal</string>
 
     <!-- Volume Steps -->
