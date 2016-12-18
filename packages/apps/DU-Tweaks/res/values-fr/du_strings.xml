@@ -77,9 +77,9 @@
     <string name="powermenu_dialog_dim">Transparence de l\'arrière-plan</string>
 
     <!-- Advanced reboot options -->
-    <string name="advanced_reboot_title">Redémarrage avancé</string>
+    <string name="advanced_reboot_title">Redémarrage perfectionné</string>
     <string name="advanced_reboot_summary">Ajoute les options dans le menu Menu Marche/Arrêt pour redémarrer dans le recovery et le bootloader</string>
-    <string name="advanced_reboot_dialog_title">Menu de redémarrage avancé</string>
+    <string name="advanced_reboot_dialog_title">Menu de redémarrage perfectionné</string>
     <string name="advanced_reboot_disabled">Désactiver</string>
     <string name="advanced_reboot_hide_on_keyguard">Masquer sur l\'écran de déverrouillage</string>
     <string name="advanced_reboot_show_always">Toujours afficher</string>
@@ -331,7 +331,7 @@
     <string name="navbar_visibility">Activer la barre de navigation</string>
     <string name="navigationbar_settings_title">Barre de navigation</string>
     <string name="navigationbar_settings_summary">Style et comportement de la barre de navigation</string>
-    <string name="navbar_general_title">Options avancées</string>
+    <string name="navbar_general_title">Options perfectionnées</string>
     <string name="navigation_bar_left_title">Mode gaucher</string>
     <string name="navigation_bar_left_summary">En mode paysage, afficher la barre de navigation à gauche</string>
     <string name="info_pref_note_title">Note</string>
@@ -399,7 +399,7 @@
     <string name="up_swipe_title">Glissement vers le haut</string>
     <string name="down_swipe_title">Glissement vers le bas</string>
     <string name="long_swipe_reset">Configuration d\'origine</string>
-    <string name="fling_advanced">Options avancées</string>
+    <string name="fling_advanced">Options perfectionnées</string>
     <string name="fling_long_swipe_title">Seuil du glissement prolongé</string>
     <string name="fling_long_swipe_summary">Définir la zone de déclenchement selon un pourcentage de la hauteur ou de la largeur</string>
     <string name="fling_trails_enable_title">Tracé des gestes</string>
@@ -435,7 +435,7 @@
     <string name="fling_pulse_color">Couleur de Pulse</string>
     <string name="eos_fling_lavalamp_title">Lampe Lava</string>
     <string name="eos_fling_lavalamp_summary">Pulse anime la lampe Lava</string>
-    <string name="pulse_advanced_category">Options avancées</string>
+    <string name="pulse_advanced_category">Options perfectionnées</string>
     <string name="pulse_legacy_mode_advanced_category">Fondu des blocs</string>
     <string name="pulse_custom_fudge_factor">Fréquence de Pulse</string>
     <string name="lavamp_solid_speed_title">Vitesse de la lampe Lava</string>
@@ -526,5 +526,14 @@
     <string name="text_charging_symbol_default">Désactivé</string>
     <string name="text_charging_symbol_flash">Éclair</string>
     <string name="text_charging_symbol_tilde">Tilde</string>
+
+    <!-- Advanced night mode tile -->
+    <string name="qs_night_brightness_toggle_title">Éclairage nocturne perfectionné</string>
+    <string name="qs_night_brightness_toggle_summary">Régler automatiquement sur le niveau de luminosité sur \"Luminosité faible\" lors d\'un appui sur la tuile \"Éclairage nocturne\". La désactivation de \"Éclairage nocturne\" restaure la valeur précédente.</string>
+    <string name="qs_night_brightness_value_title">Niveau de luminosité</string>
+    <string name="qs_night_brightness_value_dialog">Niveau de luminosité</string>
+    <string name="qs_night_bright_less">Luminosité faible</string>
+    <string name="qs_night_bright_medium">Luminosité moyenne</string>
+    <string name="qs_night_bright_min">Luminosité minimale</string>
 
 </resources>
