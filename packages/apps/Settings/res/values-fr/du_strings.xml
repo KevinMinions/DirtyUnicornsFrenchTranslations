@@ -149,7 +149,7 @@
     <string name="led_color_red">Rouge</string>
     <string name="led_color_blue">Bleu</string>
     <string name="ok">OK</string>
-    <string name="advanced">Paramètres avancés</string>
+    <string name="advanced">Paramètres perfectionnés</string>
     <string name="profiles_add">Ajouter...</string>
 
     <!-- Notification light dialogs -->
