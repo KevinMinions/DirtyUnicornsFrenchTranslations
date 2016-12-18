@@ -146,7 +146,7 @@
     <string name="status_bar_notif_count_summary">Afficher le nombre de notifications en attente</string>
 
     <!-- Power notification controls -->
-    <string name="power_notification_controls_title">Notification d\'alimentation</string>
+    <string name="power_notification_controls_title">Gestion des notifications</string>
     <string name="power_notification_controls_summary">Sélectionner le niveau d\'importance des notifications</string>
 
     <!-- Force expanded notifications -->
