@@ -211,4 +211,14 @@
     <string name="menu_show_substratum">Afficher les surcouches</string>
     <string name="menu_hide_substratum">Masquer les surcouches</string>
 
+    <!-- Advanced night mode tile -->
+    <string name="night_display_category_advanced">Perfectionné</string>
+    <string name="qs_night_brightness_toggle_summary">Régler automatiquement le niveau de luminosité sur \"Luminosité faible\" lorsque \"Éclairage nocturne\" est activé.</string>
+    <string name="qs_night_bright_disabled">Ne pas modifier la luminosité</string>
+    <string name="qs_night_brightness_value_title">Niveau de luminosité</string>
+    <string name="qs_night_brightness_value_dialog">Niveau de luminosité</string>
+    <string name="qs_night_bright_less">Niveau de luminosité faible</string>
+    <string name="qs_night_bright_medium">Luminosité moyenne</string>
+    <string name="qs_night_bright_min">Luminosité minimale</string>
+
 </resources>
