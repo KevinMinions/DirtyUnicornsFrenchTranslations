@@ -527,13 +527,4 @@
     <string name="text_charging_symbol_flash">Éclair</string>
     <string name="text_charging_symbol_tilde">Tilde</string>
 
-    <!-- Advanced night mode tile -->
-    <string name="qs_night_brightness_toggle_title">Éclairage nocturne perfectionné</string>
-    <string name="qs_night_brightness_toggle_summary">Régler automatiquement le niveau de luminosité sur \"Luminosité faible\" lors d\'un appui sur la tuile \"Éclairage nocturne\". La désactivation de \"Éclairage nocturne\" restaure la valeur précédente.</string>
-    <string name="qs_night_brightness_value_title">Niveau de luminosité</string>
-    <string name="qs_night_brightness_value_dialog">Niveau de luminosité</string>
-    <string name="qs_night_bright_less">Luminosité faible</string>
-    <string name="qs_night_bright_medium">Luminosité moyenne</string>
-    <string name="qs_night_bright_min">Luminosité minimale</string>
-
 </resources>
