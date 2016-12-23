@@ -221,4 +221,7 @@
     <string name="qs_night_bright_medium">Luminosité moyenne</string>
     <string name="qs_night_bright_min">Luminosité minimale</string>
 
+    <!-- Hotspot idle -->
+    <string name="wifi_hotspot_mode_title">Veille du point d\'accès Wi-Fi</string>
+
 </resources>
