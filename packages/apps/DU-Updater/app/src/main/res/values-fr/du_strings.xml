@@ -4,7 +4,14 @@
     <string name="drawer_close">Fermer</string>
     <string name="action_settings">Paramètres</string>
     <string name="action_download">Télécharger</string>
-    <string name="cancel">Cancel</string>
+    <string name="cancel">Annuler</string>
+    <string name="hide_app_icon">Masquer l\'application</string>
+
+    <!-- Shortcuts -->
+    <string name="shortcuts_weeklies">Hebdomadaires</string>
+    <string name="shortcuts_rc">RC</string>
+    <string name="shortcuts_dynamic_gapps">Dynamic GApps</string>
+    <string name="shortcuts_tbo_gapps">TBO GApps</string>
 
     <!-- Snackbar messages -->
     <string name="no_internet_snackbar">Connexion à Internet nécessaire pour utiliser \"DU Updater\"</string>
@@ -25,7 +32,7 @@
 
     <!-- Nav drawer items -->
     <string name="navdrawer_official">Officielles</string>
-    <string name="navdrawer_test">Test</string>
+    <string name="navdrawer_rc">RC</string>
     <string name="navdrawer_weeklies">Hebdomadaires</string>
     <string name="navdrawer_dynamic_gapps">Dynamic GApps</string>
     <string name="navdrawer_tbo_gapps">TBO GApps</string>
