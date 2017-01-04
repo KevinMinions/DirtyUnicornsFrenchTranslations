@@ -6,6 +6,21 @@
     <string name="action_download">Télécharger</string>
     <string name="cancel">Annuler</string>
     <string name="hide_app_icon">Masquer l\'application</string>
+    <string name="settings">Paramètres</string>
+
+    <!-- Collapsing toolbar titles -->
+    <string name="official">DU Updater - Officielles</string>
+    <string name="weeklies">DU Updater - Hebdomadaires</string>
+    <string name="rc">DU Updater - RC</string>
+    <string name="dynamic_gapps">DU Updater - Dynamic GApps</string>
+    <string name="tbo_gapps">DU Updater - TBO GApps</string>
+    <string name="settings_alt">DU Updater - Paramètres</string>
+
+    <!-- Theme strings -->
+    <string name="theme_options">Options du thème</string>
+    <string name="pref_navbar_tint_title">Barre de navigation teintée</string>
+    <string name="enable_navbar_tint_summary">Activer la barre de navigation teintée</string>
+    <string name="disable_navbar_tint_summary">Désactiver la barre de navigation teintée</string>
 
     <!-- Shortcuts -->
     <string name="shortcuts_weeklies">Hebdomadaires</string>
@@ -36,4 +51,8 @@
     <string name="navdrawer_weeklies">Hebdomadaires</string>
     <string name="navdrawer_dynamic_gapps">Dynamic GApps</string>
     <string name="navdrawer_tbo_gapps">TBO GApps</string>
+
+    <!--Card String-->
+    <string name="card_file_size">Taille du fichier : %1$s</string>
+    <string name="card_file_md5">Fichier MD5 : %1$s</string>
 </resources>
