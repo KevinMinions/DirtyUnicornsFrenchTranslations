@@ -53,6 +53,6 @@
     <string name="navdrawer_tbo_gapps">TBO GApps</string>
 
     <!--Card String-->
-    <string name="card_file_size">Taille du fichier : %1$s</string>
-    <string name="card_file_md5">Fichier MD5 : %1$s</string>
+    <string name="card_file_size">Taille du fichier : %1$s </string>
+    <string name="card_file_md5">Fichier MD5 : %1$s </string>
 </resources>
