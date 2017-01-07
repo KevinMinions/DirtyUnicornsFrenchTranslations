@@ -220,9 +220,9 @@
     <string name="night_brightness_value_title">Éclairage nocturne</string>
     <string name="night_brightness_text">Définir le niveau de luminosité appliqué lorsque \"Éclairage nocturne\" est activé. (Valeur par défaut : \"Luminosité faible\")</string>
     <string name="night_bright_disabled">Désactivé</string>
-    <string name="night_bright_low">luminosité faible</string>
-    <string name="night_bright_medium">luminosité moyenne</string>
-    <string name="night_bright_min">luminosité minimale</string>
+    <string name="night_bright_low">Luminosité faible</string>
+    <string name="night_bright_medium">Luminosité moyenne</string>
+    <string name="night_bright_min">Luminosité minimale</string>
 
     <!-- Hotspot idle -->
     <string name="wifi_hotspot_mode_title">Veille du point d\'accès Wi-Fi</string>
