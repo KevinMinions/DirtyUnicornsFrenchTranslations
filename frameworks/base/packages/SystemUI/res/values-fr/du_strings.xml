@@ -88,6 +88,11 @@
     <string name="quick_settings_smartbar_off">SmartBar désactivée</string>
     <string name="quick_settings_fling">Fling</string>
     <string name="quick_settings_fling_off">Fling désactivé</string>
+    <string name="quick_settings_heads_up_label">Notifications flottantes</string>
+    <string name="accessibility_quick_settings_heads_up_off">Notifications flottantes désactivées</string>
+    <string name="accessibility_quick_settings_heads_up_on">Notifications flottantes activées</string>
+    <string name="accessibility_quick_settings_heads_up_changed_off">Notifications flottantes désactivées</string>
+    <string name="accessibility_quick_settings_heads_up_changed_on">Notifications flottantes activées</string>
 
     <!-- DU Logo -->
     <string name="status_bar_du_logo_title">DU logo</string>
