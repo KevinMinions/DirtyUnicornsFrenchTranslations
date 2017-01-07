@@ -39,9 +39,9 @@
     <string name="major_version_text">disponible pour téléchargement</string>
     <string name="minor_version_text">Une mise à jour</string>
     <string name="build_date_text">Une nouvelle version de DU est disponible au téléchargement</string>
-    <string name="download_cancelled">Télécharger annulé</string>
+    <string name="download_cancelled">Téléchargement annulé</string>
     <string name="du_download">Téléchargement DU</string>
-    <string name="download_happy">Télécharger terminé. Bonne installation !</string>
+    <string name="download_happy">Téléchargement terminé. Bonne installation !</string>
     <string name="complete">Complet</string>
     <string name="download_failed">Échec du téléchargement</string>
 
