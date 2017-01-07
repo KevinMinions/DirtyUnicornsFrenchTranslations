@@ -9,12 +9,12 @@
     <string name="settings">Paramètres</string>
 
     <!-- Collapsing toolbar titles -->
-    <string name="official">DU Updater - Officielles</string>
-    <string name="weeklies">DU Updater - Hebdomadaires</string>
-    <string name="rc">DU Updater - RC</string>
-    <string name="dynamic_gapps">DU Updater - Dynamic GApps</string>
-    <string name="tbo_gapps">DU Updater - TBO GApps</string>
-    <string name="settings_alt">DU Updater - Paramètres</string>
+    <string name="official">Officielles</string>
+    <string name="weeklies">Hebdomadaires</string>
+    <string name="rc">RC</string>
+    <string name="dynamic_gapps">Dynamic GApps</string>
+    <string name="tbo_gapps">TBO GApps</string>
+    <string name="settings_alt">Paramètres</string>
 
     <!-- Theme strings -->
     <string name="theme_options">Options du thème</string>
