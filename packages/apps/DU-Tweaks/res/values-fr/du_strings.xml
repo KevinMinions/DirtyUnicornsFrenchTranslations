@@ -290,7 +290,7 @@
     <!-- Advanced data tile -->
     <string name="qs_tiles_category">Options des tuiles</string>
     <string name="qs_advanced_data_title">Tuile de données</string>
-    <string name="qs_advanced_data_summary">Activer ou désactiver les données mobiles  par appui sur la tuile</string>
+    <string name="qs_advanced_data_summary">Activer ou désactiver les données mobiles par appui sur la tuile</string>
     <string name="qs_music_tile_track_optional_title">Titre de la chanson</string>
     <string name="qs_music_tile_track_optional_summary">Afficher le titre de la chanson sur la description de la tuile</string>
 
@@ -411,7 +411,7 @@
     <string name="fling_animate_logo_title">Animer le logo</string>
     <string name="fling_animate_logo_summary">Le logo s\'anime lors des appuis</string>
     <string name="fling_logo_color">Couleur du logo</string>
-    <string name="fling_logo_custom_logo_pick_title">Définir l\'icône du logo (pack d\'icônes)</string>
+    <string name="fling_logo_custom_logo_pick_title">Définir l\'icône du logo (paquet d\'icônes)</string>
     <string name="fling_logo_custom_logo_image_pick_title">Définir l\'icône du logo (image personnalisée)</string>
     <string name="fling_logo_custom_logo_reset_title">Réinitialiser l\'icône du logo</string>
     <string name="fling_show_ripple_title">Ondulation</string>
@@ -423,7 +423,7 @@
     <string name="fling_longpress_summary">Augmenter ou diminuer délai d\'appui prolongé</string>
 
     <!-- Pulse navigation bar music visualizer -->
-    <string name="pulse_help_policy_notice_title">À propos Pulse</string>
+    <string name="pulse_help_policy_notice_title">À propos de Pulse</string>
     <string name="pulse_help_policy_notice_summary">Pulse est une barre de visualisation à l\'aspect d\'un égaliseur audio qui s\'affiche sur la barre de navigation lors de l\'écoute de musique. Pulse ne fonctionne pas avec certaines sources audio lors de l\'écoute de musique sur le(s) haut-parleur(s) de l\'appareil.</string>
     <string name="pulse_settings">Pulse</string>
     <string name="pulse_settings_summary">Égaliseur audio sur la barre de navigation</string>
@@ -526,5 +526,17 @@
     <string name="text_charging_symbol_default">Désactivé</string>
     <string name="text_charging_symbol_flash">Éclair</string>
     <string name="text_charging_symbol_tilde">Tilde</string>
+
+    <!-- Clear-All recents FAB -->
+    <string name="show_clear_all_recents_button_title">Bouton de fermeture rapide</string>
+    <string name="show_clear_all_recents_button_summary_on">Afficher le bouton de fermeture rapide des applications dans la fenêtre des applications récentes</string>
+    <string name="show_clear_all_recents_button_summary_off">Afficher la mention \"TOUT EFFACER\" (AOSP)</string>
+    <string name="recents_clear_all_location_title">Position du bouton de fermeture rapide</string>
+    <string name="recents_clear_all_location_top_right">En haut à droite</string>
+    <string name="recents_clear_all_location_top_left">En haut à gauche</string>
+    <string name="recents_clear_all_location_top_center">En haut au milieu</string>
+    <string name="recents_clear_all_location_bottom_right">En bas à droite</string>
+    <string name="recents_clear_all_location_bottom_left">En bas à gauche</string>
+    <string name="recents_clear_all_location_bottom_center">En bas au milieu</string>
 
 </resources>
