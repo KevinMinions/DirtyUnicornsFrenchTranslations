@@ -530,7 +530,7 @@
     <!-- Clear-All recents FAB -->
     <string name="show_clear_all_recents_button_title">Bouton de fermeture rapide</string>
     <string name="show_clear_all_recents_button_summary_on">Afficher le bouton de fermeture rapide des applications dans la fenêtre des applications récentes</string>
-    <string name="show_clear_all_recents_button_summary_off">Afficher la mention \"TOUT EFFACER\" (AOSP)</string>
+    <string name="show_clear_all_recents_button_summary_off">Afficher la mention \"TOUT EFFACER\" (AOSP) dans la fenêtre des applications récentes</string>
     <string name="recents_clear_all_location_title">Position du bouton de fermeture rapide</string>
     <string name="recents_clear_all_location_top_right">En haut à droite</string>
     <string name="recents_clear_all_location_top_left">En haut à gauche</string>
