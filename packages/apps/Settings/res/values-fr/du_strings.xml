@@ -121,7 +121,7 @@
   <string name="profiles_add">Ajouter...</string>
   <!-- Camera shutter sound -->
   <string name="camera_sounds_title">Son de l\'appareil photo</string>
-  <string name="camera_sounds_summary">La désactivation pourrait ne pas fonctionner avec les applications \"Appareil photo\" tierces en mode HDR+</string>
+  <string name="camera_sounds_summary">Note : Certaines applications \"Appareil photo\" tierces outrepassent ce blocage, en mode HDR+</string>
   <!-- Notification light dialogs -->
   <string name="edit_light_settings">Paramètres du voyant</string>
   <string name="pulse_speed_title">Durée et vitesse d\'impulsion</string>
