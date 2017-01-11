@@ -188,4 +188,5 @@
     <string name="build_date">Date de compilation</string>
     <string name="build_date_default">2012-01-01-0000</string>
     <string name="double_twist_for_camera_mode_title">Activation du mode Autoportrait</string>
+    <string name="security_patch_custom">Niveau du correctif de sécurité Android</string>
 </resources>
