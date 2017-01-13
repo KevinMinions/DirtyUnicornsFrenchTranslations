@@ -2,7 +2,7 @@
 <changelog bulletedList="true">
 
     <changelogversion versionName="" changeDate="6 Janvier 2017">
-            <changelogtext>Update to android-7.1.1_r13 / January 5th security updates</changelogtext>
+            <changelogtext>Montée d'Android en version 7.1.1_r13 / Correctif de sécurité Android du 5 Janvier 2017</changelogtext>
             <changelogtext>Add Settings fragment to DU Updater</changelogtext>
             <changelogtext>Code style fixes in DU Updater</changelogtext>
             <changelogtext>Expose color for external settings icons in Settings</changelogtext>
@@ -42,7 +42,7 @@
     </changelogversion>
 
     <changelogversion versionName="" changeDate="23 Décembre 2016">
-            <changelogtext>Nothing to see here for now</changelogtext>
+            <changelogtext>Rien à voir ici pour le moment</changelogtext>
     </changelogversion>
 
 </changelog>
