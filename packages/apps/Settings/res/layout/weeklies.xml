@@ -3,10 +3,10 @@
 
     <changelogversion versionName="" changeDate="6 Janvier 2017">
             <changelogtext>Montée d'Android en version 7.1.1_r13 / Correctif de sécurité Android du 5 Janvier 2017</changelogtext>
-            <changelogtext>Add Settings fragment to DU Updater</changelogtext>
-            <changelogtext>Code style fixes in DU Updater</changelogtext>
-            <changelogtext>Expose color for external settings icons in Settings</changelogtext>
-            <changelogtext>Menu improvements to Night light auto brightness</changelogtext>
+            <changelogtext>Ajout des Paramètres dans DU Updater</changelogtext>
+            <changelogtext>Corrections du code de DU Updater</changelogtext>
+            <changelogtext>Exposition des couleurs des icônes de paramètres externes dans Paramètres</changelogtext>
+            <changelogtext>Améliorations du mode Éclairage nocturne</changelogtext>
             <changelogtext>Add titles in DU Updater to each fragment/shortcut</changelogtext>
             <changelogtext>Expose QS battery for themers</changelogtext>
             <changelogtext>Fix NPE on boot with DU Updater</changelogtext>
