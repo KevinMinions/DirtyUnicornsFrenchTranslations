@@ -92,7 +92,7 @@
   <string name="bluetooth_accept_all_files">Accepter tous les types de fichiers</string>
   <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
   <string name="supersu_title">SuperSU</string>
-  <string name="supersu_dashboard_summary">Gérer les accès \"Root\"</string>
+  <string name="supersu_dashboard_summary">Gérez les accès \"Root\"</string>
   <!-- Wake on Plug -->
   <string name="wake_when_plugged_or_unplugged_title">Réveiller au branchement</string>
   <string name="wake_when_plugged_or_unplugged_summary">Allumer l\'écran lorsque le chargeur est connecté ou déconnecté</string>
@@ -189,4 +189,12 @@
     <string name="build_date_default">2012-01-01-0000</string>
     <string name="double_twist_for_camera_mode_title">Activation du mode Autoportrait</string>
     <string name="security_patch_custom">Niveau du correctif de sécurité Android</string>
+
+    <!-- double tap statusbar to sleep -->
+    <string name="double_tap_to_sleep_title">Veille par double appui</string>
+    <string name="double_tap_to_sleep_summary">Mise en veille de l\'appareil par double appui sur la barre d\'état</string>
+
+    <!-- Lockscreen double tap to sleep -->
+    <string name="double_tap_sleep_anywhere_title">Veille par double appui</string>
+    <string name="double_tap_sleep_anywhere_summary">Mise en veille de l\'appareil par double appui sur l\'écran de déverrouillage</string>
 </resources>
