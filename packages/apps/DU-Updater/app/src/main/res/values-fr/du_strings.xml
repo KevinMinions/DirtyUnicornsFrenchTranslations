@@ -15,6 +15,7 @@
     <string name="dynamic_gapps">Dynamic GApps</string>
     <string name="tbo_gapps">TBO GApps</string>
     <string name="settings_alt">Paramètres</string>
+    <string name="qs_tile_name">MAJ</string>
 
     <!-- Theme strings -->
     <string name="theme_options">Options du thème</string>
