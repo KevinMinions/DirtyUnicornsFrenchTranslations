@@ -168,6 +168,20 @@
   <!-- Add application dialog box title -->
   <string name="profile_choose_app">Sélectionner une application</string>
   <string name="reset">Configuration d\'origine</string>
+
+    <!-- Less Notification sounds -->
+    <string name="less_notification_sounds_title">Limiter les notifications sonores</string>
+    <string name="less_notification_sounds_summary">Restreindre le nombre de notification sonore pour chaque application à une fois par période définie</string>
+    <string name="less_notification_sounds_default">Comportement par défaut</string>
+    <string name="less_notification_sounds_3s">3 secondes</string>
+    <string name="less_notification_sounds_5s">5 secondes</string>
+    <string name="less_notification_sounds_10s">10 secondes</string>
+    <string name="less_notification_sounds_15s">15 secondes</string>
+    <string name="less_notification_sounds_30s">30 secondes</string>
+    <string name="less_notification_sounds_45s">45 secondes</string>
+    <string name="less_notification_sounds_1m">1 minute</string>
+    <string name="less_notification_sounds_2m">2 minutes</string>
+    <string name="less_notification_sounds_5m">5 minutes</string>
   <!-- Linked / unlinked notification volume -->
   <string name="link_volume_option_title">Lier les volumes des notifications et de la sonnerie</string>
   <string name="notification_volume_option_title">Volume des notifications</string>
@@ -202,4 +216,15 @@
 
     <!-- Title text for double twist for camera mode [CHAR LIMIT=60]-->
     <string name="double_twist_for_camera_mode_title">Changer d\'appareil photo</string>
+
+    <!-- Dashboard columns -->
+    <string name="dashboard_columns_title">Nombre de colonnes</string>
+    <string name="dashboard_columns_summary">Définir le nombre de colonnes du tableau de bord</string>
+    <string name="dashboard_columns_dialog_title">Nombre de colonnes</string>
+    <string name="dashboard_columns_default">Une (Deux, en mode paysage)</string>
+    <string name="dashboard_columns_two">Deux (Trois, en mode paysage)</string>
+    <string name="dashboard_columns_three">Trois (Quatre, en mode paysage)</string>
+    <string name="dashboard_summary_double_lines_title">Nombre de lignes</string>
+    <string name="dashboard_summary_double_lines_summary_on">Afficher les intitulés du tableau de bord sur plus d\'une ligne</string>
+    <string name="dashboard_summary_double_lines_summary_off">Afficher les intitulés du tableau de bord sur une ligne</string>
 </resources>
