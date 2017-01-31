@@ -220,4 +220,103 @@
 
     <!-- Title text for double twist for camera mode [CHAR LIMIT=60]-->
     <string name="double_twist_for_camera_mode_title">Changer d\'appareil photo</string>
+
+    <!-- Ex String.xml-->
+
+    <!-- Video calling provisioning flag on. Only shown in diagnostic screen, so precise translation is not needed. -->
+    <string name="vt_provisioned_switch_string">Appel vidéo géré</string>
+
+    <!-- Wifi Calling provisioning flag on. Only shown in diagnostic screen, so precise translation is not needed. -->
+    <string name="wfc_provisioned_switch_string">Appel Wi-Fi géré</string>
+    <!-- Introduction title shown in fingerprint enrollment to introduce the fingerprint feature, when fingerprint unlock is disabed by device admin [CHAR LIMIT=29] -->
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Utiliser votre empreinte digitale</string>
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">Il vous suffit d\'appuyer sur le lecteur d\'empreinte digitale pour autoriser les achats ou vous connecter aux applications. Toutes les personnes dont les empreintes digitales sont ajoutées peuvent effectuer ces opérations. Choisissez donc ces personnes avec soin.\n\nRemarque : vous ne pouvez pas utiliser votre empreinte digitale pour déverrouiller cet appareil. Pour plus d\'informations, contactez l\'administrateur de votre organisation.</string>
+    <!-- Introduction detail message shown in fingerprint enrollment screen in setup wizard. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_setup">Il vous suffit d\'appuyer sur le lecteur d\'empreintes digitales pour déverrouiller votre téléphone, autoriser des achats ou vous connecter à des applications. Toutes les personnes dont les empreintes digitales sont ajoutées sur votre téléphone peuvent effectuer ces opérations. Choisissez donc ces personnes avec soin.\n\nRemarque : Vos empreintes digitales peuvent être moins sécurisées qu\'un schéma ou un code fiables.</string>
+
+    <!-- Title for suggested actions for settings up a fingerprint lock -->
+    <string name="suggested_fingerprint_lock_settings_title">Utiliser le lecteur d\'empreinte digitale</string>
+
+    <!-- Title for preference that guides the user to skip fingerprint setup [CHAR LIMIT=60]-->
+    <string name="fingerprint_unlock_skip_fingerprint">Continuer sans empreinte digitale</string>
+
+    <!-- Message shown in screen lock picker while setting up the new screen lock with fingerprint option. [CHAR LIMIT=NONE]-->
+    <string name="fingerprint_unlock_title">Vous pouvez déverrouiller votre téléphone à l\'aide de votre empreinte digitale. Pour plus de sécurité, cette option doit être associée à un autre mode de verrouillage de l\'écran.</string>
+    <!-- Dialog title for NFC disclaimr [CHAR_LIMIT=40]-->
+    <string name="nfc_disclaimer_title">Activer le mode NFC</string>
+    <!-- Dialog title for NFC disclaimr [CHAR_LIMIT=NONE]-->
+    <string name="nfc_disclaimer_content">La technologie NFC échange des données entre cet appareil et d\'autres appareils ou cibles à proximité, tels que les terminaux de paiement, les lecteurs d\'accès et les annonces ou les tags interactifs</string>
+    <!-- Preference title for option to automatically switch away from bad wifi networks [CHAR LIMIT=60]-->
+    <string name="wifi_cellular_data_fallback_title">Utiliser automatiquement les données mobiles</string>
+    <!-- Preference summary for option to automatically switch away from bad wifi networks [CHAR LIMIT=None]-->
+    <string name="wifi_cellular_data_fallback_summary">Les données mobiles seront utilisées si vous n\'avez pas accès à Internet via le réseau Wi‑Fi. Une consommation des données peut s\'appliquer.</string>
+    <!-- Message for talkback to say when Advanced Options expanded [CHAR LIMIT=NONE] -->
+    <string name="wifi_advanced_toggle_description_expanded">Liste déroulante \"Options avancées\". Appuyez deux fois pour réduire.</string>
+    <!-- Message for talkback to say when Advanced Options is collapsed [CHAR LIMIT=NONE] -->
+    <string name="wifi_advanced_toggle_description_collapsed">Liste déroulante \"Options avancées\". Appuyez deux fois pour développer.</string>
+
+    <!-- Dialog text to tell the user that the selected network has lost Internet access, and asking the user whether they want to avoid this network. -->
+    <string name="lost_internet_access_title">Le réseau Wi‑Fi n\'est pas connecté à Internet</string>
+    <string name="lost_internet_access_text">Vous pouvez vous connecter au réseau mobile lorsque vous rencontrez un problème de connexion Wi-Fi. Des frais liés à la consommation de données peuvent s\'appliquer.</string>
+    <string name="lost_internet_access_switch">Utiliser le réseau mobile</string>
+    <string name="lost_internet_access_cancel">Rester en Wi‑Fi</string>
+    <string name="lost_internet_access_persist">Ne plus afficher</string>
+    <!-- Title of WFC roaming preference item [CHAR LIMIT=45] -->
+    <string name="wifi_calling_roaming_mode_title">Préférences en matière d\'itinérance</string>
+    <!-- WFC mode dialog [CHAR LIMIT=45] -->
+    <string name="wifi_calling_roaming_mode_dialog_title">Préférences en matière d\'itinérance</string>
+    <string-array name="wifi_calling_mode_choices_v2">
+        <item>Wi-Fi</item>
+        <item>Données mobiles</item>
+        <item>Wi-Fi uniquement</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
+        <item>Wi-Fi</item>
+        <item>Données mobiles</item>
+    </string-array>
+    <!-- Title of a preference for updating emergency address [CHAR LIMIT=40] -->
+    <string name="emergency_address_title">Mettre à jour l\'adresse d\'urgence</string>
+    <!-- Summary of Update Emergency Address preference, explaining usage of emergency address [CHAR LIMIT=NONE] -->
+    <string name="emergency_address_summary">Adresse utilisée par les services d\'urgence pour votre position si vous effectuez un appel d\'urgence à l\'aide du Wi-Fi</string>
+    <!-- Sound settings screen, the title of the volume bar to adjust the notification volume -->
+    <string name="notification_volume_title">Notification</string>
+
+    <!-- Night display screen, setting option name to enable night display (renamed "Night Light" with title caps). [CHAR LIMIT=30] -->
+    <string name="night_display_title">Éclairage nocturne</string>
+    <!-- Night display screen, description of night display feature (renamed "Night Light" with title caps). [CHAR LIMIT=NONE] -->
+    <string name="night_display_text">L\'éclairage nocturne colore votre écran en rouge ambré. Cela vous permet de le regarder ou de lire plus facilement lorsque l\'éclairage est faible, et peut vous aider à vous endormir.</string>
+    <!-- Night display screen, category title for settings to schedule when night display activates automatically. [CHAR LIMIT=30] -->
+    <string name="night_display_category_schedule">Schedule</string>
+    <!-- Night display screen, category title for settings to manually activate night display. [CHAR LIMIT=30] -->
+    <string name="night_display_category_status">Planifier</string>
+    <!-- Night display screen, setting option name to configure whether night display turn on/off automatically. [CHAR LIMIT=30] -->
+    <string name="night_display_auto_mode_title">Activer automatiquement</string>
+    <!-- Night display screen, setting option value for night display to *never* turn on/off automatically. [CHAR LIMIT=30] -->
+    <string name="night_display_auto_mode_never">Jamais</string>
+    <!-- Night display screen, setting option value for night display to turn on/off automatically according to a user defined schedule. [CHAR LIMIT=30] -->
+    <string name="night_display_auto_mode_custom">Horaires personnalisés</string>
+    <!-- Night display screen, setting option value for night display to turn on/off automatically at sunset/sunrise. [CHAR LIMIT=30] -->
+    <string name="night_display_auto_mode_twilight">Du coucher au lever du soleil</string>
+    <!-- Night display screen, setting option name to configure time to automatically turn on night display. [CHAR LIMIT=30] -->
+    <string name="night_display_start_time_title">Heure de début</string>
+    <!-- Night display screen, setting option name to configure time to automatically turn off night display. [CHAR LIMIT=30] -->
+    <string name="night_display_end_time_title">Heure de fin</string>
+    <!-- Display settings screen, summary format of night display when off. [CHAR LIMIT=NONE] -->
+    <string name="night_display_summary_off">Désactivé. <xliff:g id="ID_1">%1$s</xliff:g></string>
+    <!-- Display settings screen, summary of night display when off and will *never* turn on automatically. [CHAR LIMIT=NONE] -->
+    <string name="night_display_summary_off_auto_mode_never">Ne jamais activer automatiquement</string>
+    <!-- Display settings screen, summary format of night display when off and will turn on automatically at a user defined time. [CHAR LIMIT=NONE] -->
+    <string name="night_display_summary_off_auto_mode_custom">Activer automatiquement à <xliff:g id="ID_1">%1$s</xliff:g></string>
+    <!-- Display settings screen, summary of night display when off and will turn on automatically at sunset. [CHAR LIMIT=NONE] -->
+    <string name="night_display_summary_off_auto_mode_twilight">Activer automatiquement au coucher du soleil</string>
+    <!-- Display settings screen, summary format of night display when on. [CHAR LIMIT=NONE] -->
+    <string name="night_display_summary_on">Activé. <xliff:g id="ID_1">%1$s</xliff:g></string>
+    <!-- Display settings screen, summary of night display when on and will *never* turn off automatically. [CHAR LIMIT=NONE] -->
+    <string name="night_display_summary_on_auto_mode_never">Ne jamais désactiver automatiquement</string>
+    <!-- Display settings screen, summary format of night display when on and will turn off automatically at a user defined time. [CHAR LIMIT=NONE] -->
+    <string name="night_display_summary_on_auto_mode_custom">Désactiver automatiquement à <xliff:g id="ID_1">%1$s</xliff:g></string>
+    <!-- Display settings screen, summary of night display when on and will turn off automatically at sunrise. [CHAR LIMIT=NONE] -->
+    <string name="night_display_summary_on_auto_mode_twilight">Désactiver automatiquement au lever du soleil</string>
+
 </resources>
