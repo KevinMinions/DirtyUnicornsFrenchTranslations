@@ -16,9 +16,7 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="label_action_split_screen">Écran partagé</string>
-
-    <!-- App killed message -->
-    <string name="app_killed_message">Fermeture forcée de %s</string>
-    <string name="label_action_region_screenshot">Capture d\'écran partielle</string>
+  <string name="label_action_region_screenshot">Capture d\'écran partielle</string>
+  <string name="label_action_one_handed_mode_left">Mode Une seule main libre (côté gauche)</string>
+  <string name="label_action_one_handed_mode_right">Mode Une seule main libre (côté droit)</string>
 </resources>
