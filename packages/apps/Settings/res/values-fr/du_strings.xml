@@ -318,5 +318,252 @@
     <string name="night_display_summary_on_auto_mode_custom">Désactiver automatiquement à <xliff:g id="ID_1">%1$s</xliff:g></string>
     <!-- Display settings screen, summary of night display when on and will turn off automatically at sunrise. [CHAR LIMIT=NONE] -->
     <string name="night_display_summary_on_auto_mode_twilight">Désactiver automatiquement au lever du soleil</string>
+    <!-- About phone screen, status item label  [CHAR LIMIT=40] -->
+    <string name="model_info">Modèle</string>
+    <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
+    <string name="build_number">Numéro de compilation</string>
+    <!-- Storage setting. Menu option for using the deletion helper. [CHAR LIMIT=30] -->
+    <string name="storage_menu_free">Libérer de l\'espace</string>
+    <!-- Storage setting. Menu option for accessing the storage manager settings. [CHAR LIMIT=30] -->
+    <string name="storage_menu_manage">Gérer l\'espace de stockage</string>
+    <!-- Item title describing internal storage used by the Android System [CHAR LIMIT=48]-->
+    <string name="storage_detail_system">Système</string>
+    <!-- Body of dialog informing user about the storage used by the Android System [CHAR LIMIT=NONE]-->
+    <string name="storage_detail_dialog_system">Le système comprend des fichiers qu\'Android ne peut pas afficher individuellement.</string>
+    <!-- About phone settings screen, setting option name to show regulatory labels [CHAR LIMIT=25] -->
+    <string name="regulatory_labels">Libellés réglementaires</string>
+    <!-- About phone settings screen, setting option name to show the safety and regulatory manual [CHAR LIMIT=40] -->
+    <string name="safety_and_regulatory_info">Manuel de sécurité et réglementation</string>
+    <!-- Preference summary for app not supporting always-on vpn [CHAR LIMIT=NONE] -->
+    <string name="vpn_not_supported_by_this_app">Non compatible avec cette application</string>
+    <!-- Text to describe the items to be expanded as suggested settings [CHAR LIMIT=none] -->
+    <plurals name="settings_suggestion_header_summary_hidden_items">
+        <item quantity="one">Afficher %d élément masqué</item>
+        <item quantity="other">Afficher %d éléments masqués</item>
+    </plurals>
+    <string name="keywords_display_night_display">assombrir l\'écran, nuit, coloration</string>
+    <string name="keywords_gesture">geste</string>
+    <!-- Sound: Dashboard summary indicating the volume of ringtone when at 0% with vibrate enabled. [CHAR LIMIT=100] -->
+    <string name="sound_settings_summary_vibrate">Sonnerie en mode vibreur</string>
+
+    <!-- Sound: Dashboard summary indicating the volume of ringtone when at 0% with vibrate disabled [CHAR LIMIT=100] -->
+    <string name="sound_settings_summary_silent">Sonnerie en mode silencieux</string>
+
+    <!-- Sound: Other sounds: Title for the option enabling boot sounds. [CHAR LIMIT=30] -->
+    <string name="boot_sounds_title">Sons de mise en route</string>
+   <!-- [CHAR LIMIT=NONE] Dialog body explaining that the app just selected by the user will not work after a reboot until until after the user enters their credentials, such as a PIN or password. -->
+   <string name="direct_boot_unaware_dialog_message">Remarque : Après un redémarrage, vous ne pouvez pas lancer cette application tant que vous n\'avez pas déverrouillé votre téléphone.</string>
+
+    <!-- Title for the "flash" preference to determine whether a flash is shown on screen when an assistant accesses the contents of the screeen. [CHAR LIMIT=40] -->
+    <string name="assist_flash_title">Faire clignoter l\'écran</string>
+    <!-- Summary for the "flash" preference to determine whether a flash is shown on screen when an assistant accesses the contents of the screeen. [CHAR LIMIT=NONE] -->
+    <string name="assist_flash_summary">Faire clignoter les bordures de l\'écran lorsque l\'application d\'assistance accède à du texte à partir de l\'écran ou d\'une capture d\'écran</string>
+    <!-- Title of condition that night display is on (renamed "Night Light" with title caps) [CHAR LIMIT=30] -->
+    <string name="condition_night_display_title">Éclairage nocturne activé</string>
+
+    <!-- Summary of condition that night display is on (renamed "Night Light" with title caps) [CHAR LIMIT=NONE] -->
+    <string name="condition_night_display_summary">L\'écran est teinté en rouge ambré. Ceci peut vous aider à vous endormir.</string>
+
+    <!-- Summary for the suggestions section on the dashboard, representing number of suggestions. [CHAR LIMIT=10] -->
+    <string name="suggestions_summary">+ <xliff:g id="ID_1">%1$d</xliff:g></string>
+
+    <!-- Name of the setting to disable the automatic update -->
+    <string name="ota_disable_automatic_update">Mises à jour automatiques du système</string>
+
+    <!-- Label for switch about whether to warn user about usage [CHAR LIMIT=30] -->
+    <string name="set_data_warning">Définir une alerte de données</string>
+
+    <!-- Toast message shown when "Reset ShortcutManager rate-limiting" has been performed. [CHAR_LIMIT=none] -->
+    <string name="reset_shortcut_manager_throttling_complete">La limitation de fréquence ShortcutManager a bien été réinitialisée.</string>
+    <!-- Setting tab title for all setting options. [CHAR LIMIT=20] -->
+    <string name="page_tab_title_summary">Tous</string>
+    <!-- Setting tab title for support setting options. [CHAR LIMIT=20] -->
+    <string name="page_tab_title_support">Assistance</string>
+    <!-- [CHAR LIMIT=60] Name of dev option called demo mode -->
+    <string name="demo_mode">Mode de démonstration</string>
+
+    <!-- Title text for connecting to customer support [CHAR LIMIT=80]-->
+    <string name="support_escalation_title">Nous sommes là pour vous aider</string>
+
+    <!-- Title text for connecting to 24/7 available customer support [CHAR LIMIT=80]-->
+    <string name="support_escalation_24_7_title">Nous sommes là pour vous aider 24h/24 et 7j/7</string>
+
+    <!-- Content description for connecting customer support. The "24 7" part indicates
+    support is available 24 hours a day, 7 days a week. It's used by screenreaders so it
+    cannot contain any symbol other that space. [CHAR LIMIT=80]-->
+    <string name="support_escalation_24_7_content_description">Nous sommes là pour vous aider 24h/24 et 7j/7.</string>
+
+    <!-- Summary text for connecting to customer support [CHAR LIMIT=NONE]-->
+    <string name="support_escalation_summary">Notre équipe d\'assistance se tient à votre disposition pour résoudre vos problèmes.</string>
+
+    <!-- Summary text for connecting to 24/7 customer support [CHAR LIMIT=NONE]-->
+    <string name="support_escalation_24_7_summary">Notre équipe d\'assistance est disponible 24h/24 et 7j/7.</string>
+    <string name="support_escalation_closed_summary">Effectuez une recherche dans l\'aide ou revenez pendant les heures d\'ouverture du service d\'assistance (heure locale) :&lt;br&gt;&lt;b&gt;<xliff:g id="OPERATION_HOURS">%s</xliff:g>&lt;/b&gt;</string><!-- Summary text to call customer support when there is no internet. [CHAR LIMIT=NONE]-->
+    <string name="support_escalation_no_internet_summary">Heures d\'ouverture du service d\'assistance téléphonique (heure locale)&lt;br&gt;&lt;b&gt;<xliff:g id="OPERATION_HOURS">%s</xliff:g>&lt;/b&gt;</string>
+    <!-- Summary text when customer support is unavailable in the region. [CHAR LIMIT=NONE]-->
+    <string name="support_escalation_unavailable_summary">Effectuer une recherche dans l\'aide ou lire les conseils et astuces</string><!-- Button label for choosing country for phone support. [CHAR LIMIT=40]-->
+    <string name="support_country_list_title">Assistance pour :</string>
+
+    <!-- Template for formatting country and language. eg Canada - French [CHAR LIMIT=NONE]-->
+    <string name="support_country_format"><xliff:g id="COUNTRY">%s</xliff:g> – <xliff:g id="LANGUAGE">%s</xliff:g></string>
+
+    <!-- Template for formatting phone number and language. eg English (800-000-0000) [CHAR LIMIT=NONE]-->
+    <string name ="support_phone_international_format"><xliff:g id="LANGUAGE">%s</xliff:g> (<xliff:g id="PHONE">%s</xliff:g>)</string>
+    <!-- Title text for a list of international support phone numbers. [CHAR LIMIT=60]-->
+    <string name="support_international_phone_title">Vous partez à l\'étranger ?</string>
+
+    <!-- Description text warning international phone charge may apply when dialing support numbers. [CHAR LIMIT=NONE]-->
+    <string name="support_international_phone_summary">Des frais d\'appel internationaux peuvent s\'appliquer.</string>
+
+    <!-- Button label for contacting customer support by phone [CHAR LIMIT=20]-->
+    <string name="support_escalation_by_phone">Téléphone</string>
+
+    <!-- Button label for contacting customer support by chat [CHAR LIMIT=20]-->
+    <string name="support_escalation_by_chat">Dialogue en ligne</string>
+
+    <!-- Button label for visiting the tips & tricks site [CHAR LIMIT=60]-->
+    <string name="support_tips_and_tricks_title">Parcourir les conseils et les astuces</string>
+
+    <!-- Button label for visiting help and/or send feedback [CHAR LIMIT=60]-->
+    <string name="support_help_feedback_title">Rechercher dans l\'aide ou envoyer comment.</string>
+
+    <!-- Title text that indicates user needs to sign in to get customer support. [CHAR LIMIT=80]-->
+    <string name="support_sign_in_required_title">Contacter le service d\'assistance</string>
+
+    <!-- Button label for signing in an account [CHAR LIMIT=40]-->
+    <string name="support_sign_in_button_text">Connexion</string>
+
+    <!-- Button label that redirects user who needs help for signin to help screen [CHAR LIMIT=NONE]-->
+    <string name="support_sign_in_required_help">Vous ne pouvez pas vous connecter ?</string>
+
+    <!-- Dialog title displayed before initiating real time support [CHAR LIMIT=80]-->
+    <string name="support_disclaimer_title">Envoyer des informations sur le système</string>
+
+    <!-- Checkbox text, when checked dialog will not show again [CHAR LIMIT=80] -->
+    <string name="support_disclaimer_do_not_show">Ne plus afficher</string>
+
+    <!-- Time in hours -->
+    <plurals name="hours">
+        <item quantity="one"><xliff:g id="NUMBER">%s</xliff:g> heure</item>
+        <item quantity="other"><xliff:g id="NUMBER">%s</xliff:g> heures</item>
+    </plurals>
+
+    <!-- Time in minutes -->
+    <plurals name="minutes">
+        <item quantity="one"><xliff:g id="NUMBER">%s</xliff:g> minute</item>
+        <item quantity="other"><xliff:g id="NUMBER">%s</xliff:g> minutes</item>
+    </plurals>
+
+    <!-- Time in seconds -->
+    <plurals name="seconds">
+        <item quantity="one"><xliff:g id="NUMBER">%s</xliff:g> seconde</item>
+        <item quantity="other"><xliff:g id="NUMBER">%s</xliff:g> secondes</item>
+    </plurals>
+
+    <!-- Estimated wait time range for real time supports -->
+    <string name="support_estimated_wait_time">Attente de <xliff:g id="ESTIMATE">%1$s</xliff:g> environ</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">Gérer l\'espace de stockage</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">Pour libérer de l\'espace de stockage, le gestionnaire d\'espace de stockage supprime des photos et des vidéos sauvegardées sur votre appareil.</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">Supprimer des photos et des vidéos</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">Gestionnaire d\'espace de stockage</string>
+
+    <!-- Category title for the automatic settings in the storage manager settings. [CHAR LIMIT=40] -->
+    <string name="deletion_helper_automatic_title">Automatique</string>
+
+    <!-- Category title for the manual settings in the storage manager settings. [CHAR LIMIT=40] -->
+    <string name="deletion_helper_manual_title">Manuels</string>
+
+    <!-- Preference menu title for accessing the deletion helper from the storage manager settings. [CHAR LIMIT=30]-->
+    <string name="deletion_helper_preference_title">Libérer de l\'espace maintenant</string>
+
+    <!-- Preference title for gesture settings [CHAR LIMIT=25]-->
+    <string name="gesture_preference_title">Gestes</string>
+
+    <!-- Preference summary for gesture settings (phone) [CHAR LIMIT=NONE]-->
+    <string name="gesture_preference_summary" product="default">Gestes rapides pour contrôler votre téléphone</string>
+    <!-- Preference summary for gesture settings (tablet) [CHAR LIMIT=NONE]-->
+    <string name="gesture_preference_summary" product="tablet">Gestes rapides pour contrôler votre tablette</string>
+    <!-- Preference summary for gesture settings (device) [CHAR LIMIT=NONE]-->
+    <string name="gesture_preference_summary" product="device">Gestes rapides pour contrôler votre appareil</string>
+
+    <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
+    <string name="double_tap_power_for_camera_title">Accès rapide à l\'Appareil photo</string>
+
+    <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
+    <string name="double_tap_power_for_camera_summary">Pour accéder rapidement à l\'appareil photo, appuyez deux fois sur le bouton Marche/Arrêt. Fonctionne à partir de n\'importe quel écran.</string>
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary"></string>
+
+    <!-- Title text for ambient display double tap (phone) [CHAR LIMIT=60]-->
+    <string name="ambient_display_title" product="default">Appuyez deux fois sur le téléphone pour le consulter</string>
+    <!-- Title text for ambient display double tap (tablet) [CHAR LIMIT=60]-->
+    <string name="ambient_display_title" product="tablet">Appuyez deux fois sur la tablette pour la consulter</string>
+    <!-- Title text for ambient display double tap (device) [CHAR LIMIT=60]-->
+    <string name="ambient_display_title" product="device">Appuyez deux fois sur l\'appareil pour le consulter</string>
+
+    <!-- Summary text for ambient display double tap [CHAR LIMIT=160]-->
+    <string name="ambient_display_summary">Pour vérifier rapidement vos notifications, appuyez deux fois sur l\'écran.</string>
+
+    <!-- Title text for ambient display pick up (phone) [CHAR LIMIT=60]-->
+    <string name="ambient_display_pickup_title" product="default">Saisissez votre téléphone pour le consulter</string>
+    <!-- Title text for ambient display pick up (tablet) [CHAR LIMIT=60]-->
+    <string name="ambient_display_pickup_title" product="tablet">Saisissez votre tablette pour la consulter</string>
+    <!-- Title text for ambient display pick up (device) [CHAR LIMIT=60]-->
+    <string name="ambient_display_pickup_title" product="device">Saisissez votre appareil pour le consulter</string>
+
+    <!-- Summary text for ambient display (phone) [CHAR LIMIT=160]-->
+    <string name="ambient_display_pickup_summary" product="default">Pour vérifier rapidement vos notifications, saisissez votre téléphone.</string>
+    <!-- Summary text for ambient display (tablet) [CHAR LIMIT=160]-->
+    <string name="ambient_display_pickup_summary" product="tablet">Pour vérifier rapidement vos notifications, saisissez votre tablette.</string>
+    <!-- Summary text for ambient display (device) [CHAR LIMIT=160]-->
+    <string name="ambient_display_pickup_summary" product="device">Pour vérifier rapidement vos notifications, saisissez votre appareil.</string>
+
+    <!-- Title text for fingerprint swipe for notifications [CHAR LIMIT=60]-->
+    <string name="fingerprint_swipe_for_notifications_title">Affichage des notifications</string>
+
+    <!-- Summary text for fingerprint swipe for notifications (phone) [CHAR LIMIT=160]-->
+    <string name="fingerprint_swipe_for_notifications_summary" product="default">Pour consulter vos notifications, passez votre doigt de haut en bas sur le lecteur d\'empreinte digitale à l\'arrière du téléphone.</string>
+    <!-- Summary text for fingerprint swipe for notifications (tablet) [CHAR LIMIT=160]-->
+    <string name="fingerprint_swipe_for_notifications_summary" product="tablet">Pour consulter vos notifications, passez votre doigt de haut en bas sur le lecteur d\'empreinte digitale à l\'arrière de la tablette.</string>
+    <!-- Summary text for fingerprint swipe for notifications (device) [CHAR LIMIT=160]-->
+    <string name="fingerprint_swipe_for_notifications_summary" product="device">Pour consulter vos notifications, passez votre doigt de haut en bas sur le lecteur d\'empreinte digitale à l\'arrière de l\'appareil.</string>
+
+    <!-- Switch text for each gesture setting state -->
+    <string name="gesture_setting_on">Activés</string>
+    <string name="gesture_setting_off">Désactivés</string>
+
+    <!-- setting enable OEM unlock Checkbox's summary to explain this Checkbox is disabled because the bootloader has been unlocked [CHAR_LIMIT=60] -->
+    <string name="oem_unlock_enable_disabled_summary_bootloader_unlocked">Bootloader déjà déverrouillé</string>
+    <!-- setting enable OEM unlock Checkbox's summary to explain this Checkbox is disabled because there is no connectivity. [CHAR_LIMIT=60] -->
+    <string name="oem_unlock_enable_disabled_summary_connectivity">Connectez-vous tout d\'abord à Internet.</string>
+    <!-- setting enable OEM unlock Checkbox's summary to explain this Checkbox is disabled because there is no connectivity or the device is locked by the carrier [CHAR_LIMIT=60] -->
+    <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Connectez-vous à Internet ou contactez votre opérateur.</string>
+    <!-- setting enable OEM unlock Checkbox's summary to explain this Checkbox is disabled because this setting is unavailable on sim-locked devices. [CHAR_LIMIT=60] -->
+    <string name="oem_unlock_enable_disabled_summary_sim_locked_device">Indisponible sur les appareils verrouillés par l\'opérateur</string>
+
+    <string name="automatic_storage_manager_freed_bytes"><xliff:g id="SIZE">%1$s</xliff:g> libéré(s) au total\n\nDernière exécution le <xliff:g id="DATE">%2$s</xliff:g></string>
+
+    <!-- Title text for enabling web actions. [CHAR_LIMIT=60] -->
+    <string name="web_action_enable_title">Ouvrir des liens dans les applications</string>
+
+    <!-- Summary text for enabling web actions. [CHAR_LIMIT=250] -->
+    <string name="web_action_enable_summary">Ouvrez des liens dans les applications compatibles, même si celles-ci ne sont pas installées sur votre appareil.</string>
+
+    <!-- Section title for the Web Action preference [CHAR LIMIT=60] -->
+    <string name="web_action_section_title">Applications pas installées</string>
+
+    <!-- Section title for the Domain URL app preference list [CHAR LIMIT=60]-->
+    <string name="domain_url_section_title">Applications installées</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">Votre espace de stockage est désormais géré par le gestionnaire d\'espace de stockage.</string>
 
 </resources>
