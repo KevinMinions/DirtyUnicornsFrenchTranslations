@@ -26,6 +26,7 @@
     <string name="navigation_category">Navigation</string>
     <string name="multitasking_category">Multi-tâche</string>
     <string name="category_heads_up">Notifications flottantes</string>
+    <string name="lock_items_category">Éléments de l\'écran de déverrouillage</string>
 
     <!-- Categories -->
     <string name="recents_category">Applications récentes</string>
@@ -579,5 +580,13 @@
     <!-- One handed mode -->
     <string name="one_handed_mode_title">Mode Une seule main libre</string>
     <string name="one_handed_mode_summary">Basculer entre la vue réduite et la vue standard, en faisant glisser le doigt sur la barre de navigation</string>
+
+    <!-- Hide Lockscreen clock, date, & alarm -->
+    <string name="hide_lockscreen_clock_title">Horloge</string>
+    <string name="hide_lockscreen_clock_summary">Afficher l\'horloge sur l\'écran de déverrouillage</string>
+    <string name="hide_lockscreen_date_title">Date</string>
+    <string name="hide_lockscreen_date_summary">Afficher la date sur l\'écran de déverrouillage</string>
+    <string name="hide_lockscreen_alarm_title">Alarme</string>
+    <string name="hide_lockscreen_alarm_summary">Afficher l\'alarme sur l\'écran de déverrouillage</string>
 
 </resources>
