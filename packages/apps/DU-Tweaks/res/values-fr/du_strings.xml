@@ -26,7 +26,7 @@
     <string name="navigation_category">Navigation</string>
     <string name="multitasking_category">Multi-tâche</string>
     <string name="category_heads_up">Notifications flottantes</string>
-    <string name="lock_items_category">Éléments de l\'écran de déverrouillage</string>
+    <string name="lock_items_category">Éléments</string>
 
     <!-- Categories -->
     <string name="recents_category">Applications récentes</string>
