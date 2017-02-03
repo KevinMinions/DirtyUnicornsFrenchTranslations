@@ -16,9 +16,6 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- General strings -->
-    <string name="dirty_tweaks_summary_title">Personnaliser l\'appareil</string>
-
     <!-- Tabs -->
     <string name="system_category">Système</string>
     <string name="lockscreen_category">Écran de déverrouillage</string>
