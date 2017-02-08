@@ -510,6 +510,7 @@
     <string name="status_bar_battery_style_icon_portrait">Icône portrait</string>
     <string name="status_bar_battery_style_icon_landscape">Icône paysage</string>
     <string name="status_bar_battery_style_circle">Cercle</string>
+    <string name="status_bar_battery_style_solid">Pleine</string>
     <string name="status_bar_battery_style_text">Texte</string>
     <string name="status_bar_battery_style_hidden">Masqué</string>
     <string name="status_bar_battery_percentage_title">Pourcentage</string>
@@ -580,10 +581,30 @@
 
     <!-- Hide Lockscreen clock, date, & alarm -->
     <string name="hide_lockscreen_clock_title">Horloge</string>
-    <string name="hide_lockscreen_clock_summary">Afficher l\'horloge sur l\'écran de déverrouillage</string>
+    <string name="hide_lockscreen_clock_summary_on">Horloge affichée sur l\'écran de déverrouillage</string>
+    <string name="hide_lockscreen_clock_summary_off">Horloge masquée sur l\'écran de déverrouillage</string>
     <string name="hide_lockscreen_date_title">Date</string>
-    <string name="hide_lockscreen_date_summary">Afficher la date sur l\'écran de déverrouillage</string>
+    <string name="hide_lockscreen_date_summary_on">Date affichée sur l\'écran de déverrouillage</string>
+    <string name="hide_lockscreen_date_summary_off">Date masquée sur l\'écran de déverrouillage</string>
     <string name="hide_lockscreen_alarm_title">Alarme</string>
-    <string name="hide_lockscreen_alarm_summary">Afficher l\'alarme sur l\'écran de déverrouillage</string>
+    <string name="hide_lockscreen_alarm_summary_on">Alarme affichée sur l\'écran de déverrouillage</string>
+    <string name="hide_lockscreen_alarm_summary_off">Alarme masquée sur l\'écran de déverrouillage</string>
+    <string name="hide_lockscreen_bottom_shortcuts_title">Raccourcis du bas</string>
+    <string name="hide_lockscreen_bottom_shortcuts_summary_on">Raccourcis du bas affichés sur l\'écran de déverrouillage</string>
+    <string name="hide_lockscreen_bottom_shortcuts_summary_off">Raccourcis du bas masqués sur l\'écran de déverrouillage</string>
+
+    <!-- Buttons backlight timeout -->
+    <string name="backlight_timeout_title">Délai de rétroéclairage des boutons</string>
+    <string name="backlight_timeout_on">Toujours activé</string>
+    <string name="backlight_timeout_default">5 sec (Par défaut)</string>
+    <string name="backlight_timeout_10s">10 sec</string>
+    <string name="backlight_timeout_15s">15 sec</string>
+    <string name="backlight_timeout_20s">20 sec</string>
+    <string name="backlight_timeout_30s">30 sec</string>
+    <string name="button_brightness_title">Rétroéclairage</string>
+
+    <!-- Keyguard Statusbar Clock -->
+    <string name="keyguard_statusbar_clock_title">Horloge de la barre d\'état</string>
+    <string name="keyguard_statusbar_clock_summary">Afficher l\'horloge à gauche de la barre d\'état sur l\'écran de déverrouillage</string>
 
 </resources>
