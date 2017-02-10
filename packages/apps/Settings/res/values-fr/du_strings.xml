@@ -36,6 +36,10 @@
   <!-- DU Updater -->
   <string name="updater_title">Mise à jour</string>
   <string name="updater_dashboard_summary">Recherchez la dernière mise à jour</string>
+
+    <!-- DU About -->
+    <string name="aboutdu">À propos de DU</string>
+    <string name="aboutdu_summary">Informations sur notre projet, nos développeurs et les appareils pris en charge</string>
   <!-- About phone screen -->
   <string name="build_date">Date de compilation</string>
   <string name="build_date_default">2012-01-01-0000</string>
