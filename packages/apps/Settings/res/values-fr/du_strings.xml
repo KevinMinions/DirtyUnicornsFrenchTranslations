@@ -98,6 +98,10 @@
   <string name="dashboard_columns_landscape_title">Colonnes (paysage)</string>
   <!-- Bluetooth accept all files -->
   <string name="bluetooth_accept_all_files">Accepter tous les types de fichiers</string>
+
+    <!-- Root Management -->
+    <string name="rootmanagement_title">Root</string>
+    <string name="rootmanagement_dashboard_summary">Gérez les accès \"Root\"</string>
   <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
   <string name="supersu_title">SuperSU</string>
   <string name="supersu_dashboard_summary">Gérez les accès \"Root\"</string>
