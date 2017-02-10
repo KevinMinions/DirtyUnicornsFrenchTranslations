@@ -607,4 +607,9 @@
     <string name="keyguard_statusbar_clock_title">Horloge de la barre d\'état</string>
     <string name="keyguard_statusbar_clock_summary">Afficher l\'horloge à gauche de la barre d\'état sur l\'écran de déverrouillage</string>
 
+    <!-- Emergency button -->
+    <string name="emergency_button_title">Bouton \"Urgence\"</string>
+    <string name="emergency_button_summary_on">Bouton \"Urgence\" affiché sur l\'écran de déverrouillage</string>
+    <string name="emergency_button_summary_off">Bouton \"Urgence\" masqué sur l\'écran de déverrouillage</string>
+
 </resources>
