@@ -189,6 +189,8 @@
     <string name="qs_rows_portrait_title">Lignes (portrait)</string>
     <string name="qs_rows_landscape_title">Lignes (paysage)</string>
     <string name="qs_columns_title">Colonnes</string>
+    <string name="qqs_scroll_title">Défilement</string>
+    <string name="qqs_scroll_summary">Permettre le défilement des tuiles d\'en-tête</string>
     <string name="qs_small_tiles_title">Tuiles d\'en-tête</string>
 
     <!-- Option to show brightness bar in quick settings -->
@@ -248,6 +250,7 @@
     <string name="status_bar_title">Barre d\'état</string>
     <string name="status_bar_style_title">Style</string>
     <string name="status_bar_clock">Date et heure</string>
+    <string name="clock_disabled_notice">Activer pour sélectionner des options supplémentaires</string>
     <string name="clock_title_enable">Position</string>
     <string name="clock_enabled">Activé</string>
     <string name="clock_disabled">Désactivé</string>
@@ -510,7 +513,7 @@
     <string name="status_bar_battery_style_icon_portrait">Icône portrait</string>
     <string name="status_bar_battery_style_icon_landscape">Icône paysage</string>
     <string name="status_bar_battery_style_circle">Cercle</string>
-    <string name="status_bar_battery_style_solid">Pleine</string>
+    <string name="status_bar_battery_style_solid">Disque</string>
     <string name="status_bar_battery_style_text">Texte</string>
     <string name="status_bar_battery_style_hidden">Masqué</string>
     <string name="status_bar_battery_percentage_title">Pourcentage</string>
