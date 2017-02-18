@@ -502,7 +502,7 @@
   <string name="deletion_helper_preference_title">Libérer de l\'espace maintenant</string>
 
   <!-- Preference title for gesture settings [CHAR LIMIT=25]-->
-  <string name="gesture_preference_title">Gestes</string>
+  <string name="gesture_preference_title">Mouvements</string>
 
   <!-- Preference summary for gesture settings (phone) [CHAR LIMIT=NONE]-->
   <string name="gesture_preference_summary" product="default">Gestes rapides pour contrôler votre téléphone</string>
