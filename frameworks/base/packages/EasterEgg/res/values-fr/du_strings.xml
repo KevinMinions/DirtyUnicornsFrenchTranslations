@@ -19,6 +19,7 @@ Copyright (C) 2016 The Android Open Source Project
     <string name="notification_title">Un chat est arrivé</string>
     <string name="default_cat_name">Chat #%s</string>
     <string name="directory_name">Chats</string>
+    <string name="confirm_delete">Oublier %s ?</string>
     <string-array name="food_names">
         <item>Coupelle vide</item>
         <item>Croquettes</item>
@@ -26,5 +27,4 @@ Copyright (C) 2016 The Android Open Source Project
         <item>Poulet</item>
         <item>Dessert</item>
     </string-array>
-    <string name="confirm_delete">Oublier %s ?</string>
 </resources>
