@@ -472,6 +472,9 @@
     <string name="smartbar_button_animation_summary">Définir le mode d\'animation des boutons</string>
     <string name="smartbar_button_animation_ripple">Ondulation</string>
     <string name="smartbar_button_animation_spring">Rebond</string>
+    <string name="smartbar_button_animation_pixel">Pixel (Tous les boutons)</string>
+    <string name="smartbar_button_animation_pixel_home">Pixel (Bouton Accueil uniquement)</string>
+    <string name="smartbar_button_animation_pixel_home_ripple">Pixel (Bouton Accueil uniquement) et Ondulation</string>
     <string name="smartbar_factory_reset_title">Configuration d\'origine</string>
     <string name="smartbar_factory_reset_confirm">Revenir à la configuration d\'origine de SmartBar\u00A0?</string>
     <string name="smartbar_ime_action_title">Modes de saisie</string>
@@ -614,5 +617,10 @@
     <string name="emergency_button_title">Bouton \"Urgence\"</string>
     <string name="emergency_button_summary_on">Bouton \"Urgence\" affiché sur l\'écran de déverrouillage</string>
     <string name="emergency_button_summary_off">Bouton \"Urgence\" masqué sur l\'écran de déverrouillage</string>
+
+    <!-- Wired headset ringtone audio focus -->
+    <string name="wired_ringtone_focus_mode_title">Diffusion de la sonnerie du téléphone</string>
+    <string name="wired_ringtone_focus_mode_dynamic">Dans les écouteurs du casque branché, lors de l\'écoute de musique</string>
+    <string name="wired_ringtone_focus_mode_stock">Sur le(s) Haut-parleur(s) et dans les écouteurs (Par défaut)</string>
 
 </resources>
