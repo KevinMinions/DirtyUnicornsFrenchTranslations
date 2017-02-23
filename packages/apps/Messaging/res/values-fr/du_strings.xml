@@ -33,4 +33,6 @@
 
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">Nouveau message</string>
+
+    <string name="work_directory_display_name">Contacts du profil professionnel</string>
 </resources>
