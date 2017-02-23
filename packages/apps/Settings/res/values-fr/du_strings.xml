@@ -583,4 +583,7 @@
   <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
   <string name="automatic_storage_manager_activation_warning">Votre espace de stockage est désormais géré par le gestionnaire d\'espace de stockage.</string>
 
+    <string name="ime_switcher_notify">Choix de clavier</string>
+    <string name="ime_switcher_notify_summary">Afficher la notification de sélection de clavier</string>
+
 </resources>
