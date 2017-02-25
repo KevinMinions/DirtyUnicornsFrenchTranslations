@@ -585,5 +585,6 @@
 
     <string name="ime_switcher_notify">Choix de clavier</string>
     <string name="ime_switcher_notify_summary">Afficher la notification de sélection de clavier</string>
+    <string name="gesture_preference_title">Mouvements</string>
 
 </resources>
