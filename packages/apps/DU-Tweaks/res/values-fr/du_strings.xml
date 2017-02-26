@@ -444,6 +444,9 @@
     <string name="pulse_legacy_mode_advanced_category">Fondu des blocs</string>
     <string name="pulse_custom_fudge_factor">Fréquence de Pulse</string>
     <string name="lavamp_solid_speed_title">Vitesse de la lampe Lava</string>
+    <string name="pulse_solid_units_count">Nombre de lignes</string>
+    <string name="pulse_solid_lines_count">Nombre de lignes</string>
+    <string name="pulse_solid_units_opacity">Transparence des lignes</string>
     <string name="pulse_solid_dimen_category">Lignes pleines</string>
 
     <!-- Pulse config -->
