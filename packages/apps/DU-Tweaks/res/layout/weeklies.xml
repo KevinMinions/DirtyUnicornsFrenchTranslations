@@ -1,6 +1,177 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <changelog bulletedList="true">
 
+    <changelogversion versionName="" changeDate="February 24, 2017">
+            <changelogtext>Fixed AOSP translations in Dialer, Fwb, DeskClock and a few other repos</changelogtext>
+            <changelogtext>Add Pixel button animation</changelogtext>
+            <changelogtext>Make ringtone audio focus customizable</changelogtext>
+            <changelogtext>Expose values under Calendars to display fragment for themes</changelogtext>
+            <changelogtext>Add IME Switcher icon back into the statusbar</changelogtext>
+            <changelogtext>Add configurable IME Switcher</changelogtext>
+            <changelogtext>Fix RTL layout with membar 'free ram' text</changelogtext>
+            <changelogtext>Fix quickbar tile gap with less than 6 tiles</changelogtext>
+            <changelogtext>Update contacts static shortcut</changelogtext>
+            <changelogtext>Disable the RTC wakeup timer</changelogtext>
+            <changelogtext>Allow to set Ripple on other buttons for Home button only pixel animation</changelogtext>
+    </changelogversion>
+
+    <changelogversion versionName="" changeDate="February 17, 2017">
+            <changelogtext>Expose Keyguard affordance circle background</changelogtext>
+            <changelogtext>Add support for Phh Superuser to dashboard</changelogtext>
+            <changelogtext>PA solid circle battery style</changelogtext>
+            <changelogtext>Add few more steps to battery saver trigger values</changelogtext>
+            <changelogtext>Hide bottom shortcuts</changelogtext>
+            <changelogtext>Add button backlight settings for certain devices</changelogtext>
+            <changelogtext>Change color scheme for Messaging, OmniSwitch, Calendar and Gallery</changelogtext>
+            <changelogtext>Removed launcher3 settings</changelogtext>
+            <changelogtext>Fix clang warnings and leak of full_stats_file</changelogtext>
+            <changelogtext>Fix memory leak of dirbuf</changelogtext>
+            <changelogtext>Fix clang static analyzer warnings</changelogtext>
+            <changelogtext>Hide Lockscreen emergency button</changelogtext>
+            <changelogtext>Fix gap issue with keyguard clock/carrier label</changelogtext>
+            <changelogtext>Introduce our new DU About app</changelogtext>
+            <changelogtext>Add DU About to Settings</changelogtext>
+            <changelogtext>Make use of BaseSystemSettingSwitchBar for our clock fragment</changelogtext>
+            <changelogtext>Make 'solid' battery the same size as the circle</changelogtext>
+            <changelogtext>Add longpress action for data saver and heads up QS tiles</changelogtext>
+            <changelogtext>Change long click actions on some QS tiles</changelogtext>
+            <changelogtext>Fix static analyzer warnings</changelogtext>
+            <changelogtext>Fix potential overflows</changelogtext>
+            <changelogtext>Fix static analyzer warnings</changelogtext>
+            <changelogtext>All tile scroller for quickbar settings</changelogtext>
+            <changelogtext>Auto calculate quickbar tiles amount</changelogtext>
+            <changelogtext>Increase Zenmode max hour limit from 12 to 24</changelogtext>
+            <changelogtext>Add optional findContrastColor algorithm for dark backgrounds</changelogtext>
+            <changelogtext>Status bar notification ticker</changelogtext>
+            <changelogtext>New DU Updater vector in Settings and QS tile</changelogtext>
+            <changelogtext>Add 'new message' messaging shortcut using the API introduced in sdk25</changelogtext>
+            <changelogtext>Separate one handed mode icons</changelogtext>
+            <changelogtext>Add missing string to volume panel</changelogtext>
+    </changelogversion>
+
+    <changelogversion versionName="" changeDate="February 3, 2017">
+            <changelogtext>Lots of translations</changelogtext>
+            <changelogtext>Fix a use-of-uninitialized-value warning.</changelogtext>
+            <changelogtext>Disable touch slop for generated gesture events</changelogtext>
+            <changelogtext>Longpress DND QS tile when active to show detail view</changelogtext>
+            <changelogtext>Add a Heads Up fragment</changelogtext>
+            <changelogtext>Improve Heads up toggle</changelogtext>
+            <changelogtext>Add timeout option for Heads up</changelogtext>
+            <changelogtext>Fix typo "%%" battery saver</changelogtext>
+            <changelogtext>Correct spelling/grammar in Settings/Dirty Tweaks</changelogtext>
+            <changelogtext>Add One-hand UI mode </changelogtext>
+            <changelogtext>Add DUI integration for One-hand UI mode</changelogtext>
+            <changelogtext>Fix one handed mode triggering tapjacking protection</changelogtext>
+            <changelogtext>Replace colorpicker action set png with vector</changelogtext>
+            <changelogtext>Remove Data Saver QS tile dialog</changelogtext>
+            <changelogtext>Update change log layout</changelogtext>
+            <changelogtext>Increase brightness faster if ambient light is brightening quickly</changelogtext>
+            <changelogtext>Update empty heads up layout</changelogtext>
+            <changelogtext>Add lockscreen items category</changelogtext>
+            <changelogtext>Add option to hide lockscreen clock, date, and alarm text</changelogtext>
+            <changelogtext>Reorganize Tethering/Nfc options</changelogtext>
+            <changelogtext>Power menu dialogs improvements</changelogtext>
+            <changelogtext>Update empty Extended desktop layout</changelogtext>
+            <changelogtext>Revert "Add text shadow for text in qs header"</changelogtext>
+            <changelogtext>ADB "N" icon compatible with OMS7</changelogtext>
+            <changelogtext>Set external settings icon tint mode to SRC_ATOP</changelogtext>
+    </changelogversion>
+
+    <changelogversion versionName="" changeDate="January 28, 2017">
+            <changelogtext>Remove Chromium</changelogtext>
+            <changelogtext>Add device specific gestures to DU-Tweaks for certain devices</changelogtext>
+            <changelogtext>Frequently used OpenGL ES methods whitelisted for fast JNI path</changelogtext>
+            <changelogtext>Fix NPE causing a hot reboot when pressing power button</changelogtext>
+            <changelogtext>Revert back to previous configuration for xxxhdpi-3072-dalvik-heap</changelogtext>
+            <changelogtext>Added advanced location QS tile</changelogtext>
+            <changelogtext>Added 'Less notifications sound' mod</changelogtext>
+            <changelogtext>Added dashboard configuration mods</changelogtext>
+            <changelogtext>Make QS smart ambient-LiftToWake tile compatible with all devices</changelogtext>
+            <changelogtext>Fix wrong algorithm in WifiPowerPerPacket()</changelogtext>
+            <changelogtext>Fix crash with HWC2</changelogtext>
+            <changelogtext>Fix IndexOutOfBoundsException in AccessibilityManagerService</changelogtext>
+            <changelogtext>Fix for reboot due to Volume State not updated in callback</changelogtext>
+            <changelogtext>Fix finding hardware codec (stagefright)</changelogtext>
+            <changelogtext>Fix crash for overflow in LiveSession</changelogtext>
+            <changelogtext>Fix two same BT devices are shown</changelogtext>
+            <changelogtext>Added text shadow for text in qs header</changelogtext>
+            <changelogtext>Update qs settings on dpi change</changelogtext>
+            <changelogtext>Fix playing screenshot's sound when camera's sounds off</changelogtext>
+            <changelogtext>Fix Access to field 'targets' results in a dereference of a null pointer</changelogtext>
+            <changelogtext>Fix Potential leak of memory pointed to by 'sourcesLiteral'</changelogtext>
+            <changelogtext>Avoid crash for stss sync sample number 0</changelogtext>
+            <changelogtext>Fix Potential leak of memory pointed to by 'sourcesLiteral'</changelogtext>
+    </changelogversion>
+
+    <changelogversion versionName="" changeDate="January 20, 2017">
+            <changelogtext>Fix clipping for edit screen of Quick Settings</changelogtext>
+            <changelogtext>Fix a use-of-uninitialized-value warning</changelogtext>
+            <changelogtext>Fix InCallActivity onStop call when launch from Lockscreen</changelogtext>
+            <changelogtext>Fix visibility of single-line view in expanded group notification</changelogtext>
+            <changelogtext>Fix guts not expanding when QSPanel is expanded</changelogtext>
+            <changelogtext>Changes to the OmniStyle header image</changelogtext>
+            <changelogtext>Make DU Updater theme friendly</changelogtext>
+            <changelogtext>Add  Smart Ambient-LiftToWake QS tile</changelogtext>
+            <changelogtext>Restore user night light brightness values also after reboot</changelogtext>
+            <changelogtext>Fix navbar edit non-protected broadcast logspam</changelogtext>
+            <changelogtext>Allow grayscale even if invert boolean is false</changelogtext>
+            <changelogtext>Don't cut off brightness slider and button (headers)</changelogtext>
+            <changelogtext>Fix OmniSwitch non-protected broadcast logspam</changelogtext>
+            <changelogtext>Immediately adjust hideSensitivity of Notifications</changelogtext>
+            <changelogtext>Fix gear not showing when rotation or RTL changed</changelogtext>
+            <changelogtext>Account for time changes when showing recent activities</changelogtext>
+            <changelogtext>Add membar to recents options</changelogtext>
+            <changelogtext>Fix white flash when launching Tuner activities</changelogtext>
+            <changelogtext>Fix issue when start android/com.android.internal.backup.LocalTransportService</changelogtext>
+            <changelogtext>Fix 'Deep sleep' issue on certain devices</changelogtext>
+            <changelogtext>Fix DU Updater issues on certain devices</changelogtext>
+            <changelogtext>Update SuperSU to 2.79-SR3</changelogtext>
+            <changelogtext>Remove SU system dingleberry</changelogtext>
+            <changelogtext>Let's get to choose keyboard again in Settings.</changelogtext>
+            <changelogtext>Fix crash with ChooseLockGeneric</changelogtext>
+            <changelogtext>Fix the momery leak in DrawOverlayDetails</changelogtext>
+            <changelogtext>Fix crash while searching in Settings</changelogtext>
+            <changelogtext>Fix default Home preference FC on orientation change</changelogtext>
+            <changelogtext>Fix FAB not disappearing in multiwindow</changelogtext>
+            <changelogtext>Unify the DatePicker Dialog and MIN_DATE</changelogtext>
+            <changelogtext>Add HotwordEnrollment APK for certain devices</changelogtext>
+            <changelogtext>Fix rare SystemUI FC while changing density in settings</changelogtext>
+            <changelogtext>Add Nfc QS Tile</changelogtext>
+    </changelogversion>
+
+    <changelogversion versionName="" changeDate="January 13, 2017">
+            <changelogtext>Fix QuickQS visibility at non-first page</changelogtext>
+            <changelogtext>Make sure that fingerprint daemon.cancelAuthentication() only execute once</changelogtext>
+            <changelogtext>Fix NullPointerException in MediaPlayer</changelogtext>
+            <changelogtext>FAB Recents Clear All</changelogtext>
+            <changelogtext>FAB Recents Clear All improvements</changelogtext>
+            <changelogtext>Add Camera sound toggle for Camera2 only</changelogtext>
+            <changelogtext>Add googles updated backup transfer service</changelogtext>
+            <changelogtext>CallLogActivity re-created when rotating device</changelogtext>
+            <changelogtext>Expedite the processing of destroying Incall UI after end call</changelogtext>
+            <changelogtext>Fix conference call duration issue</changelogtext>
+            <changelogtext>Fix display of floating action button</changelogtext>
+            <changelogtext>Parse "vendor/priv-app" to find privileged applications</changelogtext>
+            <changelogtext>Pass correct permissions arguments</changelogtext>
+            <changelogtext>Expose switch bar title for themers</changelogtext>
+            <changelogtext>Use vectorized arrow icons for network traffic</changelogtext>
+            <changelogtext>Don't crash for too long baseband version</changelogtext>
+            <changelogtext>Allow faster app switching</changelogtext>
+            <changelogtext>Expose dashboard category padding bottom for themers</changelogtext>
+            <changelogtext>Expose switchbar background color for themers</changelogtext>
+            <changelogtext>Fix translations for crowdin</changelogtext>
+            <changelogtext>Expose manifest styles for themers</changelogtext>
+            <changelogtext>Double tap to sleep on the statusbar</changelogtext>
+            <changelogtext>Double tap to sleep anywhere on the lock screen</changelogtext>
+            <changelogtext>Battery icon improvements</changelogtext>
+            <changelogtext>Make Power Notification Controls scrollable</changelogtext>
+            <changelogtext>Fix possible bootloop with PackageManagerService</changelogtext>
+            <changelogtext>Use simple 'set wallapper' chooser with Launcher3</changelogtext>
+            <changelogtext>Custom QS header images</changelogtext>
+            <changelogtext>Custom QS header extensions</changelogtext>
+            <changelogtext>Custom QS header dpi change behaviour</changelogtext>
+    </changelogversion>
+
     <changelogversion versionName="" changeDate="6 Janvier 2017">
             <changelogtext>Montée d'Android en version 7.1.1_r13 / Correctif de sécurité Android du 5 Janvier 2017</changelogtext>
             <changelogtext>Ajout des Paramètres dans DU Updater</changelogtext>
