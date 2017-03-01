@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelog bulletedList="true">
+
+    <changelogversion versionName="" changeDate="6 Janvier 2017">
+            <changelogtext>Montée d'Android en version 7.1.1_r13 / Correctif de sécurité Android du 5 Janvier 2017</changelogtext>
+            <changelogtext>Ajout des Paramètres dans DU Updater</changelogtext>
+            <changelogtext>Corrections du code de DU Updater</changelogtext>
+            <changelogtext>Exposition des couleurs des icônes de paramètres externes dans Paramètres</changelogtext>
+            <changelogtext>Améliorations du mode Éclairage nocturne</changelogtext>
+            <changelogtext>Add titles in DU Updater to each fragment/shortcut</changelogtext>
+            <changelogtext>Expose QS battery for themers</changelogtext>
+            <changelogtext>Fix NPE on boot with DU Updater</changelogtext>
+            <changelogtext>A lot of surfaceflinger fixes</changelogtext>
+            <changelogtext>Use a vector for DU Updater shortcuts</changelogtext>
+            <changelogtext>Enable Storage Manager</changelogtext>
+            <changelogtext>Fix developer options with MultiROM</changelogtext>
+            <changelogtext>Sepolicy fixes</changelogtext>
+            <changelogtext>Kill off log spam from SuperSU, runtime exception</changelogtext>
+            <changelogtext>Fix incorrect webview signatures</changelogtext>
+            <changelogtext>Add a proper landscape layout for colorpicker</changelogtext>
+    </changelogversion>
+
+    <changelogversion versionName="" changeDate="30 Décembre 2016">
+            <changelogtext>Fix battery text gap issue</changelogtext>
+            <changelogtext>DU Updater layout changes / Add 'hide app icon' option</changelogtext>
+            <changelogtext>Added static shortcuts introduced in API 25 to DU Updater</changelogtext>
+            <changelogtext>Remove secure keyguard condition on hiding the advanced reboot option</changelogtext>
+            <changelogtext>Add our updater to the dashboard</changelogtext>
+            <changelogtext>Fix empty carrier label options on msim devices</changelogtext>
+            <changelogtext>Remove text from actionbar / Use overflow menu in 'Running Services'</changelogtext>
+            <changelogtext>Enable three icon switching within QS DND tile</changelogtext>
+            <changelogtext>Fix race condition in accessibility</changelogtext>
+            <changelogtext>Allow closing empty view via tapping in Recents</changelogtext>
+            <changelogtext>Fix duplicate broadcast receiver in OmniSwitch</changelogtext>
+            <changelogtext>Add OmniSwitch toggle to protected broadcasts</changelogtext>
+            <changelogtext>Fix potential NULL dereference</changelogtext>
+            <changelogtext>Fix audio for WifiDisplay</changelogtext>
+            <changelogtext>Fix getDrawable for new Android API for battery icon</changelogtext>
+            <changelogtext>Prevent potential SysUI fc if no valid battery res</changelogtext>
+            <changelogtext>Show battery custom charging symbol near pct in the keyguard too</changelogtext>
+            <changelogtext>Don't show battery bolt when using charging symbol near percentage text is enabled</changelogtext>
+    </changelogversion>
+
+    <changelogversion versionName="" changeDate="23 Décembre 2016">
+            <changelogtext>Rien à voir ici pour le moment</changelogtext>
+    </changelogversion>
+
+</changelog>
