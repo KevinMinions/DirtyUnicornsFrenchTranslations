@@ -176,9 +176,9 @@
     <string name="app_ops_settings">Fonctionnement des applications</string>
     <string name="app_ops_settings_summary">Affichez ou modifiez les autorisations des application</string>
     <string name="app_ops_cat_location">Position</string>
-    <string name="app_ops_cat_personal">Données personnelles</string>
-    <string name="app_ops_cat_messaging">SMS</string>
-    <string name="app_ops_cat_media">Média</string>
+    <string name="app_ops_cat_personal">Personnel</string>
+    <string name="app_ops_cat_messaging">SMS/MMS</string>
+    <string name="app_ops_cat_media">Multimédia</string>
     <string name="app_ops_cat_device">Appareil</string>
     <string name="app_ops_access_camera">appareil photo</string>
     <string name="app_ops_access_location">position</string>
@@ -217,7 +217,7 @@
     <!-- ? -->
     <string name="app_ops_use_audio_focus">ajuster l\'audio</string>
     <!-- ? -->
-    <string name="app_ops_use_bluetooth_volume">Nniveau du Bluetooth</string>
+    <string name="app_ops_use_bluetooth_volume">volume Bluetooth</string>
     <string name="app_ops_use_master_volume">volume principal</string>
     <string name="app_ops_use_media_buttons">boutons multimédia</string>
     <string name="app_ops_use_media_volume">boutons volume</string>
