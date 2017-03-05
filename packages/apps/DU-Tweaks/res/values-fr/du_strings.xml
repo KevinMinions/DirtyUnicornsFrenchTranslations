@@ -24,6 +24,7 @@
     <string name="multitasking_category">Multi-tâche</string>
     <string name="category_heads_up">Notifications flottantes</string>
     <string name="lock_items_category">Éléments</string>
+    <string name="notif_ticker_category">Aperçu de notification</string>
 
     <!-- Categories -->
     <string name="recents_category">Applications récentes</string>
@@ -620,6 +621,10 @@
     <string name="emergency_button_title">Bouton \"Urgence\"</string>
     <string name="emergency_button_summary_on">Bouton \"Urgence\" affiché sur l\'écran de déverrouillage</string>
     <string name="emergency_button_summary_off">Bouton \"Urgence\" masqué sur l\'écran de déverrouillage</string>
+
+    <!-- Status bar notification ticker -->
+    <string name="ticker_title">Aperçu</string>
+    <string name="ticker_summary">Activer l\'aperçu de notification sur la barre d\'état. Ne pas utiliser avec les Notifications flottantes.</string>
 
     <!-- Wired headset ringtone audio focus -->
     <string name="wired_ringtone_focus_mode_title">Diffusion de la sonnerie du téléphone</string>
