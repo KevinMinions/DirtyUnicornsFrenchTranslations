@@ -81,7 +81,7 @@
   <string name="quick_settings_location_battery_saving_label">Économie de batterie</string>
   <string name="quick_settings_location_gps_only_label">Appareil uniquement</string>
   <string name="quick_settings_location_high_accuracy_label">Haute précision</string>
-  <string name="quick_settings_location_off_custom_label">Localisation</string>
+  <string name="quick_settings_location_off_custom_label">Location</string>
   <!-- Show lte/4g switch -->
   <string name="show_lte_fourgee_title">Icône \"4G\"</string>
   <string name="show_lte_fourgee_summary">Utiliser l\'icône \"4G\" plutôt que \"LTE\"</string>
@@ -107,4 +107,12 @@
   <string name="data_wifi_activity_arrows_summary_off">Masquer les flèches d\'activité pour les Données Mobiles et le Wi-Fi</string>
   <!-- Recents memory bar -->
   <string name="recents_free_ram">MÉMOIRE RAM LIBRE</string>
+
+    <!-- OmniJaws -->
+    <string name="omnijaws_service_error">Erreur</string>
+    <string name="omnijaws_service_unkown">Aucune donnée météo</string>
+    <string name="omnijaws_detail_header">Météo</string>
+    <string name="omnijaws_label_default">Météo</string>
+    <string name="omnijaws_current_text">Actuellement</string>
+    <string name="omnijaws_package_not_available">OmniJaws indisponible</string>
 </resources>
