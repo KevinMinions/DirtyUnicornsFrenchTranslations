@@ -24,7 +24,16 @@
     <string name="multitasking_category">Multi-tâche</string>
     <string name="category_heads_up">Notifications flottantes</string>
     <string name="lock_items_category">Éléments</string>
+    <string name="oneplusdoze_category">G2 extras</string>
     <string name="notif_ticker_category">Aperçu de notification</string>
+    <string name="qs_omnijaws_category">Météo</string>
+
+    <!-- OmniJaws -->
+    <string name="weather_config_title">Paramètres météo</string>
+    <string name="weather_config_summary"></string>
+    <string name="header_weather_title">En-tête météo</string>
+    <string name="header_weather_summary">Afficher la météo sur le volet des Notifications</string>
+    <string name="weather_icon_pack_title">Paquet d\'icônes</string>
 
     <!-- Categories -->
     <string name="recents_category">Applications récentes</string>
