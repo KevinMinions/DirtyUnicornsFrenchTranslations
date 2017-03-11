@@ -244,4 +244,8 @@
     <string name="app_ops_get_accounts">comptes sur l\'appareil</string>
     <string name="app_ops_run_in_background">s\'exécuter en arrière-plan</string>
 
+   <!-- Force authorize substratum packages -->
+   <string name="force_authorize_substratum_packages_title">Applications de thème</string>
+   <string name="force_authorize_substratum_packages_summary">Autoriser les applications de thème à être installées à partir de sources inconnues</string>
+
 </resources>
