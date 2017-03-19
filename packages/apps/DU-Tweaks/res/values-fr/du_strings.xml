@@ -32,7 +32,7 @@
     <string name="weather_config_title">Paramètres météo</string>
     <string name="weather_config_summary"></string>
     <string name="header_weather_title">En-tête météo</string>
-    <string name="header_weather_summary">Afficher la météo sur le volet des Notifications</string>
+    <string name="header_weather_summary">Afficher la météo sur le volet des Configurations rapides</string>
     <string name="weather_icon_pack_title">Paquet d\'icônes</string>
 
     <!-- Categories -->
@@ -303,7 +303,7 @@
     <!-- Advanced data tile -->
     <string name="qs_tiles_category">Options des tuiles</string>
     <string name="qs_easy_toggle_title">Commutateurs rapides</string>
-    <string name="qs_easy_toggle_summary">Activer ou désactiver par simple appui, les Données mobiles, le Wi-Fi, et le Bluetooth</string>
+    <string name="qs_easy_toggle_summary">Activer ou désactiver par simple appui, les Données mobiles, le Wi-Fi, la localisation, et le Bluetooth</string>
     <string name="qs_advanced_data_title">Tuile de données</string>
     <string name="qs_advanced_data_summary">Activer ou désactiver les données mobiles par appui sur la tuile</string>
     <string name="qs_music_tile_track_optional_title">Titre de la chanson</string>
