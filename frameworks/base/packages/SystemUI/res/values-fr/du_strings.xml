@@ -17,7 +17,7 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Content description of the data connection type HSPA+ for accessibility (not shown on the screen). [CHAR LIMIT=NONE] -->
-  <string name="accessibility_data_connection_HP">HSPA+</string>
+  <string name="accessibility_data_connection_HP">H+</string>
   <!-- Notification which notifies user flashlight is enabled -->
   <string name="quick_settings_tile_flashlight_not_title">Lampe de poche activée</string>
   <string name="quick_settings_tile_flashlight_not_summary">Appuyer sur la notification pour éteindre la Lampe de poche</string>
