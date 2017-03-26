@@ -521,7 +521,7 @@
 
     <!-- Quick Settings on lockscreen -->
     <string name="lockscreen_qs_disabled_title">Désactiver Configuration rapide</string>
-    <string name="lockscreen_qs_disabled_summary">Désactiver les raccourcis et l\'accès au volet de Configuration rapide sur l\'écran de déverrouillage</string>
+    <string name="lockscreen_qs_disabled_summary">Désactiver les tuiles et l\'accès au volet de Configuration rapide sur l\'écran de déverrouillage</string>
 
     <!-- Battery customizations -->
     <string name="status_bar_battery_style_category">Batterie</string>
@@ -536,6 +536,7 @@
     <string name="status_bar_battery_percentage_default">Masqué</string>
     <string name="status_bar_battery_percentage_text_inside">Dans l\'icône</string>
     <string name="status_bar_battery_percentage_text_next">Après l\'icône</string>
+    <string name="battery_tile_style_title">Style de la tuile de la batterie</string>
     <string name="status_bar_battery_style_tile_title">Tuile \"Batterie\"</string>
     <string name="status_bar_battery_style_tile_summary">Utiliser le même style d\'icône de batterie que celui défini pour la barre d\'état</string>
     <string name="status_bar_charge_color_title">Couleur de l\'icône batterie</string>
