@@ -17,6 +17,6 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="label_action_region_screenshot">Capture d\'écran partielle</string>
-  <string name="label_action_one_handed_mode_left">Mode Une seule main libre (côté gauche)</string>
-  <string name="label_action_one_handed_mode_right">Mode Une seule main libre (côté droit)</string>
+  <string name="label_action_one_handed_mode_left">Utilisation à une main (gaucher)</string>
+  <string name="label_action_one_handed_mode_right">Utilisation à une main (droitier)</string>
 </resources>
