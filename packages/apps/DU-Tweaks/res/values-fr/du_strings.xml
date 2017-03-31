@@ -734,4 +734,8 @@
     <string name="volume_steps_voice_call_title">Appel vocal</string>
     <string name="volume_steps_reset">Configuration d\'origine</string>
 
+
+    <string name="image_exceeds_max_allowed_size">L\'image doit être inférieure à 512x512 px</string>
+    <string name="smartbar_ime_action_dynamic">Flèches pour le changement de titre musical</string>
+
 </resources>
