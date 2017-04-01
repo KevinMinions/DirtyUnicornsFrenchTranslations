@@ -736,6 +736,6 @@
 
 
     <string name="image_exceeds_max_allowed_size">L\'image doit être inférieure à 512x512 px</string>
-    <string name="smartbar_ime_action_dynamic">Flèches pour le changement de titre musical</string>
+    <string name="smartbar_ime_action_dynamic">Bouton de saut de titre musical</string>
 
 </resources>
