@@ -306,8 +306,8 @@
     <string name="qs_easy_toggle_summary">Activer ou désactiver par simple appui, les Données mobiles, le Wi-Fi, la localisation, et le Bluetooth</string>
     <string name="qs_advanced_data_title">Tuile de données</string>
     <string name="qs_advanced_data_summary">Activer ou désactiver les données mobiles par appui sur la tuile</string>
-    <string name="qs_music_tile_track_optional_title">Titre de la chanson</string>
-    <string name="qs_music_tile_track_optional_summary">Afficher le titre de la chanson sur la description de la tuile</string>
+    <string name="qs_music_tile_track_optional_title">Titre musical</string>
+    <string name="qs_music_tile_track_optional_summary">Afficher le titre musical sur la description de la tuile</string>
 
     <!-- Do not disturb switch in volume panel -->
     <string name="tuner_full_zen_title">Ne pas déranger</string>
