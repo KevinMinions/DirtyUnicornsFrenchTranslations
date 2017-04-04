@@ -35,7 +35,7 @@
   <!-- Screenshot Delete Toast -->
   <string name="delete_screenshot_toast">Capture d\'écran supprimée</string>
   <!-- SystemUI Tuner Parts -->
-  <string name="systemui_tuner_statusbar_title">Éléments de la barre d\'état</string>
+  <string name="systemui_tuner_statusbar_title">Éléments</string>
   <string name="systemui_tuner_pnc_title">Gestion des notifications</string>
   <!-- Quick Settings tiles -->
   <string name="quick_settings_screenshot_label">Capture d\'écran</string>
@@ -85,7 +85,7 @@
   <!-- Show lte/4g switch -->
   <string name="show_lte_fourgee_title">Icône \"4G\"</string>
   <string name="show_lte_fourgee_summary">Utiliser l\'icône \"4G\" plutôt que \"LTE\"</string>
-  <string name="statusbar_tuner_category_title">Éléments de la barre d\'état à afficher</string>
+  <string name="statusbar_tuner_category_title">Éléments à afficher</string>
   <!-- DU Logo -->
   <string name="status_bar_du_logo_title">Logo DU</string>
   <string name="status_bar_du_logo_summary">Afficher le logo de DU sur la gauche de la barre d\'état﻿</string>
