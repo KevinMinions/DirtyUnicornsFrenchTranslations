@@ -42,7 +42,7 @@
     <string name="plate">Plat</string>
 
     <string name="eq_custom">Pour personnaliser, appuyer sur \"Utilisateur\"</string>
-    <string name="power_on_prompt">Appuyer sur le bouton d\'alimentation en haut à droite</string>
+    <string name="power_on_prompt">Activer l\'égaliseur avant d\'essayer de configurer quoi que ce soit</string>
     <string name="toggle_button_on">Activer</string>
     <string name="toggle_button_off">Désactiver</string>
 </resources>
