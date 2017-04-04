@@ -30,10 +30,10 @@
   <string name="misctweaks_category">Réglages divers</string>
   <string name="button_settings">Boutons</string>
   <string name="statusbar_notifications_category">Notifications</string>
-  <string name="statusbar_items_category">Éléments de la barre d\'état</string>
+  <string name="statusbar_items_category">Éléments</string>
   <string name="nightmode_category">Mode Nuit</string>
   <string name="expanded_desktop_category">Bureau étendu</string>
-  <string name="quicksettings_category">Configurations rapide</string>
+  <string name="quicksettings_category">Configuration rapide</string>
   <string name="traffic_category">Indicateurs de trafic</string>
   <string name="breathing_notifications_category">Notifications clignotantes</string>
   <string name="omniswitch_category">OmniSwitch</string>
@@ -71,7 +71,7 @@
   <string name="powermenu_dialog_dim">Transparence de l\'arrière-plan</string>
   <!-- Advanced reboot options -->
   <string name="advanced_reboot_title">Redémarrage avancé</string>
-  <string name="advanced_reboot_summary">Ajoute les options dans le menu Marche/Arrêt pour redémarrer dans le Recovery et le Bootloader</string>
+  <string name="advanced_reboot_summary">Ajoute les options dans le menu menu Marche/Arrêt pour redémarrer dans le recovery et le bootloader</string>
   <string name="advanced_reboot_dialog_title">Menu de redémarrage avancé</string>
   <string name="advanced_reboot_disabled">Désactiver</string>
   <string name="advanced_reboot_hide_on_keyguard">Masquer sur l\'écran de déverrouillage</string>
@@ -181,7 +181,7 @@
   <string name="show_network_traffic_1500">1500 ms</string>
   <string name="show_network_traffic_2000">2000 ms</string>
   <string name="network_traffic_autohide">Masquer automatiquement</string>
-  <string name="network_traffic_autohide_summary">Afficher l\'indicateur uniquement en cas de trafic</string>
+  <string name="network_traffic_autohide_summary">Ne pas afficher l\'indicateur de vitesse de réseau lorsqu\'il n\'y a pas de trafic</string>
   <string name="network_traffic_autohide_threshold">Seuil d\'inactivité</string>
   <string name="network_traffic_hidearrow">Masquer les flèches</string>
   <string name="network_traffic_hidearrow_summary">Masquer les flèches de l\'indicateur de trafic</string>
@@ -255,7 +255,6 @@
   <string name="omniswitch_first_time_title">Avertissement</string>
   <string name="omniswitch_first_time_message">Pour utiliser OmniSwitch entant qu\'alternative des Applications récentes, il faut absolument avoir activé OmniSwitch</string>
   <!-- Color Picker -->
-  <string name="dialog_color_picker">Sélecteur de couleur</string>
   <string name="press_color_to_apply">Appuyer sur la couleur pour valider</string>
   <string name="arrow_right">→</string>
   <string name="arrow_down">↓</string>
@@ -348,7 +347,7 @@
   <string name="pulse_settings">Pulse</string>
   <string name="pulse_settings_summary">Égaliseur audio sur la barre de navigation</string>
   <string name="fling_show_pulse_title">Pulse</string>
-  <string name="fling_show_pulse_summary">Visualisation à l\'aspect d\'un égaliseur audio la barre de navigation</string>
+  <string name="fling_show_pulse_summary">Afficher Pulse sur la barre de navigation</string>
   <string name="pulse_render_mode_title">Mode de rendu</string>
   <string name="pulse_render_mode_fading_bars">Fondu des blocs</string>
   <string name="pulse_render_mode_solid_lines">Lignes pleines</string>
