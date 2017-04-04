@@ -42,7 +42,7 @@
     <string name="motoactions_category">Moto Actions</string>
     <string name="button_settings">Boutons</string>
     <string name="statusbar_notifications_category">Notifications</string>
-    <string name="statusbar_items_category">Éléments de la barre d\'état</string>
+    <string name="statusbar_items_category">Éléments</string>
     <string name="nightmode_category">Mode Nuit</string>
     <string name="quicksettings_category">Configuration rapide</string>
     <string name="traffic_category">Indicateurs de trafic</string>
