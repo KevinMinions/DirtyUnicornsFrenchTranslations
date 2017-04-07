@@ -739,4 +739,8 @@
     <string name="image_exceeds_max_allowed_size">L\'image doit être inférieure à 512x512 px</string>
     <string name="smartbar_ime_action_dynamic">Boutons de saut de titre musical</string>
 
+    <!-- Lockscreen Media Art -->
+    <string name="keyguard_media_art_title">Illustration du titre musical</string>
+    <string name="keyguard_media_art_summary">Activer l\'illustration du titre musical en cours de lecture</string>
+
 </resources>
