@@ -45,4 +45,10 @@
     <string name="power_on_prompt">Activer l\'égaliseur avant d\'essayer de configurer quoi que ce soit</string>
     <string name="toggle_button_on">Activé</string>
     <string name="toggle_button_off">Désactivé</string>
+
+    <string name="drawer_item_speaker">Haut-parleur</string>
+    <string name="drawer_item_headset">Écouteurs</string>
+    <string name="drawer_item_bluetooth">Bluetooth</string>
+    <string name="drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="drawer_close">Fermer le tiroir de navigation</string>
 </resources>
