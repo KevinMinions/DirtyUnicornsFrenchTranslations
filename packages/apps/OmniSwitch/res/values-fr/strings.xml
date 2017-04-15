@@ -171,4 +171,6 @@
   <string name="dialog_overlay_perms_msg">Activer l\'autorisation \u0022Se superposer aux autres applications\u0022 pour OmniSwitch</string>
   <string name="package_dock_task_title">Ancrer</string>
   <string name="package_undock_task_title">Détacher</string>
+  <string name="swipe_thumb_update_summary">Les vignettes sont actualisées lors de la vue superposée</string>
+  <string name="swipe_thumb_update_title">Chargement asynchrone des vignettes</string>
 </resources>
