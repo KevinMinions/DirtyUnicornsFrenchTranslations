@@ -585,6 +585,8 @@
     <string name="summary_heads_up_enabled">Notifications flottantes activées</string>
     <string name="summary_heads_up_disabled">Notifications flottantes désactivées</string>
     <string name="heads_up_disabled_notice">Activer les notifications flottantes pour permettre aux applications d\'afficher des notifications interactives dans une fenêtre intruse sur l\'écran</string>
+    <string name="always_headsup_dialer_title">Notifications flottantes pour le numéroteur téléphonique</string>
+    <string name="always_headsup_dialer_summary">Utiliser les notifications flottantes avec le numéroteur téléphonique, même si les notifications flottantes sont désactivées, pour éviter que le numéroteur téléphonique ne s\'affiche sur tout l\'écran, lors des appels entrants</string>
 
     <!-- Heads Up timeout -->
     <string name="heads_up_time_out_title">Délai d\'affichage</string>
