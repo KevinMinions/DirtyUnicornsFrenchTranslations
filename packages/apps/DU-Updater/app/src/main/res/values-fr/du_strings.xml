@@ -13,8 +13,8 @@
     <string name="official">Officielles</string>
     <string name="weeklies">Hebdomadaires</string>
     <string name="rc">RC</string>
-    <string name="dynamic_gapps">Dynamic GApps</string>
-    <string name="tr_gapps">Theme ready GApps</string>
+    <string name="beans_gapps">Beans GApps</string>
+    <string name="tr_gapps">Theme Ready GApps</string>
     <string name="settings_alt">Paramètres</string>
     <string name="qs_tile_name">MAJ</string>
 
@@ -27,8 +27,8 @@
     <!-- Shortcuts -->
     <string name="shortcuts_weeklies">Hebdomadaires</string>
     <string name="shortcuts_rc">RC</string>
-    <string name="shortcuts_dynamic_gapps">Dynamic GApps</string>
-    <string name="shortcuts_tr_gapps">Theme ready gapps</string>
+    <string name="shortcuts_beans_gapps">Beans GApps</string>
+    <string name="shortcuts_tr_gapps">Theme Ready GApps</string>
 
     <!-- Snackbar messages -->
     <string name="no_internet_snackbar">Connexion à Internet nécessaire pour utiliser \"DU Updater\"</string>
@@ -51,8 +51,8 @@
     <string name="navdrawer_official">Officielles</string>
     <string name="navdrawer_rc">RC</string>
     <string name="navdrawer_weeklies">Hebdomadaires</string>
-    <string name="navdrawer_dynamic_gapps">Dynamic GApps</string>
-    <string name="navdrawer_tr_gapps">Theme ready</string>
+    <string name="navdrawer_beans_gapps">Beans GApps</string>
+    <string name="navdrawer_tr_gapps">Theme Ready GApps</string>
 
     <!--Card String-->
     <string name="card_file_size">Taille du fichier : %1$s </string>
