@@ -47,10 +47,10 @@
   <string name="service_disabled">Désactivé</string>
   <string name="service_error">Erreur</string>
   <string name="last_update_time">Dernière actualisation</string>
-    <string name="omnijaws_service_unkown">Aucune donnée météo</string>
-    <string name="weather_widget">Météo</string>
-    <string name="omnijaws_current_text">Actuellement</string>
-    <string name="show_background_title">Ombre d\'arrière-plan</string>
-    <string name="weather_config_title">Paramètres</string>
-    <string name="weather_config_summary"></string>
+  <string name="omnijaws_service_unkown">Aucune donnée météo</string>
+  <string name="weather_widget">Météo</string>
+  <string name="omnijaws_current_text">Actuellement</string>
+  <string name="show_background_title">Ombre d\'arrière-plan</string>
+  <string name="weather_config_title">Paramètres</string>
+  <string name="weather_config_summary"></string>
 </resources>
