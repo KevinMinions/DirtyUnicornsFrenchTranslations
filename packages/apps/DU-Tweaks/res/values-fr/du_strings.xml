@@ -25,7 +25,7 @@
     <string name="category_heads_up">Notifications flottantes</string>
     <string name="lock_items_category">Éléments</string>
     <string name="oneplusdoze_category">Spécifiques</string>
-<string name="notif_ticker_category">Notification \"Ticker\"</string>
+    <string name="ticker_category">Notification \"Ticker\"</string>
     <string name="qs_omnijaws_category">Météo</string>
 
     <!-- OmniJaws -->
@@ -740,12 +740,15 @@
     <string name="volume_steps_voice_call_title">Appel vocal</string>
     <string name="volume_steps_reset">Configuration d\'origine</string>
 
-
     <string name="image_exceeds_max_allowed_size">L\'image doit être inférieure à 512x512 px</string>
     <string name="smartbar_ime_action_dynamic">Boutons de saut de titre musical</string>
 
     <!-- Lockscreen Media Art -->
     <string name="keyguard_media_art_title">Illustration du titre musical</string>
     <string name="keyguard_media_art_summary">Activer l\'illustration du titre musical en cours de lecture</string>
+
+    <!-- Fingerprint unlock keystore -->
+    <string name="fp_unlock_keystore_title">Redémarrage non sécurisé</string>
+    <string name="fp_unlock_keystore_summary">Déverrouiller l\'appareil par empreinte digitale sans avoir à saisir la code Pin, le mot de passe, ou le schéma, après un redémarrage de l\'appareil</string>
 
 </resources>
