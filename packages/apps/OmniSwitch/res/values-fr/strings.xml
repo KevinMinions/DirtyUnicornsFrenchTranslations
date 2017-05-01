@@ -173,4 +173,6 @@
   <string name="package_undock_task_title">Détacher</string>
   <string name="swipe_thumb_update_summary">Les vignettes sont actualisées lors de la vue superposée</string>
   <string name="swipe_thumb_update_title">Chargement asynchrone des vignettes</string>
+  <string name="dim_action_buttons_summary">Ajouter un arrière-plan trouble aux boutons d\'action</string>
+  <string name="dim_action_buttons_title">Arrière-plan du bouton d\'action</string>
 </resources>
