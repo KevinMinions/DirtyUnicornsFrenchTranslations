@@ -751,4 +751,8 @@
     <string name="fp_unlock_keystore_title">Redémarrage non sécurisé</string>
     <string name="fp_unlock_keystore_summary">Déverrouiller l\'appareil par empreinte digitale sans avoir à saisir la code Pin, le mot de passe, ou le schéma, après un redémarrage de l\'appareil</string>
 
+    <!-- Fingerprint authentication vibration -->
+    <string name="fprint_sucess_vib_title">Authentification</string>
+    <string name="fprint_sucess_vib_summary">Vibrer après authentification par empreinte digitale réussie</string>
+
 </resources>
