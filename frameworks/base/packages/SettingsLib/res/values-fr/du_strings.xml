@@ -20,4 +20,11 @@
   <string name="screen_zoom_summary_smaller">Petit</string>
   <!-- Description for the screen zoom level that makes interface elements smallest. [CHAR LIMIT=24] -->
   <string name="screen_zoom_summary_smallest">Le plus petit</string>
+
+    <!-- Label for carrier demo mode factory reset confirmation dialog. [CHAR LIMIT=40] -->
+    <string name="retail_demo_reset_message">Saisir mot de passe pour rétablir conf. d\'usine en mode démo.</string>
+    <!-- Label for positive button on carrier demo  mode factory reset confirmation dialog [CHAR LIMIT=40] -->
+    <string name="retail_demo_reset_next">Suivant</string>
+    <!-- Title for carrier demo mode factory reset confirmation dialog. [CHAR LIMIT=40] -->
+    <string name="retail_demo_reset_title">Veuillez saisir le mot de passe</string>
 </resources>
