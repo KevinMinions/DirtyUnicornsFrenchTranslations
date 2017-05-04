@@ -54,6 +54,10 @@
     <!-- Chinese Reverse Lookup Provider -->
     <string name="cyngn_reverse_lookup_provider_name">Cyngn Chinese (CN)</string>
 
+    <!-- Hint displayed in dialer search box when there is no query that is currently typed.
+          [CHAR LIMIT=30] -->
+    <string name="dialer_hint_find_contact_custom">Recherche de contacts et de localisation</string>
+
     <!-- speed dial -->
     <string name="speed_dial_edit_title">Modifier la numérotation abrégée <xliff:g id="index" example="2">%1$d</xliff:g></string>
     <string name="speed_dial_input_hint">Entrer un numéro</string>
