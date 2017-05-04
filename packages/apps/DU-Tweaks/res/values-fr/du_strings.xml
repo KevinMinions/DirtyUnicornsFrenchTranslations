@@ -26,6 +26,7 @@
     <string name="lock_items_category">Éléments</string>
     <string name="oneplusdoze_category">Spécifiques</string>
     <string name="ticker_category">Notification \"Ticker\"</string>
+    <string name="fingerprint_category">Empreinte digitale</string>
     <string name="qs_omnijaws_category">Météo</string>
 
     <!-- OmniJaws -->
