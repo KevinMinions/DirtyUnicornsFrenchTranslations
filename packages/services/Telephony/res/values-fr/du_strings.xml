@@ -43,4 +43,9 @@
     <string name="change_pin_succeeded">"Le code de votre boîte vocale a été mis à jour."</string>
     <string name="change_pin_system_error">"Impossible de définir le code"</string>
     <string name="voicemail_set_pin_dialog_title">"Définir un code"</string>
+
+    <!-- In-call screen: call failure message displayed in an error dialog. [CHAR_LIMIT=NONE] -->
+    <string name="incall_error_power_off" product="watch">Pour passer un appel, désactivez le mode Avion ou Économiseur de batterie.</string>
+    <!-- In-call screen: call failure message displayed in an error dialog. [CHAR_LIMIT=NONE] -->
+    <string name="incall_error_power_off" product="default">Désactivez le mode Avion pour passer un appel.</string>
 </resources>
