@@ -79,7 +79,7 @@
   <string name="dialog_pick_iconpack_title">Sélectionner un paquet d\'icône</string>
   <string name="default_iconpack_title">Icônes par défaut</string>
   <string name="icon_packs_title">Paquets d\'icône</string>
-  <string name="no_iconpacks_summary">Aucun pack d\'icônes installé</string>
+  <string name="no_iconpacks_summary">Aucun paquet d\'icône installé</string>
   <string name="icon_pack_title">Paquet d\'icône</string>
   <string name="icon_pack_summary">Utiliser l\'icône d\'un paquet pour l\'application</string>
   <string name="category_speed_switcher_title">Basculement rapide</string>
