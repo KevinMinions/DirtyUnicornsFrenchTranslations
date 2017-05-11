@@ -771,4 +771,8 @@
     <string name="headset_connect_player_title">Lecteur audio</string>
     <string name="headset_connect_player_summary">Démarrer le lecteur audio par défaut lors de la connexion du casque</string>
 
+    <!-- Lockscreen battery info indicator  -->
+    <string name="lockscreen_battery_info_title">Niveaux de charge</string>
+    <string name="lockscreen_battery_info_summary">Afficher les niveaux de la tension et la température de la batterie sur l\'écran de déverrouillage pendant la charge</string>
+
 </resources>
