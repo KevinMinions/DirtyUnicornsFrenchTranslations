@@ -255,7 +255,7 @@
     <string name="wifi_calling_mode_wifi_only_summary" xliff:restype="x-UNLIMITED">Appel par Wi-Fi. Arrêter l\'appel, en cas de perte de connexion Wi-Fi.</string>
 
     <!-- Category title for Charging sounds -->
-    <string name="power_notifications_category_title">Sons relatifs à la charge</string>
+    <string name="power_notifications_category_title">Son relatif à la charge</string>
     <!-- Sound settings, Charging sounds enable/disable, setting check box label -->
     <string name="power_notifications_enable_title">Activer</string>
     <string name="power_notifications_enable_summary">Émettre un son lors de la connexion ou de la déconnexion du chargeur</string>
