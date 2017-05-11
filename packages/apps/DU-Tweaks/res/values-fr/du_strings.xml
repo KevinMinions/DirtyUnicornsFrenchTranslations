@@ -28,7 +28,7 @@
     <string name="fingerprint_category">Empreinte digitale</string>
     <string name="ticker_category">Notification \"Ticker\"</string>
     <string name="qs_omnijaws_category">Météo</string>
-    <string name="extended_statusbar_icons_category">Icônes de barre d\'état étendue</string>
+    <string name="extended_statusbar_icons_category">Raccourcis</string>
 
     <!-- OmniJaws -->
     <string name="weather_config_title">Paramètres météo</string>
@@ -75,13 +75,13 @@
 
     <!-- Extended statusbar icons -->
     <string name="qs_settings_icon_title">Raccourci des paramètres</string>
-    <string name="qs_settings_icon_summary">Masquer le raccourci des paramètres dans la barre d\'état étendue</string>
+    <string name="qs_settings_icon_summary">Masquer le raccourci des paramètres</string>
     <string name="qs_edit_title">Raccourci d\'édition</string>
-    <string name="qs_edit_summary">Masquer le raccourci d\'édition dans la barre d\'état étendue</string>
+    <string name="qs_edit_summary">Masquer le raccourci d\'édition</string>
     <string name="qs_multiuser_switch_title">Raccourci multi-utilisateur</string>
-    <string name="qs_multiuser_switch_summary">Masquer le raccourci multi-utilisateur dans la barre d\'état étendue</string>
+    <string name="qs_multiuser_switch_summary">Masquer le raccourci multi-utilisateur</string>
     <string name="qs_expand_indicator_title">Indicateur d\'agrandissement</string>
-    <string name="qs_expand_indicator_summary">Masquer l\'indicateur utilisé pour agrandir ou réduire la zone de configuration rapide</string>
+    <string name="qs_expand_indicator_summary">Masquer l\'indicateur utilisé pour déployer ou réduire la zone de configuration rapide</string>
 
     <!-- Power Menu -->
     <string name="powermenu_lockscreen_title">Écran de déverrouillage</string>
@@ -576,7 +576,7 @@
     <string name="recents_clear_all_location_bottom_center">En bas au milieu</string>
 
     <!-- QS headers -->
-    <string name="qs_header_category">En-têtes</string>
+    <string name="qs_header_category">Configuration rapide</string>
     <string name="status_bar_custom_header_title">En-têtes</string>
     <string name="status_bar_custom_header_summary">Afficher une image d\'arrière-plan sur le volet des Notifications</string>
     <string name="daylight_header_pack_title">Paquet d\'en-têtes contextuels</string>
