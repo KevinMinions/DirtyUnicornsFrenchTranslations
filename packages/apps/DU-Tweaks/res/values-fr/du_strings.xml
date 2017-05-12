@@ -775,9 +775,9 @@
     <string name="headset_connect_player_title">Démarrer le lecteur audio</string>
     <string name="headset_connect_player_disabled">Désactivé</string>
     <string name="headset_connect_player_wired">Lorsque le casque filaire est branché</string>
-    <string name="headset_connect_player_bt_no_carkit">Lorsque le casque Bluetooth est connecté (Kit mains libre non pris en charge)</string>
+    <string name="headset_connect_player_bt_no_carkit">Lorsque le casque Bluetooth est connecté (Hormis Kit mains libre)</string>
     <string name="headset_connect_player_bt">Lorsque le casque Bluetooth est connecté</string>
-    <string name="headset_connect_player_both_no_carkit">Lorsque le casque filaire ou casque Bluetooth est connecté (Kit mains libre non pris en charge)</string>
+    <string name="headset_connect_player_both_no_carkit">Lorsque le casque filaire ou casque Bluetooth est connecté (Hormis Kit mains libre)</string>
     <string name="headset_connect_player_both">Lorsque le casque filaire ou casque Bluetooth est connecté</string>
 
     <!-- Lockscreen battery info indicator  -->
