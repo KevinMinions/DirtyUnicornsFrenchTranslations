@@ -215,6 +215,10 @@
     <string name="qqs_scroll_summary">Permettre le défilement des tuiles d\'en-tête</string>
     <string name="qs_small_tiles_title">Tuiles d\'en-tête</string>
 
+    <!-- QS footer warnings -->
+    <string name="qs_footer_warnings_title">Notification de sécurité</string>
+    <string name="qs_footer_warnings_summary">Afficher une notification lorsque le réseau est contrôlé par une application externe ou un VPN</string>
+
     <!-- Option to show brightness bar in quick settings -->
     <string name="show_brightness">Afficher le curseur de luminosité</string>
 
@@ -768,8 +772,13 @@
     <string name="fprint_sucess_vib_summary">Vibrer après authentification par empreinte digitale réussie</string>
 
     <!-- Launch music player when headset is connected -->
-    <string name="headset_connect_player_title">Lecteur audio</string>
-    <string name="headset_connect_player_summary">Démarrer le lecteur audio par défaut lors de la connexion du casque</string>
+    <string name="headset_connect_player_title">Démarrer le lecteur audio</string>
+    <string name="headset_connect_player_disabled">Désactivé</string>
+    <string name="headset_connect_player_wired">Lorsque le casque filaire est branché</string>
+    <string name="headset_connect_player_bt_no_carkit">Lorsque le casque Bluetooth est connecté (Kit mains libre non pris en charge)</string>
+    <string name="headset_connect_player_bt">Lorsque le casque Bluetooth est connecté</string>
+    <string name="headset_connect_player_both_no_carkit">Lorsque le casque filaire ou casque Bluetooth est connecté (Kit mains libre non pris en charge)</string>
+    <string name="headset_connect_player_both">Lorsque le casque filaire ou casque Bluetooth est connecté</string>
 
     <!-- Lockscreen battery info indicator  -->
     <string name="lockscreen_battery_info_title">Niveaux de charge</string>
