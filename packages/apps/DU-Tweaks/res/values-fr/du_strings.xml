@@ -29,6 +29,7 @@
     <string name="ticker_category">Notification \"Ticker\"</string>
     <string name="qs_omnijaws_category">Météo</string>
     <string name="extended_statusbar_icons_category">Raccourcis</string>
+    <string name="action_options_category">Actions</string>
 
     <!-- OmniJaws -->
     <string name="weather_config_title">Paramètres météo</string>
@@ -783,5 +784,9 @@
     <!-- Lockscreen battery info indicator  -->
     <string name="lockscreen_battery_info_title">Niveaux de charge</string>
     <string name="lockscreen_battery_info_summary">Afficher les niveaux de la tension et la température de la batterie sur l\'écran de déverrouillage pendant la charge</string>
+
+    <!-- No navigation notification -->
+    <string name="no_navigation_notif_title">Pense-bête</string>
+    <string name="no_navigation_notif_summary">Afficher une notification lorsqu\'aucune méthode de navigation n\'est activée</string>
 
 </resources>
