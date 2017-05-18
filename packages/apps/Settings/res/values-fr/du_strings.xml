@@ -122,6 +122,9 @@
   <!-- Themes -->
   <string name="themes_title">Thèmes</string>
   <string name="themes_dashboard_summary">Gérez vos thèmes</string>
+
+    <!-- Cell Broadcast -->
+  <string name="cell_broadcast_settings_custom">Diffusion cellulaire</string>
   <!-- Manage applications: Substratum overlays -->
   <string name="menu_show_substratum">Afficher les surcouches</string>
   <string name="menu_hide_substratum">Masquer les surcouches</string>
