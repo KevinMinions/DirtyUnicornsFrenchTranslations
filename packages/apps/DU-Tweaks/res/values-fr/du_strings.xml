@@ -771,6 +771,8 @@
     <!-- Fingerprint authentication vibration -->
     <string name="fprint_sucess_vib_title">Authentification</string>
     <string name="fprint_sucess_vib_summary">Vibrer après authentification par empreinte digitale réussie</string>
+    <string name="quick_pulldown_fp_title">Panneau des configurations rapides</string>
+    <string name="quick_pulldown_fp_summary">Déployer le panneau des configurations rapides, en faisant glisser le doigt de haut en bas sur le lecteur d\'empreinte digitale à l\'arrière du téléphone</string>
 
     <!-- Launch music player when headset is connected -->
     <string name="headset_connect_player_title">Démarrer le lecteur audio</string>
