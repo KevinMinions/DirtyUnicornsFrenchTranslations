@@ -291,4 +291,9 @@
     <string name="sub_deactivate_success">Carte SIM désactivée</string>
     <string name="sub_deactivate_failed">Échec de la désactivation</string>
 
+    <!-- Ambient Display Brightness -->
+    <string name="ambient_doze_custom_brightness_title">Luminosité</string>
+    <string name="ambient_doze_auto_brightness_title">Luminosité automatique</string>
+    <string name="ambient_doze_auto_brightness_summary">Utiliser la dernière valeur de luminosité de l\'écran pour l\'\"Affichage en mode Veille\" ou l\'écran \"Saisissez votre appareil pour le consulter\"</string>
+
 </resources>
