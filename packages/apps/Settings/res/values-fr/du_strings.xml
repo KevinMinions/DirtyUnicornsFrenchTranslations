@@ -292,8 +292,9 @@
     <string name="sub_deactivate_failed">Échec de la désactivation</string>
 
     <!-- Ambient Display Brightness -->
-    <string name="ambient_doze_custom_brightness_title">Luminosité</string>
+    <string name="doze_category_title">Affichage en mode Veille</string>
+    <string name="ambient_doze_custom_brightness_title">Niveau de luminosité</string>
     <string name="ambient_doze_auto_brightness_title">Luminosité automatique</string>
-    <string name="ambient_doze_auto_brightness_summary">Utiliser la dernière valeur de luminosité de l\'écran pour l\'\"Affichage en mode Veille\" ou l\'écran \"Saisissez votre appareil pour le consulter\"</string>
+    <string name="ambient_doze_auto_brightness_summary">Utiliser une valeur identique de luminosité de l\'écran pour les options \"Affichage en mode Veille\" et \"Saisissez votre appareil pour le consulter\"</string>
 
 </resources>
