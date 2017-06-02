@@ -52,6 +52,8 @@
     <string name="drawer_open">Ouvrir le tiroir de navigation</string>
     <string name="drawer_close">Fermer le tiroir de navigation</string>
 
+    <string name="current_output">Sortie actuelle :</string>
+
     <string name="stereowide_light">Légère</string>
     <string name="stereowide_moderate">Modérée</string>
     <string name="stereowide_high">Élevée</string>
