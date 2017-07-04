@@ -571,7 +571,7 @@
     <string name="text_charging_symbol_flash">Éclair</string>
     <string name="text_charging_symbol_tilde">Tilde</string>
     <string name="status_bar_pulse_charging_battery_title">Indicateur clignotant de batterie</string>
-    <string name="status_bar_pulse_charging_battery_summary_off">L\'indicateur clignote uniquement pour le style d'icône \"Disque\" lors de la charge</string>
+    <string name="status_bar_pulse_charging_battery_summary_off">L\'indicateur clignote uniquement pour le style d\'icône \"Disque\" lors de la charge</string>
     <string name="status_bar_pulse_charging_battery_summary_on">L\'indicateur clignote pour tous les styles d\'icône lors de la charge</string>
 
     <!-- Clear-All recents FAB -->
