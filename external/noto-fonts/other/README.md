@@ -1,3 +1,3 @@
 Frimousses d'Android O
 NotoColorEmoji.ttf
-Angler Nexus 6P - O Preview - angler-opp3.170518.006
+Angler Nexus 6P - O Preview - angler-opp4.170623.014
