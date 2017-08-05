@@ -710,7 +710,7 @@
     <string name="ok">OK</string>
     <string name="advanced">Paramètres avancés</string>
     <string name="profiles_add">Ajouter...</string>
-    <string name="battery_light_allow_on_dnd_title">Voyant de la batterie en mode Ne pas déranger</string>
+    <string name="battery_light_allow_on_dnd_title">Activer en mode Ne pas déranger</string>
 
     <!-- Notification light dialogs -->
     <string name="edit_light_settings">Paramètres du voyant</string>
