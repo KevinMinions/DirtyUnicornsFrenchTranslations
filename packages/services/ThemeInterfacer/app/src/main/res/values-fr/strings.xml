@@ -1,0 +1,6 @@
+<resources>
+    <string name="perm_group_label">Interface de thème</string>
+    <string name="perm_group_desc">Permet \l'accès au service de l\'interface de thème</string>
+    <string name="perm_group_inner_desc">peut accéder au service de l\'interface de thème</string>
+    <string name="perm_access_label">Accès à l\'interface de thème</string>
+</resources>
