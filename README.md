@@ -1,6 +1,6 @@
 ![LogoFR](http://img4.hostingpics.net/pics/842140DUFR11GitHub2.jpg)
 
-# Fichiers de traduction pour Dirty Unicorns 11 (Android 7.0) #
+# Fichiers de traduction pour Dirty Unicorns 12 (Android 8.0) #
 
 Ce repertoire contient simplement les fichiers de traductions nécessaires
 pour compiler Dirty Unicorns 11 (Android 7.0) en français, en attendant l'actualisation de la page [Crowdin](https://crowdin.com/project/dirtyunicorns/fr#) pour Dirty Unicorns 11.
@@ -15,7 +15,7 @@ pour compiler Dirty Unicorns 11 (Android 7.0) en français, en attendant l'actua
 
 Translation Tools is a program, developed by the French Android ROM translator Delphin PETER, to assist translators in translating Android ROM into their language.
 
-[TranslationTools pour Dirty Unicorns 11](https://github.com/DelphinPETER/TranslationTools/tree/du70)
+[TranslationTools pour Dirty Unicorns 11](https://github.com/DelphinPETER/TranslationTools/tree/du80)
 
-N'hésitez pas à proposer des modifications au fichier [project.xml](https://github.com/DelphinPETER/TranslationTools/blob/du70/project.xml) si besoin.
+N'hésitez pas à proposer des modifications au fichier [project.xml](https://github.com/DelphinPETER/TranslationTools/blob/du80/project.xml) si besoin.
 
