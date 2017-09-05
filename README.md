@@ -3,7 +3,7 @@
 # Fichiers de traduction pour Dirty Unicorns 12 (Android 8.0) #
 
 Ce repertoire contient simplement les fichiers de traductions nécessaires
-pour compiler Dirty Unicorns 11 (Android 7.0) en français, en attendant l'actualisation de la page [Crowdin](https://crowdin.com/project/dirtyunicorns/fr#) pour Dirty Unicorns 11.
+pour compiler Dirty Unicorns 12 (Android 8.0) en français.
 
 # GitHub de Dirty Unicorns 11 (Android 7.0) #
 
