@@ -29,7 +29,7 @@
     <string name="hand_wave_gesture_title">Geste de la main</string>
     <string name="hand_wave_gesture_summary">Afficher les notifications lors du passage de la main devant le téléphone</string>
     <string name="pocket_gesture_title">Poche</string>
-    <string name="pocket_gesture_summary">Afficher les notifications en sortant l\'appareil de la poche</string>
+    <string name="pocket_gesture_summary">Afficher les notifications en sortant le téléphone de la poche</string>
 
     <!-- Help text -->
     <string name="dlg_ok">OK</string>
