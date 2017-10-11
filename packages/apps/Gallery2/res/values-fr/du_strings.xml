@@ -15,11 +15,6 @@
  -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <plurals name="ingest_number_of_items_scanned">
-    <item quantity="zero">%1$d élément analysé</item>
-    <item quantity="one">%1$d élément analysé</item>
-    <item quantity="other">%1$d éléments analysés</item>
-  </plurals>
     <!-- String indicating how many media items from the camera have been selected -->
     <plurals name="ingest_number_of_items_selected">
         <item quantity="zero">%1$d élément sélectionné</item>
