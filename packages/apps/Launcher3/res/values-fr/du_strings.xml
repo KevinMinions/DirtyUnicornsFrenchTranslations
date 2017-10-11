@@ -16,8 +16,8 @@
 
 <resources>
     <!-- Developer setting to change the shape of icons on home screen. [CHAR LIMIT=50] -->
-    <string name="icon_shape_override_label">Modifier l\'apparence de l\'icône</string>
+    <string name="icon_shape_override_label">Modifier la forme de l\'icône</string>
     <!-- Message shown in the progress dialog when the icon shape override is being applied [CHAR LIMIT=100]-->
-    <string name="icon_shape_override_progress">Modifications de l\'apparence en cours</string>
+    <string name="icon_shape_override_progress">Modification en cours</string>
 </resources>
 
