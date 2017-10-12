@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">LensPicker</string>
+    <string name="unknown_provider_name">Fournisseur inconnu</string>
+
+    <!-- Title of intent resolver dialog when selecting an application to run. -->
+    <string name="whichApplication">Continuer en utilisant</string>
+    <!-- Title of intent resolver dialog when selecting an application to run
+         and a previously used application is known. -->
+    <string name="whichApplicationNamed">Continuer en utilisant %1$s</string>
+    <!-- Generic label for a link to a intent resolver. -->
+    <string name="whichApplicationLabel">Continuer</string>
+    <!-- Title of intent resolver dialog when selecting a viewer application to run. -->
+    <string name="whichViewApplication">Ouvrir avec</string>
+    <!-- Title of intent resolver dialog when selecting a viewer application to run
+         and a previously used application is known. -->
+    <string name="whichViewApplicationNamed">Ouvrir avec %1$s</string>
+    <!-- Label for a link to a intent resolver dialog to view something -->
+    <string name="whichViewApplicationLabel">Ouvrir</string>
+    <!-- Title of intent resolver dialog when selecting an editor application to run. -->
+    <string name="whichEditApplication">Modifier avec</string>
+    <!-- Title of intent resolver dialog when selecting an editor application to run
+         and a previously used application is known. -->
+    <string name="whichEditApplicationNamed">Modifier avec %1$s</string>
+    <!-- Label for a link to a intent resolver dialog when selecting an editor application -->
+    <string name="whichEditApplicationLabel">Modifier</string>
+    <!-- Title of intent resolver dialog when selecting a sharing application to run. -->
+    <string name="whichSendApplication">Partager via</string>
+    <!-- Title of intent resolver dialog when selecting a sharing application to run
+         and a previously used application is known. -->
+    <string name="whichSendApplicationNamed">Partager via %1$s</string>
+    <!-- Label for a link to a intent resolver dialog to sharing something -->
+    <string name="whichSendApplicationLabel">Partager</string>
+    <!-- Title of intent resolver dialog when selecting an application to run to
+         send content to a specific recipient. Often used for email. -->
+    <string name="whichSendToApplication">Envoyer via</string>
+    <!-- Title of intent resolver dialog when selecting an application to run to
+         send content to a specific recipient and a previously used application is known.
+         Often used for email. -->
+    <string name="whichSendToApplicationNamed">Envoyer via %1$s</string>
+    <!-- Label for a link to a intent resolver dialog to send content to a specific recipient. -->
+    <string name="whichSendToApplicationLabel">Envoyer</string>
+    <!-- Title of intent resolver dialog when selecting a HOME application to run. -->
+    <string name="whichHomeApplication">Sélectionner une application Accuei</string>
+    <!-- Title of intent resolver dialog when selecting a HOME application to run
+         and a previously used application is known. -->
+    <string name="whichHomeApplicationNamed">Utiliser %1$s comme Accuei</string>
+    <!-- Label for a link to a intent resolver dialog when selecting a HOME -->
+    <string name="whichHomeApplicationLabel">Capture d\'image</string>
+    <!-- Option to always use the selected application resolution in the future. See the
+        "Complete action using" dialog title-->
+    <!-- Title of intent resolver dialog when capturing an image. -->
+    <string name="whichImageCaptureApplication">Capture d\'image en utilisant</string>
+    <!-- Title of intent resolver dialog when capturing an image
+         and a previously used application is known. -->
+    <string name="whichImageCaptureApplicationNamed">Capture d\'image en utilisant %1$s</string>
+    <!-- Label for a link to a intent resolver dialog when capturing an image -->
+    <string name="whichImageCaptureApplicationLabel">Capture d\'image</string>
+    <!-- Option to always use the selected application resolution in the future. See the "Complete action using" dialog title-->
+    <string name="alwaysUse">Toujours</string>
+</resources>
