@@ -33,5 +33,9 @@
     <!-- Density category -->
     <string name="density_category">Densité</string>
 
+    <!-- Root Management -->
+    <string name="rootmanagement_title">Root</string>
+    <string name="rootmanagement_dashboard_summary">Gestion des accès \"Root\"</string>
+
 </resources>
 
