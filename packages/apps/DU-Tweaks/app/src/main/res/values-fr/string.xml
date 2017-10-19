@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2017 The Dirty Unicorns Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+    <!-- Bottom navigation -->
+    <string name="bottom_nav_system_title">Système</string>
+    <string name="bottom_nav_lockscreen_title">Écran de déverrouillage</string>
+    <string name="bottom_nav_statusbar_title">Barre d\'état</string>
+    <string name="bottom_nav_navigation_title">Navigation</string>
+    <string name="bottom_nav_multitasking_title">Multi-tâche</string>
+
+    <!-- Categories -->
+    <!-- System -->
+    <string name="device_extras_title">Spécifiques</string>
+    <string name="device_extras_summary">Réglages spécifiques de cet appareil</string>
+    <string name="miscellaneous_title">Divers</string>
+    <string name="miscellaneous_summary">Réglages qui ne correspondent pas aux autres catégories</string>
+    <string name="powermenu_title">Menu Marche/Arrêt</string>
+    <string name="powermenu_summary">Réglages des options du menu Marche/Arrêt telles que la Lampe de poche, le Mode avion ou la capture d\'écran</string>
+    <!-- Lockscreen -->
+    <string name="fingerprint_prefs_title">Empreinte digitale</string>
+    <string name="fingerprint_prefs_summary">Réglages spécifiques au lecteur d\'empreintes digitales</string>
+    <string name="lockscreen_items_title">Écran de déverrouillage</string>
+    <string name="lockscreen_items_summary">Réglages des éléments à afficher sur l\'écran de déverrouillage</string>
+    <!-- Statusbar -->
+    <string name="battery_options_title">Batterie</string>
+    <string name="battery_options_summary">Réglages de l\'icône de la batterie de la barre d\'état et de la tuile du panneau de configuration</string>
+    <string name="carrier_label_title">Libellé opérateur</string>
+    <string name="carrier_label_summary">Réglages du libellé opérateur de la barre d\'état</string>
+    <string name="clock_options_title">Horloge</string>
+    <string name="clock_options_summary">Réglages de l\'horloge de la barre d\'état</string>
+    <string name="notifications_title">Notifications</string>
+    <string name="notifications_summary">Réglages spécifiques des notifications système</string>
+    <string name="quicksettings_title">Panneau de configuration</string>
+    <string name="quicksettings_summary">Réglages du panneau de configuration avec des options allant des en-têtes contextuels à la météo</string>
+    <string name="statusbar_items_title">Barre d\'état</string>
+    <string name="statusbar_items_summary">Réglages des éléments à afficher sur la barre d\'état</string>
+    <string name="ticker_title">Aperçu</string>
+    <string name="ticker_summary">Réglages de l\'aperçu de notification sur la barre d\'état</string>
+    <string name="traffic_title">Indicateurs de trafic</string>
+    <string name="traffic_summary">Réglages de l\'indicateurs de vitesse de réseau sur la barre d\'état</string>
+    <!-- Navigation -->
+    <string name="buttons_title">Boutons</string>
+    <string name="buttons_summary">Réglages des boutons physiques et du bouton Volume</string>
+    <string name="navigationbar_title">Barre de navigation bar</string>
+    <string name="navigationbar_summary">Réglages de Smartbar, Fling et Pulse</string>
+    <!-- Multitasking -->
+    <string name="headsup_title">Notifications flottantes</string>
+    <string name="headsup_summary">Réglages des notifications flottantes</string>
+    <string name="omniswitch_title">Omniswitch</string>
+    <string name="omniswitch_summary">Réglages d\'OmniSwitch</string>
+    <string name="recents_title">Applications récentes</string>
+    <string name="recents_summary">Réglages des applications récentes OmniSwitch ou AOSP</string>
+
+</resources>
