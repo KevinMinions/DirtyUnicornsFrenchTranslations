@@ -16,6 +16,9 @@
 
 <resources>
 
+    <string name="hide_app_icon">Masquer l\'application</string>
+    <string name="features_not_available">Cette catégorie ne contient, pour le moment, aucune fonctionnalité</string>
+
     <!-- Bottom navigation -->
     <string name="bottom_nav_system_title">Système</string>
     <string name="bottom_nav_lockscreen_title">Écran de déverrouillage</string>
