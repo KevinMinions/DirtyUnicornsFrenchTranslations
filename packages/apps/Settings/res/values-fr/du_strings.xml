@@ -15,6 +15,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- Encryption and credential -->
+    <string name="custom_encryption_and_credential_settings_summary_on">Appareil chiffré</string>
+    <string name="custom_encryption_and_credential_settings_summary_off">Appareil non chiffré</string>
+
     <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
     <string name="local_backup_password_title">Mot de passe sauvegarde PC</string>
 
@@ -36,6 +40,10 @@
     <!-- Root Management -->
     <string name="rootmanagement_title">Root</string>
     <string name="rootmanagement_dashboard_summary">Gestion des accès \"Root\"</string>
+
+    <!-- Dirty Tweaks -->
+    <string name="dirtytweaks_title">Dirty Tweaks</string>
+    <string name="dirtytweaks_summary">Améliorez votre expérience</string>
 
 </resources>
 
