@@ -19,9 +19,6 @@
     <string name="custom_encryption_and_credential_settings_summary_on">Appareil chiffré</string>
     <string name="custom_encryption_and_credential_settings_summary_off">Appareil non chiffré</string>
 
-    <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
-    <string name="local_backup_password_title">Mot de passe sauvegarde PC</string>
-
     <!-- [CHAR LIMIT=NONE] Device Info screen. Countdown for user taps to enable development settings -->
     <plurals name="show_dev_countdown_custom">
         <item quantity="one">Encore <xliff:g id="step_count">%1$d</xliff:g> appui avant l\'activation des Options développeur</item>
@@ -44,6 +41,21 @@
     <!-- Dirty Tweaks -->
     <string name="dirtytweaks_title">Dirty Tweaks</string>
     <string name="dirtytweaks_summary">Améliorez votre expérience</string>
+
+    <!-- DU version in About phone -->
+    <string name="rom_version_title">Version de DU</string>
+
+    <!-- Wake on Plug -->
+    <string name="wake_when_plugged_or_unplugged_title">Réveiller au branchement</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Allumer l\'écran lorsque le chargeur est connecté ou déconnecté</string>
+
+    <!-- Advanced night mode brightness -->
+    <string name="night_brightness_category">Niveau de luminosité</string>
+    <string name="night_brightness_value_title">Définir le niveau de luminosité appliqué lorsque \"Éclairage nocturne\" est activé</string>
+    <string name="night_bright_disabled">Désactivé</string>
+    <string name="night_bright_minimum">Luminosité minimale</string>
+    <string name="night_bright_low">Luminosité faible</string>
+    <string name="night_bright_medium">Luminosité moyenne</string>
 
 </resources>
 
