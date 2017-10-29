@@ -18,4 +18,18 @@
 
     <!-- Vendor mismatched fingerprint warning [CHAR LIMIT=NONE] -->
     <string name="system_error_vendorprint">Votre \"vendor.img\" est obsolète. Veuillez installer la version <xliff:g id="string">%s</xliff:g></string>
+
+    <!-- Power menu -->
+    <string name="reboot_system" product="tablet">Redémarrer la tablette</string>
+    <string name="reboot_system" product="default">Redémarrer le téléphone</string>
+    <string name="reboot_reboot">Redémarrer</string>
+    <string name="reboot_hot">Hot reboot</string>
+    <string name="reboot_to_recovery_title">Recovery</string>
+    <string name="reboot_recovery_progress">Redémarrage vers le Recovery en cours\u2026</string>
+    <string name="reboot_recovery">Recovery</string>
+    <string name="reboot_bootloader">Bootloader</string>
+    <string name="reboot_to_bootloader_title">Bootloader</string>
+    <string name="reboot_to_bootloader_message">Redémarrage vers le Bootloader en cours\u2026</string>
+    <string name="reboot_progress">Redémarrage en cours\u2026</string>
+    <string name="global_action_reboot">Redémarrer</string>
 </resources>
