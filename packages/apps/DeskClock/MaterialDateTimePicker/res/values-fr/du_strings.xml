@@ -23,7 +23,9 @@
     -->
     <string name="mdtp_second_picker_description">Curseur circulaire des secondes</string>
     <!-- Accessibility announcement for second circular picker [CHAR LIMIT=NONE] -->
-    <string name="mdtp_select_seconds">Sélectionnez les secondes</string>
+    <string name="mdtp_select_seconds">Sélectionner les secondes</string>
+    <string name="mdtp_select_day">Sélectionner un mois et un jour</string>
+    <string name="mdtp_select_year">Sélectionner une année</string>
 
     <string name="entry_ten_minute">10 minutes</string>
     <string name="entry_fifteen_minute">15 minutes</string>
