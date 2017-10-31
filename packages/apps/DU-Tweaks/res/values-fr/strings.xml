@@ -80,4 +80,21 @@
     <string name="set">Définir</string>
     <string name="color_default">Par défaut</string>
 
+    <!-- Network Traffic -->
+    <string name="network_traffic_state_title">Afficher l\'indicateur de vitesse de réseau</string>
+    <string name="network_traffic_autohide_threshold_title">Seuil de masquage automatique l\'indicateur de vitesse de réseau (KB/s)</string>
+
+    <!-- Volume key controls media stream -->
+    <string name="volume_keys_control_media_stream_title">Flux audio \"multimédia\"</string>
+    <string name="volume_keys_control_media_stream_summary">Utiliser les boutons Volume pour régler uniquement le flux audio \"multimédia\"</string>
+
+    <!-- Launch music player when headset is connected -->
+    <string name="headset_connect_player_title">Démarrer le lecteur audio</string>
+    <string name="headset_connect_player_disabled">Désactivé</string>
+    <string name="headset_connect_player_wired">Lorsque le casque filaire est branché</string>
+    <string name="headset_connect_player_bt_no_carkit">Lorsque le casque Bluetooth est connecté (Hormis kit mains-libres)</string>
+    <string name="headset_connect_player_bt">Lorsque le casque Bluetooth est connecté</string>
+    <string name="headset_connect_player_both_no_carkit">Lorsque le casque filaire ou casque Bluetooth est connecté (Hormis kit mains-libres)</string>
+    <string name="headset_connect_player_both">Lorsque le casque filaire ou casque Bluetooth est connecté</string>
+
 </resources>
