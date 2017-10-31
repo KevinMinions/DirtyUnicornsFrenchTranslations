@@ -13,7 +13,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="ambient_display_title">Affichage en mode Veill</string>
+    <string name="ambient_display_title">Affichage en mode Veille</string>
     <string name="ambient_display_summary">Réveiller l\'appareil lors de la réception de notifications</string>
 
     <string name="always_enabled_title">Toujours activer</string>
