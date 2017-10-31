@@ -82,7 +82,7 @@
 
     <!-- Network Traffic -->
     <string name="network_traffic_state_title">Afficher l\'indicateur de vitesse de réseau</string>
-    <string name="network_traffic_autohide_threshold_title">Seuil de masquage automatique l\'indicateur de vitesse de réseau (KB/s)</string>
+    <string name="network_traffic_autohide_threshold_title">Seuil de masquage automatique (KB/s)</string>
 
     <!-- Volume key controls media stream -->
     <string name="volume_keys_control_media_stream_title">Flux audio \"multimédia\"</string>
