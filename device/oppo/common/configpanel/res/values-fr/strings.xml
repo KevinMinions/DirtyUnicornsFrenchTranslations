@@ -83,7 +83,7 @@
   <string name="notification_slider_top_position">Haut</string>
   <string name="notification_slider_middle_position">Milieu</string>
   <string name="notification_slider_bottom_position">Bas</string>
-  <string name="notification_slider_mode_total_silence">Aucune interruptions</string>
+  <string name="notification_slider_mode_total_silence">Aucune interruption</string>
   <string name="notification_slider_mode_alarms_only">Alarmes uniquement</string>
   <string name="notification_slider_mode_priority_only">Prioritaires uniquement</string>
   <string name="notification_slider_mode_none">Normal</string>
