@@ -43,6 +43,8 @@
     <string name="carrier_label_summary">Réglages du libellé opérateur de la barre d\'état</string>
     <string name="clock_options_title">Horloge</string>
     <string name="clock_options_summary">Réglages de l\'horloge de la barre d\'état</string>
+    <string name="icon_manager_title">Gestionnaire d\'icônes</string>
+    <string name="icon_manager_summary">Réglages de l\'affichage des éléments de la barre d\'état</string>
     <string name="notifications_title">Notifications</string>
     <string name="notifications_summary">Réglages spécifiques des notifications système</string>
     <string name="quicksettings_title">Panneau de configuration</string>
@@ -96,5 +98,14 @@
     <string name="headset_connect_player_bt">Lorsque le casque Bluetooth est connecté</string>
     <string name="headset_connect_player_both_no_carkit">Lorsque le casque filaire ou casque Bluetooth est connecté (Hormis kit mains-libres)</string>
     <string name="headset_connect_player_both">Lorsque le casque filaire ou casque Bluetooth est connecté</string>
+
+    <!-- Quick Pulldown-->
+    <string name="quick_pulldown_title">Déroulement rapide</string>
+    <string name="quick_pulldown_summary">Dérouler du côté %1$s  de la barre d\'état pour accéder au panneau de configuration rapide</string>
+    <string name="quick_pulldown_summary_always">Toujours afficher le panneau de configuration rapide lorsque la barre d\'état est déroulée</string>
+    <string name="quick_pulldown_off">Désactivé</string>
+    <string name="quick_pulldown_left">gauche</string>
+    <string name="quick_pulldown_right">droit</string>
+    <string name="quick_pulldown_always">Toujours</string>
 
 </resources>
