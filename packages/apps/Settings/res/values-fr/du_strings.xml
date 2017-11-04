@@ -63,5 +63,9 @@
     <!-- Pixel color on sim card -->
     <string name="default_sim_color">Pixel</string>
 
+    <!-- values-fr/du_strings.xml -->
+    <!-- values-fr/du_strings.xml -->
+    <string name="security_patch">Niveau du correctif de sécurité Android</string>
+
 </resources>
 
