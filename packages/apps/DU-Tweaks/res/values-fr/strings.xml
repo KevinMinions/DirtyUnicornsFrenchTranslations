@@ -16,6 +16,9 @@
 
 <resources>
 
+    <!-- The Team -->
+    <string name="dialog_team_title">L\'Équipe</string>
+
     <!-- Bottom navigation -->
     <string name="bottom_nav_system_title">Système</string>
     <string name="bottom_nav_lockscreen_title">Écran de déverrouillage</string>
@@ -111,5 +114,18 @@
     <!-- Quick Settings brightness icon -->
     <string name="brightness_icon_title">Icône de luminosité</string>
     <string name="brightness_icon_summary">Afficher l\'icône de luminosité à gauche du curseur de luminosité permettant d\'ajuster automatiquement la luminosité</string>
+
+    <!-- Clear all recents -->
+    <string name="aosp_recents_title">AOSP</string>
+    <string name="show_clear_all_recents_button_title">Bouton de fermeture rapide</string>
+    <string name="show_clear_all_recents_button_summary_on">Afficher le bouton</string>
+    <string name="show_clear_all_recents_button_summary_off">Afficher la mention \"Tout Effacer\"</string>
+    <string name="recents_clear_all_location_title">Position du bouton</string>
+    <string name="recents_clear_all_location_top_right">En haut à droite</string>
+    <string name="recents_clear_all_location_top_left">En haut à gauche</string>
+    <string name="recents_clear_all_location_top_center">En haut au milieu</string>
+    <string name="recents_clear_all_location_bottom_right">En bas à droite</string>
+    <string name="recents_clear_all_location_bottom_left">En bas à gauche</string>
+    <string name="recents_clear_all_location_bottom_center">En bas au milieu</string>
 
 </resources>
