@@ -128,4 +128,8 @@
     <string name="recents_clear_all_location_bottom_left">En bas à gauche</string>
     <string name="recents_clear_all_location_bottom_center">En bas au milieu</string>
 
+    <!-- Volume rocker music control -->
+    <string name="volume_button_music_control_title">Contrôle de lecture</string>
+    <string name="volume_button_music_control_summary">Sur écran éteint, un appui prolongé sur les touches Volume change la chanson</string>
+
 </resources>
