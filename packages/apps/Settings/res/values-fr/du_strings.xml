@@ -45,6 +45,13 @@
     <!-- DU version in About phone -->
     <string name="rom_version_title">Version de DU</string>
 
+    <!-- Ambient category -->
+    <string name="doze_category">Mode Veille</string>
+
+    <!-- Ambient display always-on of the tuner-->
+    <string name="always_on_title">Toujours activé</string>
+    <string name="always_on_summary">Réveiller l\'appareil lors de la réception de notifications</string>
+
     <!-- Wake on Plug -->
     <string name="wake_when_plugged_or_unplugged_title">Réveiller au branchement</string>
     <string name="wake_when_plugged_or_unplugged_summary">Allumer l\'écran lorsque le chargeur est connecté ou déconnecté</string>
@@ -57,15 +64,14 @@
     <string name="night_bright_low">Luminosité faible</string>
     <string name="night_bright_medium">Luminosité moyenne</string>
 
+    <!-- values-fr/du_strings.xml -->
+    <string name="security_patch">Niveau du correctif de sécurité Android</string>
+
     <!-- Vibrate on plug -->
     <string name="vibration_on_charge_state_changed_title">Vibrer au branchement</string>
 
     <!-- Pixel color on sim card -->
     <string name="default_sim_color">Pixel</string>
-
-    <!-- values-fr/du_strings.xml -->
-    <!-- values-fr/du_strings.xml -->
-    <string name="security_patch">Niveau du correctif de sécurité Android</string>
 
 </resources>
 
