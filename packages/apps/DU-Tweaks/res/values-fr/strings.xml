@@ -132,4 +132,21 @@
     <string name="volume_button_music_control_title">Contrôle de lecture</string>
     <string name="volume_button_music_control_summary">Sur écran éteint, un appui prolongé sur les touches Volume change la chanson</string>
 
+    <!-- Heads up -->
+    <string name="heads_up_title">Notifications flottantes</string>
+    <string name="heads_up_summary_enabled">Notifications flottantes activées</string>
+    <string name="heads_up_summary_disabled">Notifications flottantes désactivées</string>
+    <string name="heads_up_blacklist_add_package_title">Ajouter une application</string>
+    <string name="heads_up_blacklist_add_package_summary">Désactiver les notifications flottantes de ces applications</string>
+    <string name="heads_up_blacklist_title">Liste d\'exclusion</string>
+    <string name="heads_up_blacklist_choose_app">Sélectionner une application</string>
+    <string name="heads_up_blacklist_dialog_delete_title">Supprimer</string>
+    <string name="heads_up_blacklist_dialog_delete_message">Supprimer l\'élément sélectionné ?</string>
+
+    <!-- Status bar ticker -->
+    <string name="ticker_mode_title">Aperçu de notification</string>
+    <string name="ticker_disabled">Désactivé</string>
+    <string name="ticker_enabled">Aperçu activé</string>
+    <string name="ticker_media_enabled">Aperçu pour les notifications et la musique</string>
+
 </resources>
