@@ -54,7 +54,7 @@
     <string name="quicksettings_summary">Réglages du panneau de configuration avec des options allant des en-têtes contextuels à la météo</string>
     <string name="statusbar_items_title">Barre d\'état</string>
     <string name="statusbar_items_summary">Réglages des éléments à afficher sur la barre d\'état</string>
-    <string name="ticker_title">Aperçu</string>
+    <string name="ticker_title">Aperçu de notification</string>
     <string name="ticker_summary">Réglages de l\'aperçu de notification sur la barre d\'état</string>
     <string name="traffic_title">Indicateurs de trafic</string>
     <string name="traffic_summary">Réglages de l\'indicateurs de vitesse de réseau sur la barre d\'état</string>
@@ -208,6 +208,5 @@
     <string name="led_color_green">Vert</string>
     <string name="led_color_red">Rouge</string>
     <string name="led_color_blue">Bleu</string>
-
 
 </resources>
