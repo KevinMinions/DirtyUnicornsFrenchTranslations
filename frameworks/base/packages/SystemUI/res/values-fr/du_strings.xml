@@ -26,5 +26,9 @@
 
     <!-- SystemUI Tuner Parts -->
     <string name="systemui_tuner_icon_manager_title">Gestionnaire d\'icônes</string>
+    <string name="systemui_tuner_lockscreen_bottom_shortcuts_title">Raccourcis du bas</string>
+    <string name="lockscreen_default">Par défaut</string>
+    <string name="lockscreen_hidden">Aucun</string>
+    <string name="custom_hint">Glisser depuis l\'icône pour démarrer</string>
 
 </resources>
