@@ -209,4 +209,8 @@
     <string name="led_color_red">Rouge</string>
     <string name="led_color_blue">Bleu</string>
 
+    <!-- Bottom shortcuts -->
+    <string name="systemui_tuner_lockscreen_bottom_shortcuts_title">Raccourcis du bas</string>
+    <string name="systemui_tuner_lockscreen_bottom_shortcuts_summary">Réglages des raccourcis du bas</string>
+
 </resources>
