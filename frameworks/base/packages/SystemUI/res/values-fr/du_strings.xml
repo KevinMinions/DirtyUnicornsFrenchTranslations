@@ -17,6 +17,9 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- Screenshot Delete Toast -->
+    <string name="delete_screenshot_toast">Capture d\'écran supprimée</string>
+
     <!-- Indication on the keyguard that is shown when the device is charging with a dash charger. Should match keyguard_plugged_in_dash_charging [CHAR LIMIT=40]-->
     <string name="keyguard_indication_dash_charging_time">Charge Dash… (Complètement chargé dans <xliff:g id="charging_time_left">%s</xliff:g>)</string>
     <string name="keyguard_plugged_in_dash_charging">Charge Dash</string>
@@ -30,5 +33,13 @@
     <string name="lockscreen_default">Par défaut</string>
     <string name="lockscreen_hidden">Aucun</string>
     <string name="custom_hint">Glisser depuis l\'icône pour démarrer</string>
+
+    <!-- QS Tiles -->
+    <string name="quick_settings_reboot_label">Redémarrer</string>
+    <string name="quick_settings_reboot_recovery_label">Recovery</string>
+    <string name="quick_settings_screenshot_label">Capture d\'écran</string>
+    <string name="quick_settings_caffeine_label">Caffeine</string>
+    <string name="accessibility_quick_settings_caffeine_off">\"Caffeine\" désactivé</string>
+    <string name="accessibility_quick_settings_caffeine_on">\"Caffeine\" activé</string>
 
 </resources>
