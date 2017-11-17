@@ -113,7 +113,13 @@
 
     <!-- Quick Settings brightness icon -->
     <string name="brightness_icon_title">Icône de luminosité</string>
-    <string name="brightness_icon_summary">Afficher l\'icône de luminosité à gauche du curseur de luminosité permettant d\'ajuster automatiquement la luminosité</string>
+    <string name="brightness_icon_summary">Afficher l\'icône de luminosité à droite du curseur de luminosité permettant d\'ajuster automatiquement la luminosité</string>
+
+    <!-- Quick settings -->
+    <string name="qs_layout_category">Disposition</string>
+    <string name="qs_columns_title">Nombre de clonnes</string>
+    <string name="qs_tile_title_visibility_title">Titres</string>
+    <string name="qs_tile_title_visibility_summary">Afficher les titres des tuiles du panneau de configuration rapide</string>
 
     <!-- Clear all recents -->
     <string name="aosp_recents_title">AOSP</string>
@@ -128,9 +134,17 @@
     <string name="recents_clear_all_location_bottom_left">En bas à gauche</string>
     <string name="recents_clear_all_location_bottom_center">En bas au milieu</string>
 
+    <!-- Fingerprint authentication vibration -->
+    <string name="fprint_sucess_vib_title">Authentification</string>
+    <string name="fprint_sucess_vib_summary">Vibrer en cas d\'authentification par empreinte digitale réussie</string>
+
     <!-- Volume rocker music control -->
     <string name="volume_button_music_control_title">Contrôle de lecture</string>
     <string name="volume_button_music_control_summary">Sur écran éteint, un appui prolongé sur les touches Volume change la chanson</string>
+
+    <!-- Volume key rotation -->
+    <string name="swap_volume_buttons_title">Réorienter</string>
+    <string name="swap_volume_buttons_summary">En mode Paysage, inverser les boutons Volume</string>
 
     <!-- Heads up -->
     <string name="heads_up_title">Notifications flottantes</string>
@@ -212,5 +226,13 @@
     <!-- Bottom shortcuts -->
     <string name="systemui_tuner_lockscreen_bottom_shortcuts_title">Raccourcis du bas</string>
     <string name="systemui_tuner_lockscreen_bottom_shortcuts_summary">Réglages des raccourcis du bas</string>
+
+    <!-- Toast icons -->
+    <string name="toast_icon_title">Icône contextuelle</string>
+    <string name="toast_icon_summary">Afficher l\'icône de l\'application correspondante dans la notification contextuelle</string>
+
+    <!-- Volume rocker wake -->
+    <string name="volume_rocker_wake_title">Réveiller avec les boutons Volume</string>
+    <string name="volume_rocker_wake_summary">Sortir l\'appareil de la veille en appuyant sur un des boutons Volume</string>
 
 </resources>
