@@ -26,6 +26,10 @@
     <string name="bottom_nav_navigation_title">Navigation</string>
     <string name="bottom_nav_multitasking_title">Multi-tâche</string>
 
+    <!-- Footer warnings -->
+    <string name="heads_up_warning_text">Les notifications flottantes sont destinées à être employées comme outil multi-tâche lors de l\'usage d\'applications en plein écran et/ou de jeux. Leur utilisation désactive l\'aperçu de notification sur la barre d\'état.</string>
+    <string name="ticker_warning_text">L\'aperçu de notification sur la barre d\'état est destiné à être employé comme outil multi-tâche et procure un sentiment de nostalgie. Son utilisation désactive les notifications flottantes.</string>
+
     <!-- Categories -->
     <!-- System -->
     <string name="device_extras_title">Spécifiques</string>
