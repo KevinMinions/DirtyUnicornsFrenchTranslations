@@ -100,11 +100,11 @@
     <!-- Launch music player when headset is connected -->
     <string name="headset_connect_player_title">Démarrer le lecteur audio</string>
     <string name="headset_connect_player_disabled">Désactivé</string>
-    <string name="headset_connect_player_wired">Lorsque le casque filaire est branché</string>
-    <string name="headset_connect_player_bt_no_carkit">Lorsque le casque Bluetooth est connecté (Hormis kit mains-libres)</string>
-    <string name="headset_connect_player_bt">Lorsque le casque Bluetooth est connecté</string>
-    <string name="headset_connect_player_both_no_carkit">Lorsque le casque filaire ou casque Bluetooth est connecté (Hormis kit mains-libres)</string>
-    <string name="headset_connect_player_both">Lorsque le casque filaire ou casque Bluetooth est connecté</string>
+    <string name="headset_connect_player_wired">Casque filaire branché</string>
+    <string name="headset_connect_player_bt_no_carkit">Casque Bluetooth connecté (Sauf kit voiture)</string>
+    <string name="headset_connect_player_bt">Casque Bluetooth connecté</string>
+    <string name="headset_connect_player_both_no_carkit">N\'importe quel casque connecté (Sauf kit voiture)</string>
+    <string name="headset_connect_player_both">N\'importe quel casque connecté</string>
 
     <!-- Quick Pulldown-->
     <string name="quick_pulldown_title">Déroulement rapide</string>
@@ -118,6 +118,10 @@
     <!-- Quick Settings brightness icon -->
     <string name="brightness_icon_title">Icône de luminosité</string>
     <string name="brightness_icon_summary">Afficher l\'icône de luminosité à droite du curseur de luminosité permettant d\'ajuster automatiquement la luminosité</string>
+
+    <!-- Option to show brightness bar in quick settings -->
+    <string name="show_brightness_title">Curseur de luminosité</string>
+    <string name="show_brightness_summary">Afficher le curseur de luminosité</string>
 
     <!-- Quick settings -->
     <string name="qs_layout_category">Disposition</string>
