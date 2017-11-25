@@ -277,7 +277,7 @@
     <string name="fling_settings_summary">Une barre de navigation unique, contrôlable par gestes et entièrement personnalisable</string>
     <string name="fling_interface">Fling</string>
     <string name="fling_enable_title">Activer</string>
-    <string name="fling_back_home_policy">Les fonctionnalités \"Retour\" et \"Accueil\" doivent toujours être définies. Pour modifier les raccourcis \"Retour\" ou \"Accueil\", il faut d\'abord les définir sur un autre raccourci.\n\nEn outre, le réglage d\'une action par double appui augmentera un peu l\'action par simple appui.</string>
+    <string name="fling_back_home_policy">Les fonctionnalités \"Retour\" et \"Accueil\" doivent toujours être définies. Pour modifier les raccourcis \"Retour\" ou \"Accueil\", il faut d\'abord les définir sur un autre raccourci.\n\nEn outre, le réglage d\'une action par double appui augmentera un peu le délai d\'action par appui simple.</string>
     <string name="fling_split_bar_policy">Lorsqu\'une seule action (à gauche ou à droite) est définie, elle s\'applique à l\'ensemble de la barre</string>
     <string name="fling_def_summary">Aucune action définie</string>
     <string name="fling_swipe_actions">Glissements</string>
@@ -314,11 +314,11 @@
     <string name="fling_trails_width_title">Épaisseur du tracé</string>
     <string name="fling_appearance">Apparence</string>
     <string name="fling_show_logo_title">Afficher le logo de Fling</string>
-    <string name="fling_animate_logo_title">Animer le logo</string>
+    <string name="fling_animate_logo_title">Logo animé</string>
     <string name="fling_animate_logo_summary">Le logo s\'anime lors des appuis</string>
     <string name="fling_logo_color">Couleur du logo</string>
-    <string name="fling_logo_custom_logo_pick_title">Icône du logo</string>
-    <string name="fling_logo_custom_logo_image_pick_title">Choisir l\'icône du logo</string>
+    <string name="fling_logo_custom_logo_pick_title">Choisir l\'icône du logo (paquet d\'icônes)</string>
+    <string name="fling_logo_custom_logo_image_pick_title">Choisir l\'icône du logo (image)</string>
     <string name="fling_logo_custom_logo_reset_title">Réinitialiser l\'icône du logo</string>
     <string name="fling_show_ripple_title">Ondulation</string>
     <string name="fling_show_ripple_summary">Effet d\'ondulation lors des appuis</string>
@@ -329,27 +329,27 @@
     <string name="fling_longpress_summary">Augmenter ou diminuer délai d\'appui prolongé</string>
     <string name="fling_keyboard_cursors_title">Curseurs dynamiques du clavier</string>
     <string name="fling_keyboard_cursors_summary">Lorsque le clavier est affiché, les actions par double appui gauche et droit sont remplacées par le contrôle du curseur du clavier</string>
-    <string name="fling_logo_opacity_title">Transparence du logo</string>
+    <string name="fling_logo_opacity_title">Opacité du logo</string>
 
     <!-- Pulse navigation bar music visualizer -->
     <string name="pulse_help_policy_notice_summary">Pulse ne fonctionne pas avec certaines sources audio lors de l\'écoute de musique sur le(s) haut-parleur(s) de l\'appareil</string>
     <string name="pulse_settings">Pulse</string>
     <string name="pulse_settings_summary">Égaliseur audio sur la barre de navigation</string>
     <string name="fling_show_pulse_title">Pulse</string>
-    <string name="fling_show_pulse_summary">Visualisation à l\'aspect d\'un égaliseur audio la barre de navigation</string>
+    <string name="fling_show_pulse_summary">Animation à l\'aspect d\'un égaliseur audio sur la barre de navigation</string>
     <string name="pulse_render_mode_title">Mode de rendu</string>
     <string name="pulse_render_mode_fading_bars">Fondu des blocs</string>
     <string name="pulse_render_mode_solid_lines">Lignes pleines</string>
-    <string name="fling_pulse_color">Couleur de Pulser</string>
+    <string name="fling_pulse_color">Couleur de Pulse</string>
     <string name="eos_fling_lavalamp_title">Lampe Lava</string>
-    <string name="eos_fling_lavalamp_summary">Pulse anime la lampe Lava</string>
+    <string name="eos_fling_lavalamp_summary">Ajoute l\'effet de mélange de couleurs \"Lampe Lava\"</string>
     <string name="pulse_advanced_category">Options avancées</string>
     <string name="pulse_legacy_mode_advanced_category">Fondu des blocs</string>
     <string name="pulse_custom_fudge_factor">Fréquence de Pulse</string>
     <string name="lavamp_solid_speed_title">Vitesse de la lampe Lava</string>
     <string name="pulse_solid_units_count">Nombre de lignes</string>
     <string name="pulse_solid_lines_count">Nombre de lignes</string>
-    <string name="pulse_solid_units_opacity">Transparence des lignes</string>
+    <string name="pulse_solid_units_opacity">Opacité des lignes</string>
     <string name="pulse_solid_dimen_category">Lignes pleines</string>
     <string name="pulse_custom_buttons_opacity_title">Opacité des boutons sur Pulse</string>
 
@@ -371,8 +371,8 @@
     <string name="smartbar_settings_title">Paramètres</string>
     <string name="smartbar_settings_summary">Barre de navigation entièrement personnalisable</string>
      <string name="smartbar_editor_title">Édition des boutons</string>
-    <string name="smartbar_editor_summary">Ouvrir l\'éditeur</string>
-    <string name="smartbar_help_policy_notice_summary">Maintenir appuyé et faire glisser le bouton, pour en modifier la position.\nAfficher le menu d\'édition du bouton par appui prolongé.\nLa position du bouton peut être modifiée lors de l\'affichage du menu d\'édition.\n\nLe réglage d\'une action par double appui augmentera un peu l\'action par simple appui.</string>
+    <string name="smartbar_editor_summary">Démarrer l\'éditeur</string>
+    <string name="smartbar_help_policy_notice_summary">Maintenir appuyé et faire glisser le bouton, pour en modifier la position.\nAfficher le menu d\'édition du bouton par appui prolongé.\nLa position du bouton peut être modifiée lors de l\'affichage du menu d\'édition.\n\nLe réglage d\'une action par double appui augmentera un peu le délai d\'action par appui simple.</string>
     <string name="smartbar_context_menu_position_title">Boutons contextuels</string>
     <string name="smartbar_context_menu_position_summary">Régler la position des boutons contextuels tels que le bouton Menu ou le sélecteur de clavier</string>
     <string name="smartbar_right">À droite</string>
