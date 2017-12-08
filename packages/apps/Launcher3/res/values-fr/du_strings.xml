@@ -13,11 +13,36 @@
 
 <resources>
 
+    <!-- Preference categories -->
+    <string name="home_category_title">Écran d\'accueil</string>
+    <string name="icon_category_title">Icônes d\'application</string>
+    <string name="widget_category_title">Widgets</string>
+
     <!-- Icon shape on home screen -->
     <string name="icon_shape_system_square">Carré</string>
-    <string name="icon_shape_system_squircle">Carré arrondi</string>
+    <string name="icon_shape_system_squircle">Carrercle</string>
     <string name="icon_shape_system_circle">Cercle</string>
     <string name="icon_shape_system_teardrop">Goutte</string>
+
+    <!-- Icon packs -->
+    <string name="icon_pack">Paquet d\'icônes</string>
+    <string name="icon_pack_summary">Choisir un pack d\'icônes</string>
+
+    <!-- Search bar -->
+    <string name="search_bar_title">Barre de recherche</string>
+    <string name="search_bar_desc_on">Activé</string>
+    <string name="search_bar_desc_off">Désactivé</string>
+
+    <!-- Adaptive icons -->
+    <string name="adaptive_icons_title">Icônes harmonisées</string>
+    <string name="legacy_icons_title">Masquer les icônes d\'origines</string>
+    <string name="icon_mask_square">Carré</string>
+    <string name="icon_mask_rounded_square">Carré arrondi</string>
+    <string name="icon_mask_squircle">Carrercle</string>
+    <string name="icon_mask_circle">Cercle</string>
+    <string name="icon_mask_teardrop">Goutte</string>
+    <string name="adaptive_icon_mask_title">Masque d\'icône</string>
+    <string name="icon_shadow_title">Ombre d\'icône</string>
 
     <!-- Developer setting to change the shape of icons on home screen. [CHAR LIMIT=50] -->
     <string name="icon_shape_override_label">Modifier la forme de l\'icône</string>
