@@ -66,6 +66,7 @@
 
     <!-- values-fr/du_strings.xml -->
     <string name="security_patch">Niveau du correctif de sécurité Android</string>
+    <string name="radio_info_imsi_label">IMSI :</string>
 
     <!-- Vibrate on plug -->
     <string name="vibration_on_charge_state_changed_title">Vibrer au branchement</string>
@@ -74,4 +75,3 @@
     <string name="default_sim_color">Pixel</string>
 
 </resources>
-
