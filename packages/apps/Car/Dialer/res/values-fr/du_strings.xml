@@ -69,4 +69,11 @@
     <string name="calllog_dial_number">Composer</string>
     <!-- Button label to dial a manually entered phone number -->
     <string name="dial_a_number">Composer un numéro</string>
+
+    <string name="search_title">Rechercher des contacts</string>
+    <string name="search_hint">Rechercher des contacts</string>
+    <string name="type_home">Domicile</string>
+    <string name="type_work">Professionnel</string>
+    <string name="type_mobile">Mobile</string>
+    <string name="type_other">Autre</string>
 </resources>
