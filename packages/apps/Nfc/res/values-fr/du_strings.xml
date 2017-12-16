@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (c) 2016, The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+*/
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Strings for a dialog informing the user a URL was read from an NFC tag, and allowing confirmation that they want to open it -->
+    <!-- Title of the dialog -->
+    <string name="title_confirm_url_open">Ouvrir le lien ?</string>
+    <!-- Summary text appearing before the URL -->
+    <string name="summary_confirm_url_open" product="tablet">Votre tablette a reçu un lien via NFC :</string>
+    <string name="summary_confirm_url_open" product="default">Votre téléphone a reçu un lien via NFC :</string>
+    <!-- Label for the button which causes the URL to be opened -->
+    <string name="action_confirm_url_open">Ouvrir le lien</string>
+</resources>
