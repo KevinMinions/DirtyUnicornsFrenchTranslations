@@ -15,15 +15,27 @@
 -->
 
 <resources>
+    <string name="app_name">Messenger</string>
+
+
     <plurals name="notification_new_message">
         <item quantity="one">Nouveau message</item>
         <item quantity="other">%d nouveaux messages</item>
     </plurals>
 
-    <string name="auto_reply_message">Je suis en train de conduire</string>
+    <string name="action_mute">Couper le son</string>
+    <string name="action_unmute">Rétablir le son</string>
+    <string name="action_play">Lire</string>
+    <string name="action_repeat">Répéter</string>
+    <string name="action_reply">Répondre</string>
+    <string name="action_stop">Arrêter</string>
+    <string name="action_close_messages">Fermer</string>
     <string name="auto_reply_failed_message">Impossible d\'envoyer la réponse. Veuillez réessayer.</string>
 
-    <string name="tts_says_verb">dit</string>
+    <string name="tts_sender_says">%s dit</string>
 
     <string name="tts_failed_toast">Échec de la lecture du texte !</string>
+    <string name="reply_message_display_template">\"%s\"</string>
+    <string name="caned_message_driving_right_now">Réponse automatique : Je suis en train de conduire.</string>
+    <string name="message_sent_notice">Réponse envoyée à %s</string>
 </resources>
