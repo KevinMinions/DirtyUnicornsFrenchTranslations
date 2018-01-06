@@ -73,7 +73,7 @@
     <string name="search_title">Rechercher des contacts</string>
     <string name="search_hint">Rechercher des contacts</string>
     <string name="type_home">Domicile</string>
-    <string name="type_work">Professionnel</string>
+    <string name="type_work">Bureau</string>
     <string name="type_mobile">Mobile</string>
     <string name="type_other">Autre</string>
 </resources>
