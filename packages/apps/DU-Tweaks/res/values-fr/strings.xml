@@ -77,7 +77,19 @@
 
     <!-- Power Menu -->
     <string name="powermenu_reboot_title">Redémarrer</string>
+    <string name="powermenu_advanced_reboot_title">Redémarrage optimisé</string>
+    <string name="powermenu_advanced_reboot_summary">Activer le menu de redémarrage optimisé permettant un redémarrage vers le \"Recovery\" ou le \"Bootloader\", un redémarrage du \"Interface\", ou un redémarrage \"Hot Reboot\"</string>
+    <string name="powermenu_screenshot_title">Capture d\'écran</string>
     <string name="powermenu_airplane_title">Mode Avion</string>
+    <string name="powermenu_category_other">Autre</string>
+    <string name="powermenu_lockscreen_title">Écran de déverrouillage</string>
+    <string name="powermenu_lockscreen_summary">Activer l\'affichage et l\'utilisation de la boîte de dialogue du menu Marche/Arrêt sur l\'écran de déverrouillage</string>
+
+    <!-- SystemUI theme -->
+    <string name="systemui_theme_style_title">Thème de l\'interface</string>
+    <string name="systemui_theme_style_auto">Automatique (basé sur le fond d\'écran)</string>
+    <string name="systemui_theme_style_light">Clair</string>
+    <string name="systemui_theme_style_dark">Foncé</string>
     <string name="powermenu_settings_title">Paramètres</string>
     <string name="powermenu_lockdown_title">Verrouiller</string>
     <string name="powermenu_soundpanel_title">Panneau de volume</string>
@@ -411,5 +423,7 @@
     <string name="smartbar_custom_icon_size_title">Échelle des icônes</string>
     <string name="one_handed_mode_title">Mode une seule main</string>
     <string name="one_handed_mode_summary">Basculer en mode \"Une seule main\" en glissant sur la barre de navigation</string>
+    <string name="smartbar_double_tap_sleep_title">Veille par double appui</string>
+    <string name="smartbar_double_tap_sleep_summary">Mettre en veille l\'appareil par double appui sur les zones vides de la barre de navigation</string>
 
 </resources>
