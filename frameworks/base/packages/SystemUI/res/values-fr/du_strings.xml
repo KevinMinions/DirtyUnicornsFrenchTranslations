@@ -17,6 +17,11 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- Show lte/4g switch -->
+    <string name="show_lte_fourgee_title">Icône \"4G\"</string>
+    <string name="show_lte_fourgee_summary">Afficher l\'icône de réseau 4G ou LTE sur la barre d\'état et du panneau de configuration rapide</string>
+    <string name="statusbar_tuner_category_title">Éléments à afficher</string>
+
     <!-- Power menu -->
     <string name="global_action_restart_system">Reboot</string>
     <string name="global_action_restart_advanced">Optimisé</string>
@@ -28,6 +33,9 @@
 
     <!-- Screenshot Delete Toast -->
     <string name="delete_screenshot_toast">Capture d\'écran supprimée</string>
+
+    <!-- Battery saver tile -->
+    <string name="battery_saver_qs_tile_fully_charged">Charge complète</string>
 
     <!-- Indication on the keyguard that is shown when the device is charging with a dash charger. Should match keyguard_plugged_in_dash_charging [CHAR LIMIT=40]-->
     <string name="keyguard_indication_dash_charging_time">Charge Dash… (Complètement chargé dans <xliff:g id="charging_time_left">%s</xliff:g>)</string>
