@@ -19,7 +19,7 @@
 
     <!-- Show lte/4g switch -->
     <string name="show_lte_fourgee_title">Icône \"4G\"</string>
-    <string name="show_lte_fourgee_summary">Afficher l\'icône de réseau 4G ou LTE sur la barre d\'état et du panneau de configuration rapide</string>
+    <string name="show_lte_fourgee_summary">Afficher l\'icône \"4G\" plutôt que \"LTE\" sur la barre d\'état et du panneau de configuration rapide</string>
     <string name="statusbar_tuner_category_title">Éléments à afficher</string>
 
     <!-- Power menu -->
