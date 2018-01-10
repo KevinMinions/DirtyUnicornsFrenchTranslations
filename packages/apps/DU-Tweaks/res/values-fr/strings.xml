@@ -147,7 +147,7 @@
 
     <!-- Quick settings -->
     <string name="qs_layout_category">Disposition</string>
-    <string name="qs_columns_title">Nombre de clonnes</string>
+    <string name="qs_columns_title">Nombre de colonnes</string>
     <string name="qs_tile_title_visibility_title">Titres</string>
     <string name="qs_tile_title_visibility_summary">Afficher les titres des tuiles du panneau de configuration rapide</string>
 
