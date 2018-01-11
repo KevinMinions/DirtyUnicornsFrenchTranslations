@@ -455,7 +455,7 @@
     <!-- Torch Power button gestures -->
     <string name="torch_power_button_gesture_title">Lampe de poche en mode veille</string>
     <string name="torch_power_button_gesture_none">Désactivé</string>
-    <string name="torch_power_button_gesture_dt">Allumer la lampe de poche par double appui sur le bouton Marche/Arrêt (allonge un peu le délai de l\'action par appui simple)</string>
-    <string name="torch_power_button_gesture_lp">Allumer la lampe de poche par appui prolongé sur le bouton Marche/Arrêt</string>
+    <string name="torch_power_button_gesture_dt">Double appui sur le bouton Marche/Arrêt</string>
+    <string name="torch_power_button_gesture_lp">Appui prolongé sur le bouton Marche/Arrêt</string>
 
 </resources>
