@@ -23,7 +23,7 @@
     <string name="statusbar_tuner_category_title">Éléments à afficher</string>
 
     <!-- Power menu -->
-    <string name="global_action_restart_system">Redémarrer</string>
+    <string name="global_action_restart_system">Redémarrage système</string>
     <string name="global_action_restart_advanced">Redémarrage optimisé</string>
     <string name="global_action_restart_recovery">Recovery</string>
     <string name="global_action_restart_bootloader">Bootloader</string>
