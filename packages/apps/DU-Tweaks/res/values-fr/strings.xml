@@ -164,6 +164,14 @@
     <string name="recents_clear_all_location_bottom_left">En bas à gauche</string>
     <string name="recents_clear_all_location_bottom_center">En bas au milieu</string>
 
+    <!-- Hide Lockscreen clock, date, & alarm -->
+    <string name="hide_lockscreen_clock_title">Horloge</string>
+    <string name="hide_lockscreen_clock_summary">Masquer le widget Horloge</string>
+    <string name="hide_lockscreen_date_title">Date</string>
+    <string name="hide_lockscreen_date_summary">Masquer la date du widget Horloge</string>
+    <string name="hide_lockscreen_alarm_title">Alarme</string>
+    <string name="hide_lockscreen_alarm_summary">Masquer l\'alarme du widget Horloge</string>
+
     <!-- Fingerprint authentication vibration -->
     <string name="fprint_sucess_vib_title">Authentification</string>
     <string name="fprint_sucess_vib_summary">Vibrer en cas d\'authentification par empreinte digitale réussie</string>
