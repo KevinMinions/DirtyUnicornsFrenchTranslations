@@ -61,4 +61,7 @@
     <string name="accessibility_quick_settings_caffeine_off">\"Caffeine\" désactivé</string>
     <string name="accessibility_quick_settings_caffeine_on">\"Caffeine\" activé</string>
 
+    <!-- QS customizer -->
+    <string name="drag_or_tap_to_add_tiles">Glisser ou appuyer pour ajouter des tuiles</string>
+
 </resources>
