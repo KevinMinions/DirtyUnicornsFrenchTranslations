@@ -29,6 +29,7 @@
     <!-- Footer warnings -->
     <string name="heads_up_warning_text">Les notifications flottantes sont destinées à être employées comme outil multi-tâche lors de l\'usage d\'applications en plein écran et/ou de jeux. Leur utilisation désactive l\'aperçu de notification sur la barre d\'état.</string>
     <string name="ticker_warning_text">L\'aperçu de notification sur la barre d\'état est destiné à être employé comme outil multi-tâche et procure un sentiment de nostalgie. Son utilisation désactive les notifications flottantes.</string>
+    <string name="carrier_label_warning_text">Le libellé opérateur modifié n\'est pas disponible dans le panneau de configuration rapide.\nL\'utilisation de frimousse peut provoquer des problèmes d\'affichage sur des fonds clairs.</string>
 
     <!-- Categories -->
     <!-- System -->
@@ -127,6 +128,17 @@
     <string name="headset_connect_player_bt">Casque Bluetooth connecté</string>
     <string name="headset_connect_player_both_no_carkit">N\'importe quel casque connecté (Sauf kit voiture)</string>
     <string name="headset_connect_player_both">N\'importe quel casque connecté</string>
+
+    <!-- Carrier Label -->
+    <string name="carrier_options">Affichage</string>
+    <string name="custom_carrier_label_title">Libellé</string>
+    <string name="custom_carrier_label_explain">Saisir un nouveau libellé. Laisser vide pour revenir au libellé d\'origine.</string>
+    <string name="custom_carrier_label_notset">Non défini</string>
+    <string name="show_carrier_title">Libellé opérateur</string>
+    <string name="show_carrier_disabled">Désactivé</string>
+    <string name="show_carrier_keyguard">Écran de déverrouillage</string>
+    <string name="show_carrier_statusbar">Barre d\'état</string>
+    <string name="show_carrier_enabled">Sur les deux</string>
 
     <!-- Quick Pulldown-->
     <string name="quick_pulldown_title">Déroulement rapide</string>
