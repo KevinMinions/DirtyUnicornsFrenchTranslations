@@ -16,6 +16,11 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Application name -->
+    <string name="hvac_label">Contrôle météo</string>
     <string name="hvac_temperature_template"><xliff:g id="temperature">%1$s</xliff:g>&#x00B0;</string>
     <string name="hvac_invalid_temperature">--</string>
+    <string name="fan_speed_max">MAX</string>
+    <string name="fan_speed_off">DÉSACTIVÉ</string>
+    <string name="hvac_temperature_off">DÉSACTIVÉ</string>
 </resources>
