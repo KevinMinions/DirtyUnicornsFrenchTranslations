@@ -105,5 +105,8 @@
     <string name="toast_insult_14">C\'est pour ça que personne ne vous aime...</string>
     <string name="toast_insult_15">Vous persistez ?!</string>
 
+    <!-- SIM selector for SMS -->
+    <string name="select_sim_for_sms">Sélectionner une carte SIM pour les SMS</string>
+
 </resources>
 
