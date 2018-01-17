@@ -20,18 +20,10 @@
     <string name="system_error_vendorprint">Votre \"vendor.img\" est obsolète. Veuillez installer la version <xliff:g id="string">%s</xliff:g></string>
 
     <!-- Power menu -->
-    <string name="reboot_system" product="tablet">Redémarrer la tablette</string>
-    <string name="reboot_system" product="default">Redémarrer le téléphone</string>
-    <string name="reboot_reboot">Redémarrer</string>
-    <string name="reboot_hot">Hot reboot</string>
     <string name="reboot_to_recovery_title">Recovery</string>
     <string name="reboot_to_recovery_message">Redémarrage Recovery</string>
-    <string name="reboot_recovery">Recovery</string>
-    <string name="reboot_bootloader">Bootloader</string>
     <string name="reboot_to_bootloader_title">Bootloader</string>
     <string name="reboot_to_bootloader_message">Redémarrage Bootloader</string>
-    <string name="reboot_progress">Redémarrage</string>
-    <string name="global_action_reboot">Redémarrer</string>
     <string name="reboot_title">Redémarrer</string>
     <string name="reboot_message">Redémarrage Système</string>
 
@@ -39,4 +31,6 @@
     <string name="permlab_toggleNavigationEditor">Contrôler l\'éditeur de navigation</string>
     <!-- [CHAR LIMIT=NONE] Description of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
     <string name="permdesc_toggleNavigationEditor">Permet à une application de contrôler l\'éditeur de la barre de navigation</string>
+    <string name="stk_cc_ussd_to_dial_video">La requête USSD a été remplacée par une requête DIAL Vidéo.</string>
+    <string name="stk_cc_ss_to_dial_video">La requête SS a été remplacée par une requête DIAL Vidéo.</string>
 </resources>
