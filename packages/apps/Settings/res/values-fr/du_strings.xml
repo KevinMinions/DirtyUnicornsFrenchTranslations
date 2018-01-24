@@ -127,5 +127,10 @@
     <!-- SIM selector for SMS -->
     <string name="select_sim_for_sms">Sélectionner une carte SIM pour les SMS</string>
 
+    <!-- [CHAR LIMIT=80]-->
+    <string name="fp_swipe_to_dismiss_notifications_title">Ignorer les notifications</string>
+    <!--  [CHAR LIMIT=160]-->
+    <string name="fp_swipe_to_dismiss_notifications_summary">Glisser vers la gauche ou la droite sur le capteur d\'empreintes digitales pour ignorer les notifications</string>
+
 </resources>
 
