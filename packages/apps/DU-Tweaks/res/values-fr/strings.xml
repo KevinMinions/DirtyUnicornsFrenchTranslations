@@ -61,8 +61,8 @@
     <string name="statusbar_items_summary">Réglages des éléments à afficher sur la barre d\'état</string>
     <string name="ticker_title">Aperçu de notification</string>
     <string name="ticker_summary">Réglages de l\'aperçu de notification sur la barre d\'état</string>
-    <string name="traffic_title">Indicateurs de trafic</string>
-    <string name="traffic_summary">Réglages de l\'indicateurs de vitesse de réseau sur la barre d\'état</string>
+    <string name="traffic_title">Indicateur de trafic</string>
+    <string name="traffic_summary">Réglages de l\'indicateur de vitesse de réseau sur la barre d\'état</string>
     <!-- Navigation -->
     <string name="buttons_title">Boutons</string>
     <string name="buttons_summary">Réglages des boutons physiques et du bouton Volume</string>
