@@ -38,7 +38,7 @@
     <string name="miscellaneous_title">Divers</string>
     <string name="miscellaneous_summary">Réglages qui ne correspondent pas aux autres catégories</string>
     <string name="powermenu_title">Menu Marche/Arrêt</string>
-    <string name="powermenu_summary">Réglages des options du menu Marche/Arrêt telles que la Lampe de poche, le Mode avion ou la capture d\'écran</string>
+    <string name="powermenu_summary">Réglages des options du menu Marche/Arrêt telles que Mode avion ou capture d\'écran</string>
     <!-- Lockscreen -->
     <string name="fingerprint_prefs_title">Empreinte digitale</string>
     <string name="fingerprint_prefs_summary">Réglages spécifiques au lecteur d\'empreintes digitales</string>
@@ -56,7 +56,7 @@
     <string name="notifications_title">Notifications</string>
     <string name="notifications_summary">Réglages spécifiques des notifications système</string>
     <string name="quicksettings_title">Panneau de configuration</string>
-    <string name="quicksettings_summary">Réglages du panneau de configuration avec des options allant des en-têtes contextuels à la météo</string>
+    <string name="quicksettings_summary">Réglages du panneau de configuration</string>
     <string name="statusbar_items_title">Barre d\'état</string>
     <string name="statusbar_items_summary">Réglages des éléments à afficher sur la barre d\'état</string>
     <string name="ticker_title">Aperçu de notification</string>
@@ -74,7 +74,7 @@
     <string name="omniswitch_title">Omniswitch</string>
     <string name="omniswitch_summary">Réglages d\'OmniSwitch</string>
     <string name="recents_title">Applications récentes</string>
-    <string name="recents_summary">Réglages des applications récentes OmniSwitch ou AOSP</string>
+    <string name="recents_summary">Réglages des applications récentes</string>
 
     <!-- Button brightness -->
     <string name="button_backlight_options_category">Rétro-éclairage</string>
