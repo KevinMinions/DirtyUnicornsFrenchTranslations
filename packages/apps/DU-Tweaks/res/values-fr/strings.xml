@@ -493,5 +493,8 @@
   <string name="screen_off_animation_default">Par défaut</string>
   <string name="screen_off_animation_crt">Tube cathodique</string>
   <string name="screen_off_animation_scale">Réduction</string>
+    <!-- Lockscreen Media art -->
+    <string name="media_art_title">Illustration du titre musical</string>
+    <string name="media_art_summary">Activer l\'illustration du titre musical en cours de lecture</string>
 
 </resources>
