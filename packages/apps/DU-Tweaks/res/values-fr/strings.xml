@@ -382,6 +382,7 @@
     <string name="pulse_render_mode_fading_bars">Fondu des blocs</string>
     <string name="pulse_render_mode_solid_lines">Lignes pleines</string>
     <string name="fling_pulse_color">Couleur de Pulse</string>
+    <string name="fling_pulse_color_summary">Utiliser également cette couleur comme solution de secours pour \"Couleur de Pulse automatique\"</string>
     <string name="eos_fling_lavalamp_title">Lampe Lava</string>
     <string name="eos_fling_lavalamp_summary">Ajoute l\'effet de mélange de couleurs \"Lampe Lava\"</string>
     <string name="pulse_advanced_category">Options avancées</string>
@@ -393,6 +394,8 @@
     <string name="pulse_solid_units_opacity">Opacité des lignes</string>
     <string name="pulse_solid_dimen_category">Lignes pleines</string>
     <string name="pulse_custom_buttons_opacity_title">Opacité des boutons sur Pulse</string>
+    <string name="pulse_auto_color_title">Couleur de Pulse automatique</string>
+    <string name="pulse_auto_color_summary">Utiliser la couleur de l\'illustration du titre musical en cours de lecture. Annule les options \"Lampe Lava\" et \"Opacité des lignes\".</string>
 
     <!-- Pulse config -->
     <string name="pulse_custom_dimen">Largeur des barres</string>
