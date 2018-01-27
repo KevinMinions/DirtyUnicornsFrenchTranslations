@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2012 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License
+  -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+    <string name="callFailed_dialToDialVideo">La requête DIAL a été remplacée par une requête DIAL Vidéo.</string>
+    <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+    <string name="callFailed_dialVideoToSs">La requête DIAL Vidéo a été remplacée par une requête SS.</string>
+    <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+    <string name="callFailed_dialVideoToUssd">La requête DIAL Vidéo a été remplacée par une requête USSD.</string>
+    <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+    <string name="callFailed_dialVideoToDial">La requête DIAL Vidéo a été remplacée par une requête DIAL.</string>
+    <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+    <string name="callFailed_dialVideoToDialVideo">La requête DIAL Vidéo a été remplacée par une requête DIAL Vidéo avec un nombre différent.</string>
+</resources>
