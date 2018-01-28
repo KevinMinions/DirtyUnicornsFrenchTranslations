@@ -101,6 +101,6 @@
 
     <!-- The error message to show if the server reported an error while attempting to change the voicemail PIN -->
     <string name="ut_not_support">UT non disponible</string>
-    <string name="ct_ut_not_support_close_4glte">L\'UT n'est pas disponible, veuillez désactiver le mode 4G LTE amélioré dans les paramètres</string>
+    <string name="ct_ut_not_support_close_4glte">L\'UT n\'est pas disponible, veuillez désactiver le mode 4G LTE amélioré dans les paramètres</string>
 
 </resources>
