@@ -1,52 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2008 The Android Open Source Project
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-          http://www.apache.org/licenses/LICENSE-2.0
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
+<!--
+/*
+* Copyright (C) 2008 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
 -->
 
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Preference categories -->
     <string name="home_category_title">Écran d\'accueil</string>
+    <string name="app_drawer_category_title">Tiroir d\'application</string>
     <string name="icon_category_title">Icônes d\'application</string>
     <string name="widget_category_title">Widgets</string>
 
-    <!-- Icon shape on home screen -->
-    <string name="icon_shape_system_square">Carré</string>
-    <string name="icon_shape_system_squircle">Carrercle</string>
-    <string name="icon_shape_system_circle">Cercle</string>
-    <string name="icon_shape_system_teardrop">Goutte</string>
+    <!-- About -->
+    <string name="about_credits">Crédits</string>
+    <string name="about_credits_ok">OK</string>
+    <string name="about_amirzaidi_title">Amir Zaidi</string>
+    <string name="about_amirzaidi_summary">Rétro-ingénierie et portage des fonctionnalités de \"Pixel Launcher\" sur Launcher 3</string>
 
-    <!-- Icon packs -->
-    <string name="icon_pack">Paquet d\'icônes</string>
-    <string name="icon_pack_summary">Choisir un pack d\'icônes</string>
-
-    <!-- Search bar -->
-    <string name="search_bar_title">Barre de recherche</string>
-    <string name="search_bar_desc_on">Activé</string>
-    <string name="search_bar_desc_off">Désactivé</string>
-
-    <!-- Adaptive icons -->
-    <string name="adaptive_icons_title">Icônes harmonisées</string>
-    <string name="legacy_icons_title">Masquer les icônes d\'origines</string>
-    <string name="icon_mask_square">Carré</string>
-    <string name="icon_mask_rounded_square">Carré arrondi</string>
-    <string name="icon_mask_squircle">Carrercle</string>
-    <string name="icon_mask_circle">Cercle</string>
-    <string name="icon_mask_teardrop">Goutte</string>
-    <string name="adaptive_icon_mask_title">Masque d\'icône</string>
-    <string name="icon_shadow_title">Ombre d\'icône</string>
-
-    <!-- Developer setting to change the shape of icons on home screen. [CHAR LIMIT=50] -->
-    <string name="icon_shape_override_label">Modifier la forme de l\'icône</string>
-    <!-- Message shown in the progress dialog when the icon shape override is being applied [CHAR LIMIT=100]-->
-    <string name="icon_shape_override_progress">Modification en cours</string>
+    <!-- Hidden app -->
+    <string name="hide_app">Masquer les applications</string>
+    <string name="hide_app_sum">Masquer les applications dans le tiroir d\'application</string>
+    <string name="hide_app_selected">&#160;sélectionnée(s)</string>
+    <string name="hidden_app">Toutes les applications</string>
+    <string name="hide_selected">Masquer les applications sélectionnées</string>
+    <string name="more">Plus</string>    
 
 </resources>
