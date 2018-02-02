@@ -514,7 +514,7 @@
     <string name="notification_sound_vib_screen_on_nomedia">Si aucune lecture de média</string>
 
     <string name="less_notification_sounds_title">Sons de notification</string>
-    <string name="less_notification_sounds_summary">Régler l\'intervalle pendant laquelle une application peut émettre un son de notification</string>
+    <string name="less_notification_sounds_summary">Régler l\'intervalle pendant lequel une application peut émettre une notification sonore</string>
     <string name="less_notification_sounds_default">Valeur définie par l\'application</string>
     <string name="less_notification_sounds_10s">Toutes les 10 secondes</string>
     <string name="less_notification_sounds_30s">Toutes les 30 secondes</string>
