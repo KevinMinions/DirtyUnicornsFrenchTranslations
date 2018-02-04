@@ -154,7 +154,7 @@
     <string name="quick_pulldown_always">Toujours</string>
 
     <!-- QS footer warnings -->
-    <string name="qs_footer_warnings_title">Avertissements de contrôle</string>
+    <string name="qs_footer_warnings_title">Avertissement de contrôle réseau</string>
     <string name="qs_footer_warnings_summary">Afficher un avertissement en dessous du panneau de configuration rapide lorsque le réseau est contrôlé par une application externe ou un VPN</string>
 
     <!-- Quick Settings brightness icon -->
