@@ -47,6 +47,6 @@ public class ChangelogPreferenceController extends AbstractPreferenceController 
 
     @Override
     public boolean isAvailable() {
-        return Utils.isPackageInstalled(mContext.getApplicationContext(), KEY_DU_UPDATER_PACKAGE_NAME);
+        return !Utils.isPackageInstalled(mContext.getApplicationContext(), KEY_DU_UPDATER_PACKAGE_NAME);
     }
 }
