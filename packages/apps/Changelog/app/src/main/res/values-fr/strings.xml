@@ -69,7 +69,7 @@
     <string name="open_website">Site Internet</string>
     <string name="branches">Branches : </string>
     <string name="server_url">URL de Gerrit</string>
-    <string name="branch">Branche (effacer pour tout utiliser) </string>
+    <string name="branch">Branche (vide pour tout afficher) </string>
     <string name="retry">Réessayer</string>
     <string name="gerrit">Gerrit</string>
     <string name="view">Afficher</string>
