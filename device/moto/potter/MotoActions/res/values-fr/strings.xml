@@ -88,7 +88,7 @@
    <!-- Screen off gestures haptic feedback -->
    <string name="haptic_feedback">Retour haptique</string>
    <string name="haptic_feedback_summary">Vibrer lors de la détection de geste</string>
-   
+
    <!-- Pip -->
    <string name="app_does_not_support_pip">L\'application ne prend pas en charge le mode Incrustation d\'image</string>
 
@@ -99,7 +99,7 @@
    <!-- DeviceSettings Import -->
    <string name="switch_bar_on">Activé</string>
    <string name="switch_bar_off">Désactivé</string>
-   
+
    <!-- Device actions -->
     <string name="actions_title">Actions</string>
 
