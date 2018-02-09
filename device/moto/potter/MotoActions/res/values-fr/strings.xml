@@ -22,13 +22,13 @@
     <string name="device_gestures_summary">Réglages des gestes</string>
 
     <!-- Ambient display gestures -->
-    <string name="ambient_display_manage_summary">Réglages des gestes en mode Veilles</string>
+    <string name="ambient_display_manage_summary">Réglages des gestes</string>
 
     <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">Lecteur d\'empreintes digitales</string>
     <string name="fingerprint_gestures_summary">Gestes</string>
-    <string name="fingerprint_gestures_manage_summary">Réglages des gestes sur le lecteur d\'empreintes digitales</string>
-    <string name="fingerprint_actions_screenon">Écran activé</string>
+    <string name="fingerprint_gestures_manage_summary">Réglages des gestes</string>
+    <string name="fingerprint_actions_screenon">Écran allumé</string>
     <string name="fingerprint_tap_title">Appui simple</string>
     <string name="fingerprint_tap_dlg_title">Sélectionner une action</string>
     <string name="fingerprint_double_tap_title">Double appui</string>
@@ -71,7 +71,7 @@
 
     <!-- Screen off gestures -->
     <string name="screen_off_gestures_title">Écran éteint</string>
-    <string name="screen_off_gestures_manage_summary">Réglages des gestes lorsque l\'écran est éteint</string>
+    <string name="screen_off_gestures_manage_summary">Réglages des gestes</string>
     <string name="screen_off_gestures_swipe_left_title">Glissement vers la gauche</string>
     <string name="screen_off_gestures_swipe_left_dlg_title">Sélectionner une action</string>
     <string name="screen_off_gestures_swipe_right_title">Glissement vers la droite</string>
@@ -104,7 +104,7 @@
     <string name="actions_title">Actions</string>
 
     <!-- Camera gesture -->
-    <string name="camera_gesture_title">Double rotation pour l\'appareil photo</string>
+    <string name="camera_gesture_title">Double rotation</string>
     <string name="camera_gesture_summary">Ouvrir l\'application Appareil photo en faisant pivoter le poignet deux fois</string>
 
     <!-- Chop-chop gesture -->
@@ -117,7 +117,7 @@
 
     <!-- Flip to mute gesture -->
     <string name="flip_to_mute_title">Mode Ne pas déranger</string>
-    <string name="flip_to_mute_summary">Retourner le téléphone face vers le bas pour désactiver les sonneries des notifications et des appels</string>
+    <string name="flip_to_mute_summary">Poser à plat le téléphone côté écran vers le bas pour désactiver les sonneries des notifications et des appels</string>
 
     <!-- Do Not Disturb access -->
     <string name="dnd_access">Autoriser l\'accès au mode \"Ne pas déranger\" à CMActions pour pouvoir utiliser cette fonctionnalité</string>
