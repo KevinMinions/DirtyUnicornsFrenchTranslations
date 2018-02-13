@@ -552,8 +552,8 @@
     <string name="status_bar_am_pm_info">L\'heure sur 24 heures est activée</string>
     <string name="enable_clock_weekday">Jour de la semaine</string>
     <string name="enable_clock_weekday_summary">Jour de la semaine abrégé avant l\'heure</string>
-    <string name="right_clock">À droite de l\'heure</string>
-    <string name="left_clock">À gauche de l\'heure</string>
+    <string name="right_clock">À droite</string>
+    <string name="left_clock">À gauche</string>
     <string name="dont_show">Masqué</string>
     <string name="clock_date_display">Date</string>
     <string name="clock_date_display_summary">Afficher une date personnalisée avant l\'heure</string>
