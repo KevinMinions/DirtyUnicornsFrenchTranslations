@@ -518,6 +518,7 @@
     <string name="notification_sound_vib_screen_on_always">Toujours (Par défaut)</string>
     <string name="notification_sound_vib_screen_on_nomedia">Si aucune lecture de média</string>
 
+    <!-- Less notification sounds -->
     <string name="less_notification_sounds_title">Sons de notification</string>
     <string name="less_notification_sounds_summary">Régler l\'intervalle pendant lequel une application peut émettre une notification sonore</string>
     <string name="less_notification_sounds_default">Valeur définie par l\'application</string>
@@ -537,5 +538,39 @@
     <string name="expanded_desktop_state">État</string>
     <string name="expanded_enabled_for_all">Activé pour tout</string>
     <string name="expanded_user_configurable">Défini par l\'utilisateur</string>
+
+    <!-- Status bar clock options -->
+    <string name="status_bar_title">Barre d\'état</string>
+    <string name="status_bar_style_title">Style</string>
+    <string name="status_bar_clock">Date et heure</string>
+    <string name="clock_title_enable">Position</string>
+    <string name="clock_enabled">Activé</string>
+    <string name="clock_disabled">Désactivé</string>
+    <string name="status_bar_clock_style_reset">Réinitialiser la couleur</string>
+    <string name="status_bar_show_clock_title">Afficher l\'heure et la date</string>
+    <string name="status_bar_am_pm_title">AM/PM</string>
+    <string name="status_bar_am_pm_info">L\'heure sur 24 heures est activée</string>
+    <string name="enable_clock_weekday">Jour de la semaine</string>
+    <string name="enable_clock_weekday_summary">Jour de la semaine abrégé avant l\'heure</string>
+    <string name="right_clock">À droite de l\'heure</string>
+    <string name="left_clock">À gauche de l\'heure</string>
+    <string name="dont_show">Masqué</string>
+    <string name="clock_date_display">Date</string>
+    <string name="clock_date_display_summary">Afficher une date personnalisée avant l\'heure</string>
+    <string name="clock_date_style">Style de la date</string>
+    <string name="clock_date_format">Format de la date</string>
+    <string name="clock_date_string_edittext_title">Doit être au format de date Java \"DateFormat\" par ex : MM/dd/yy</string>
+    <string name="clock_date_string_edittext_summary">Saisir le code</string>
+    <string name="am_pm_clock_normal">Police de taille normale</string>
+    <string name="am_pm_clock_small">Police de petite taille</string>
+    <string name="am_pm_clock_none">Masqué</string>
+    <string name="clock_date_display_none">Masqué</string>
+    <string name="clock_date_display_small">Police de petite taille</string>
+    <string name="clock_date_display_normal">Police de taille normale</string>
+    <string name="clock_date_style_normal">Normal</string>
+    <string name="clock_date_style_lowercase">Minuscule</string>
+    <string name="clock_date_style_uppercase">Majuscule</string>
+    <string name="clock_date_format_custom">Personnalisée (format java)</string>
+    <string name="status_bar_clock_seconds_title">Afficher les secondes</string>
 
 </resources>
