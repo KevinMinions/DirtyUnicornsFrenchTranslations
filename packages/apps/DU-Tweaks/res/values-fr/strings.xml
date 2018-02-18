@@ -558,9 +558,12 @@
     <string name="clock_date_display">Date</string>
     <string name="clock_date_display_summary">Afficher une date personnalisée avant l\'heure</string>
     <string name="clock_date_style">Style de la date</string>
+    <string name="clock_date_position">Position de la date</string>
     <string name="clock_date_format">Format de la date</string>
     <string name="clock_date_string_edittext_title">Doit être au format de date Java \"DateFormat\" par ex : MM/dd/yy</string>
     <string name="clock_date_string_edittext_summary">Saisir le code</string>
+    <string name="clock_date_right">À droite de l\'horloge</string>
+    <string name="clock_date_left">À gauche de l\'horloge</string>
     <string name="am_pm_clock_normal">Police de taille normale</string>
     <string name="am_pm_clock_small">Police de petite taille</string>
     <string name="am_pm_clock_none">Masqué</string>
