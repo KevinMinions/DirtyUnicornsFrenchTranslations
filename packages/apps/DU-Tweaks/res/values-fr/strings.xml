@@ -543,7 +543,7 @@
     <string name="status_bar_title">Barre d\'état</string>
     <string name="status_bar_style_title">Style</string>
     <string name="status_bar_clock">Date et heure</string>
-    <string name="clock_title_enable">Position</string>
+    <string name="clock_title_enable">Position de l\'horloge</string>
     <string name="clock_enabled">Activé</string>
     <string name="clock_disabled">Désactivé</string>
     <string name="status_bar_clock_style_reset">Réinitialiser la couleur</string>
