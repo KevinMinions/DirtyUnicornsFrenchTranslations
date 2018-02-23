@@ -92,4 +92,10 @@
     <string name="show_swipeup_arrow">Indicateur de déploiement</string>
     <string name="show_swipeup_arrow_summary">Afficher la flèche d\'ouverture par glissement du menu des applications au-dessus du Dock</string>
 
+    <!-- Hide/Show search bars -->
+    <string name="bottom_search_bar_title">Barre de recherche inférieure</string>
+    <string name="bottom_search_bar_summary">Afficher la barre de recherche inférieure en dessous du Dock</string>
+    <string name="top_search_bar_title">Barre de recherche supérieure</string>
+    <string name="top_search_bar_summary">Afficher la barre de recherche supérieure en haut du tiroir d\'applications</string>
+
 </resources>
