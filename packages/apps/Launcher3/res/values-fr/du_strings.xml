@@ -63,6 +63,8 @@
     <string name="smartspace_preferences_in_settings">Widget \"En bref\"</string>
     <string name="smartspace_preferences_in_settings_desc">Régler le widget \"En bref\" disposé en haut de l\'écran d\'accueil affichant différentes informations</string>
 
+    <string name="other_category_title">Divers</string>
+    <string name="other_category_summary">Autres réglages</string>
 
     <string name="msg_missing_notification_access">Pour afficher les pastilles de notification, activer les notifications de l\'application <xliff:g id="NAME">%1$s</xliff:g></string>
     <string name="abandoned_promise_explanation">L\'application correspondant à cette icône n\'est pas installée. Supprimer cette icône, ou installer l\'application correspondante.</string>
