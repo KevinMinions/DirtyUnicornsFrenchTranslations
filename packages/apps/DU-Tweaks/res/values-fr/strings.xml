@@ -606,9 +606,9 @@
     <string name="large_battery_icon_summary">Utiliser une grande icône pour la batterie dans la barre d\'état</string>
 
     <!-- Slim Recents panel -->
-    <string name="slim_recents_title">Applications récentes Slim</string>
-    <string name="use_slim_recents_title">Autre affichage des applications récentes</string>
-    <string name="use_slim_recents_summary">Utiliser \"Applications récentes Slim\"</string>
+    <string name="slim_recents_title">Slim</string>
+    <string name="use_slim_recents_title">Applications récentes Slim</string>
+    <string name="use_slim_recents_summary">Utiliser Applications récentes Slim au lieu de la vue des applications récentes AOSP</string>
     <string name="slim_recents_settings_title">Paramètres</string>
     <string name="slim_recents_settings_summary">Réglages des \"Applications récentes Slim\"</string>
     <string name="recents_max_apps_title">Nombre maximal d\'application</string>
