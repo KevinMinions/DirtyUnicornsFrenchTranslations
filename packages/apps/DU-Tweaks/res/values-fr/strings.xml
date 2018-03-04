@@ -605,4 +605,41 @@
     <string name="large_battery_icon_title">Grande icône</string>
     <string name="large_battery_icon_summary">Utiliser une grande icône pour la batterie dans la barre d\'état</string>
 
+    <!-- Slim Recents panel -->
+    <string name="slim_recents_title">Applications récentes Slim</string>
+    <string name="use_slim_recents_title">Autre affichage des applications récentes</string>
+    <string name="use_slim_recents_summary">Utiliser \"Applications récentes Slim\"</string>
+    <string name="slim_recents_settings_title">Paramètres</string>
+    <string name="slim_recents_settings_summary">Réglages des \"Applications récentes Slim\"</string>
+    <string name="recents_max_apps_title">Nombre maximal d\'application</string>
+    <string name="recent_panel_scale_title">Taille</string>
+    <string name="recent_panel_expanded_mode_title">Affichage étendu</string>
+    <string name="recent_panel_expanded_mode_summary">Mode d\'affichage étendu</string>
+    <string name="recent_panel_expanded_mode_auto">Automatique (Par défaut)</string>
+    <string name="recent_panel_expanded_mode_always">Toujours</string>
+    <string name="recent_panel_expanded_mode_never">Désactivé (rendu rapide)</string>
+    <string name="recent_panel_bg_color_title">Couleur du volet</string>
+    <string name="recent_card_bg_color_title">Couleur de fond</string>
+    <string name="recent_reset_title">Réinitialiser les couleurs</string>
+    <string name="recent_reset_confirm">Réinitialiser les couleurs des \"Applications récentes Slim\" ?</string>
+    <string name="default_auto_string">Par défaut</string>
+    <string name="slim_icon_pack_title">Paquet d\'icônes</string>
+    <string name="slim_icon_pack_summary">Utiliser un paquet d\'icônes personnalisé pour l\'affichage des applications dans le panneau</string>
+    <string name="slim_recents_corner_radius_title">Afficher des cartes aux coins arrondis</string>
+    <!-- ATTENTION: RTL languages need to replace left with right -->
+    <string name="recent_panel_lefty_mode_title">Affichage du panneau à gauche</string>
+    <string name="recent_panel_lefty_mode_summary">Afficher le panneau des applications récentes sur le côté gauche</string>
+    <string name="profile_choose_app">Sélectionner l\'application</string>
+    <string name="dialog_delete_title">Supprimer</string>
+    <string name="dialog_delete_message">Supprimer l\'élément sélectionné ?</string>
+    <string name="no_iconpacks_summary">Aucun paquet d\'icônes installé</string>
+    <string name="dialog_pick_iconpack_title">Sélectionner un paquet d\'icônes</string>
+    <string name="default_iconpack_title">Icônes par défaut</string>
+    <string name="slim_blacklist_apps_cat_title">Liste noire</string>
+    <string name="slim_blacklist_apps_title">Applications prohibées</string>
+    <string name="slim_blacklist_apps_summary">Applications à ne pas afficher dans le panneau</string>
+    <string name="slim_blacklist_add_apps_title">Ajouter une application</string>
+    <string name="slim_blacklist_add_apps_summary">Ajouter ou retirer une application</string>
+
+
 </resources>
