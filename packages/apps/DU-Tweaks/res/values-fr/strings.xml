@@ -41,7 +41,7 @@
     <string name="miscellaneous_title">Divers</string>
     <string name="miscellaneous_summary">Réglages qui ne correspondent pas aux autres catégories</string>
     <string name="powermenu_title">Menu Marche/Arrêt</string>
-    <string name="powermenu_summary">Réglages des options du menu Marche/Arrêt telles que Mode avion ou capture d\'écran</string>
+    <string name="powermenu_summary">Réglages des options du menu Marche/Arrêt</string>
     <!-- Lockscreen -->
     <string name="fingerprint_prefs_title">Empreinte digitale</string>
     <string name="fingerprint_prefs_summary">Réglages spécifiques au lecteur d\'empreintes digitales</string>
@@ -74,8 +74,6 @@
     <!-- Multitasking -->
     <string name="headsup_title">Notifications flottantes</string>
     <string name="headsup_summary">Réglages des notifications flottantes</string>
-    <string name="omniswitch_title">Omniswitch</string>
-    <string name="omniswitch_summary">Réglages d\'OmniSwitch</string>
     <string name="recents_title">Applications récentes</string>
     <string name="recents_summary">Réglages des applications récentes</string>
 
@@ -111,7 +109,9 @@
     <string name="systemui_theme_style_dark">Foncé</string>
     <string name="applying_theme_toast">Ajustement du thème en cours\u2026</string>
     <string name="theme_applied_toast">Thème ajusté !</string>
-    <string name="substratum_installed_title">Les thèmes système ne sont pas disponibles car Substratum est installé. Désinstaller Substratum pour utiliser les thèmes système à la place.</string>
+    <string name="disable_themes_installed_title">Les thèmes système ne sont pas disponibles afin d\'éviter des conflits avec Substratum. Désinstaller Substratum pour utiliser les thèmes système.</string>
+    <string name="disable_accents_installed_title">Couleur d\'accentuation n\'est pas disponible afin d\'éviter des conflits avec Substratum. Désinstaller Substratum pour utiliser les couleurs d\'accentuation.</string>
+    <string name="disable_fonts_installed_title">Police n\'est pas disponible afin d\'éviter des conflits avec Substratum. Désinstaller Substratum pour utiliser les polices.</string>
     <string name="accent_picker_dialog_title">Choisir une couleur d\'accentuation</string>
     <string name="theme_accent_picker_title">Couleur d\'accentuation</string>
     <string name="theme_accent_picker_summary">Choisir la couleur d\'accentuation du thème système</string>
