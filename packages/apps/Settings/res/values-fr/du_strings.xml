@@ -149,8 +149,5 @@
     <!-- Font picker -->
     <string name="font_picker_title">Police</string>
     <string name="font_picker_progress">Ajustement de la nouvelle police en cours\u2026</string>
-
-    <!-- strings.xml -->
-    <string name="build_number">Numéro de compilation</string>
 </resources>
 
