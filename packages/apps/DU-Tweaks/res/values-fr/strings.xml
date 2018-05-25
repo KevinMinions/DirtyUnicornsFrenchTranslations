@@ -669,5 +669,5 @@
   <string name="wallpaper_tint_recents">Couleur d\'arrière-plan</string>
   <string name="wallpaper_tint_keyguard">Couleur d\'arrière-plan</string>
   <string name="wallpaper_tint_notification_shade">Couleur d\'arrière-plan</string>
-  <string name="wallpaper_tint_summary">Définir la couleur d\'arrière-plan fonction du fond d\'écran d\'accueil</string>
+  <string name="wallpaper_tint_summary">Définir la couleur d\'arrière-plan en fonction du fond d\'écran d\'accueil</string>
 </resources>
