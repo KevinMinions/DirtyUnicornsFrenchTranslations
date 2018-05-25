@@ -182,10 +182,21 @@
   <string name="recents_clear_all_location_bottom_center">En bas au milieu</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
   <string name="lockscreen_items_other">Autre</string>
-  <string name="hide_lockscreen_clock_title">Horloge</string>
-  <string name="hide_lockscreen_clock_summary">Masquer le widget Horloge</string>
+  <string name="hide_lockscreen_clock_title">Widget Horloge</string>
+  <string name="hide_lockscreen_clock_summary">Masquer</string>
+  <string name="lockscreen_clock_selection_title">Style</string>
+  <string name="lockscreen_clock_selection_digital">Par défaut</string>
+  <string name="lockscreen_clock_selection_digital_bold">Numérique (gras)</string>
+  <string name="lockscreen_clock_selection_analog">Analogique</string>
+  <string name="lockscreen_clock_selection_analog_deadpool">Analogique (deadpool)</string>
+  <string name="lockscreen_clock_selection_sammy">Sammy</string>
+  <string name="lockscreen_clock_selection_sammy_bold">Sammy (gras)</string>
   <string name="hide_lockscreen_date_title">Date</string>
-  <string name="hide_lockscreen_date_summary">Masquer la date du widget Horloge</string>
+  <string name="hide_lockscreen_date_summary">Masquer</string>
+  <string name="lockscreen_date_selection_title">Style</string>
+  <string name="lockscreen_date_selection_default">Par défaut</string>
+  <string name="lockscreen_date_selection_str_box">Cadre translucide</string>
+  <string name="lockscreen_date_selection_str_round">Cadre translucide (coins arrondis)</string>
   <string name="hide_lockscreen_alarm_title">Alarme</string>
   <string name="hide_lockscreen_alarm_summary">Masquer l\'alarme du widget Horloge</string>
   <!-- Fingerprint authentication vibration -->
@@ -653,4 +664,10 @@
   <string name="chooser_activity_blacklist_cat_title">Liste d\'exclusion</string>
   <string name="chooser_activity_blacklist_pref_title">Ajouter une application</string>
   <string name="chooser_activity_blacklist_pref_summary">Ajouter ou retirer une application</string>
+  <!-- Wallpaper tint -->
+  <string name="wallpaper_tint_power_menu">Menu Marche/Arrêt</string>
+  <string name="wallpaper_tint_recents">Applications récentes</string>
+  <string name="wallpaper_tint_keyguard">Écran de déverrouillage</string>
+  <string name="wallpaper_tint_notification_shade">Notifications</string>
+  <string name="wallpaper_tint_summary">Définir la couleur d\'arrière-plan fonction du fond d\'écran d\'accueil</string>
 </resources>
