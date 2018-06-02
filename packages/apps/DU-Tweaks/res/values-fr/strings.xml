@@ -518,6 +518,9 @@
   <string name="less_notification_sounds_30s">Toutes les 30 secondes</string>
   <string name="less_notification_sounds_1m">Chaque minute</string>
   <string name="less_notification_sounds_2m">Toutes les 2 minutes</string>
+  <!-- Notification count -->
+  <string name="status_bar_notif_count_title">Notifications en attente</string>
+  <string name="status_bar_notif_count_summary">Afficher le nombre de notifications en attente</string>
   <!-- Expanded desktop -->
   <string name="expanded_desktop_title">Bureau étendu</string>
   <string name="expanded_desktop_summary">Réglages de l\'affichage de la barre d\'état et de la barre de navigation par application</string>
