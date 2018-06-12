@@ -188,7 +188,6 @@
   <string name="lockscreen_clock_selection_digital">Par défaut</string>
   <string name="lockscreen_clock_selection_digital_bold">Numérique (gras)</string>
   <string name="lockscreen_clock_selection_analog">Analogique</string>
-  <string name="lockscreen_clock_selection_analog_deadpool">Analogique (Deadpool)</string>
   <string name="lockscreen_clock_selection_sammy">Sammy</string>
   <string name="lockscreen_clock_selection_sammy_bold">Sammy (gras)</string>
   <string name="hide_lockscreen_date_title">Date</string>
