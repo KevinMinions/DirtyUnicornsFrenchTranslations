@@ -16,5 +16,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <string name="lockscreen_clock_selection_analog_deadpool">Analogique (Deadpool)</string>
+    <string name="lockscreen_clock_selection_analog_deepnight">Analogique (Deep night)</string>
     <string name="lockscreen_clock_selection_analog_du">Analogique (DU)</string>
 </resources>
