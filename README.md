@@ -1,13 +1,9 @@
-![LogoFR](https://img11.hostingpics.net/pics/78054920170905DUOreoFR500.jpg)
+![LogoFR](https://image.noelshack.com/fichiers/2018/25/2/1529422087-2017-09-05-du-oreo-fr-500.jpeg)
 
 # Fichiers de traduction pour Dirty Unicorns 12 (Android 8.0) #
 
 Ce repertoire contient simplement les fichiers de traductions nécessaires
-pour compiler Dirty Unicorns 12 (Android 8.0) en français.
-
-# GitHub de Dirty Unicorns 11 (Android 7.0) #
-
-[GitHub de Dirty Unicorns 11](https://github.com/DirtyUnicorns/android_manifest/tree/n)
+pour compiler Dirty Unicorns 12 (Android 8.1) en français.
 
 # TranslationTools pour Dirty Unicorns 12 #
 ![TranslationTools](http://img4.hostingpics.net/pics/32262620161014194915TranslationToolspourDirtyUnicorns11.png)
