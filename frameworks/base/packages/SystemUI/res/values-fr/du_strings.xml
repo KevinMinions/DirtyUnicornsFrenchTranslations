@@ -115,5 +115,7 @@
   <string name="quick_settings_smart_pixels">Smart pixels</string>
   <string name="quick_settings_smart_pixels_on_power_save">Activation automatique de Smart pixels</string>
 
-    <string name="recents_app_killed">Application fermée</string>
+  <string name="recents_app_killed">Application fermée</string>
+  <string name="recents_locked_app_kill_warning">Application verrouillée. Fermeture forcée, mais l\'application est conservée.</string>
+  <string name="recents_kill_error_warning">Impossible de forcer la fermeture de cette application. Abandon.</string>
 </resources>
