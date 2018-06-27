@@ -133,11 +133,19 @@
     <string name="all_icons">Toutes les icônes</string>
     <string name="similar_icons">Icônes similaires</string>
     <string name="ok">OK</string>
-    <string name="icon_label">libellé</string>
+    <string name="icon_label">Libellé</string>
     <string name="loading">Chargement en cours</string>
     <string name="icon_chooser">Sélecteur d\'icône</string>
     <string name="icon_search">Rechercher des icônes</string>
     <string name="action_edit">Modifier</string>
-    <string name="icon_pack_updated">Le pack d\'icônes du lanceur d\'application a été mis à jour, de nouvelles icônes pour les applications sont peut-être disponibles.</string>
+    <string name="icon_pack_updated">Le paquet d\'icônes du lanceur d\'application a été mis à jour. De nouvelles icônes pour les applications sont peut-être disponibles.</string>
+
+    <!-- Homescreen double tap gesture -->
+    <string name="gestures_category_title">Gestes</string>
+    <string name="pref_homescreen_dt_gestures_title">Double appui</string>
+    <string name="pref_homescreen_dt_gestures_summary">Sélectionner l\'action du geste par double appui sur l\'écran d\'accueil</string>
+    <string name="pref_homescreen_dt_gestures_none">Aucun</string>
+    <string name="pref_homescreen_dt_gestures_sleep">Mise en veille</string>
+    <string name="pref_homescreen_dt_gestures_torch">Lampe de poche</string>
 
 </resources>
