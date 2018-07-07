@@ -184,7 +184,7 @@
   <string name="lockscreen_items_other">Autre</string>
   <string name="hide_lockscreen_clock_title">Widget Horloge</string>
   <string name="hide_lockscreen_clock_summary">Afficher</string>
-  <string name="lockscreen_clock_selection_title">Style</string>
+  <string name="lockscreen_clock_selection_title">Style de l\'horloge</string>
   <string name="lockscreen_clock_selection_digital">Par défaut</string>
   <string name="lockscreen_clock_selection_digital_bold">Numérique (gras)</string>
   <string name="lockscreen_clock_selection_sammy">Sammy</string>
