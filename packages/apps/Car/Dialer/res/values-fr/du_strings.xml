@@ -75,7 +75,7 @@
     <string name="audio_route_handset">Téléphone</string>
 
     <!-- Menu label for the call history [CHAR LIMIT=30] -->
-    <string name="calllog_all">Historique des appels</string>
+    <string name="calllog_all">Journal d\'appels</string>
     <!-- Menu label for the missed call history [CHAR LIMIT=30] -->
     <string name="calllog_missed">Manqué</string>
     <!-- Menu label for the favorites [CHAR LIMIT=30] -->
@@ -92,7 +92,7 @@
     <!-- Title for the favorites [CHAR LIMIT=30] -->
     <string name="favorites_title">Favoris</string>
     <!-- Title for the call history [CHAR LIMIT=30] -->
-    <string name="call_history_title">Historique des appels</string>
+    <string name="call_history_title">Journal d\'appels</string>
     <!-- Title for the missed call history [CHAR LIMIT=30] -->
     <string name="missed_call_title">Manqué</string>
     <!-- Title for the contacts [CHAR LIMIT=30] -->
