@@ -26,4 +26,8 @@
     <string name="loading">Récupération de la sélection en cours&#8230;</string>
     <!-- The text for unknown playback error. [CHAR LIMIT=50] -->
     <string name="unknown_error">Erreur</string>
+    <!-- Text of the button displayed at the bottom of a media browse section to provide access to additional items. [CHAR LIMIT=100] -->
+    <string name="media_browse_more">Plus…</string>
+    <!-- Media template title -->
+    <string name="media_app_title">Média</string>
 </resources>
