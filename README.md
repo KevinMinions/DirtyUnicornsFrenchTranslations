@@ -6,7 +6,7 @@ Ce repertoire contient simplement les fichiers de traductions nécessaires
 pour compiler Dirty Unicorns 13 (Android 9.0) en français.
 
 # TranslationTools pour Dirty Unicorns 13 #
-![TranslationTools](http://img4.hostingpics.net/pics/32262620161014194915TranslationToolspourDirtyUnicorns11.png)
+![TranslationTools](https://raw.githubusercontent.com/KowalskiOmniROM/DirtyUnicornsFrenchTranslations/p9x/images/2018-09-19-TranslationTools_-_DU_9-0_500.png)
 
 
 Translation Tools is a program, developed by the French Android ROM translator Delphin PETER, to assist translators in translating Android ROM into their language.
