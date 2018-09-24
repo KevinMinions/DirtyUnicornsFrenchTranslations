@@ -1,4 +1,4 @@
-![LogoFR](https://image.noelshack.com/fichiers/2018/25/2/1529422087-2017-09-05-du-oreo-fr-500.jpeg)
+![LogoFR](https://raw.githubusercontent.com/KowalskiOmniROM/DirtyUnicornsFrenchTranslations/p9x/images/DU-13_-_Logo-FR_-_500p.png)
 
 # Fichiers de traduction pour Dirty Unicorns 13 (Android 9.0) #
 
