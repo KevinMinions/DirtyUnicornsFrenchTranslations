@@ -13,5 +13,8 @@ Translation Tools is a program, developed by the French Android ROM translator D
 
 [TranslationTools pour Dirty Unicorns 13](https://github.com/DelphinPETER/TranslationTools/tree/du90)
 
+## Installation
+cd "[Répertoire de DU]" && curl https://raw.github.com/DelphinPETER/TranslatorRepo/du90/TranslationTools.xml > .repo/local_manifests/TranslationTools.xml && repo sync
+
 N'hésitez pas à proposer des modifications au fichier [project.xml](https://github.com/DelphinPETER/TranslationTools/blob/du90/project.xml) si besoin.
 
