@@ -35,4 +35,10 @@
     <string name="sub_deactivate_success">Carte SIM désactivée</string>
     <string name="sub_deactivate_failed">Échec de la désactivation</string>
     <string name="available_sims_title">Cartes SIM disponibles</string>
+
+    <!-- Density category -->
+    <string name="density_category">Densité</string>
+
+    <!-- DU version in About phone -->
+    <string name="rom_version_title">Version de DU</string>
 </resources>
