@@ -15,7 +15,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="radio_info_imsi_label">IMSI :</string>
+
+    <!-- System theme -->
+    <string name="applying_theme_toast">Ajustement du thème en cours...</string>
+    <string name="theme_applied_toast">Thème défini !</string>
+
+    <string name="radio_info_imsi_label">IMSI :</string>
 
     <!-- MSIM Manual provisioning -->
     <string name="sim_enabler_summary"><xliff:g id="displayName">%1$s</xliff:g> est <xliff:g id="status" example="disabled">%2$s</xliff:g></string>
@@ -41,4 +46,9 @@
 
     <!-- DU version in About phone -->
     <string name="rom_version_title">Version de DU</string>
+
+    <!-- Ambient category -->
+    <string name="ambient_display_category">Affichage en mode Veille</string>
+    <string name="custom_ambient_display_summary">Configurer l\'affichage en mode Veille</string>
+
 </resources>
