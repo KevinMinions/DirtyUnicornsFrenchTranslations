@@ -18,67 +18,12 @@
  */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Show lte/4g switch -->
-  <string name="show_lte_fourgee_title">Icône \"4G\"</string>
-  <string name="show_lte_fourgee_summary">Afficher l\'icône \"4G\" plutôt que \"LTE\" sur la barre d\'état et dans le panneau de configuration rapide</string>
-  <string name="statusbar_tuner_category_title">Éléments à afficher</string>
-  <!-- Roaming indicator -->
-  <string name="roaming_indicator_title">Itinérance</string>
-  <!-- DU logo -->
-  <string name="du_logo_title">Logo DU</string>
-  <string name="du_logo_summary">Afficher le logo de DU sur la gauche de la barre d\'état</string>
-  <!-- Power menu -->
-  <string name="global_action_restart_system">Redémarrage système</string>
-  <string name="global_action_restart_advanced">Redémarrage optimisé</string>
-  <string name="global_action_restart_recovery">Recovery</string>
-  <string name="global_action_restart_bootloader">Bootloader</string>
-  <string name="global_action_restart_ui">Interface</string>
-  <string name="global_action_restart_hot">Hot Reboot</string>
-  <string name="global_action_screenshot">Capture d\'écran</string>
-  <!-- Screenshot Delete Toast -->
-  <string name="delete_screenshot_toast">Capture d\'écran supprimée</string>
-  <!-- Battery saver tile -->
-  <string name="battery_saver_qs_tile_fully_charged">Chargé</string>
-  <!-- Indication on the keyguard that is shown when the device is charging with a dash charger. Should match keyguard_plugged_in_dash_charging [CHAR LIMIT=40]-->
-  <string name="keyguard_indication_dash_charging_time">Charge Dash… (Complètement chargé dans <xliff:g id="charging_time_left">%s</xliff:g>)</string>
-  <string name="keyguard_plugged_in_dash_charging">Charge Dash</string>
-  <!-- Content description of the data connection type HSPA+ for accessibility (not shown on the screen). [CHAR LIMIT=NONE] -->
-  <string name="accessibility_data_connection_hspap">HSPA+</string>
-  <!-- SystemUI Tuner Parts -->
-  <string name="systemui_tuner_icon_manager_title">Gestionnaire d\'icônes</string>
-  <string name="systemui_tuner_lockscreen_bottom_shortcuts_title">Raccourcis du bas</string>
-  <string name="lockscreen_default">Par défaut</string>
-  <string name="lockscreen_hidden">Aucun</string>
-  <string name="custom_hint">Glisser depuis l\'icône pour démarrer</string>
-  <string name="systemui_tuner_navbar_title">Paramètres d\'origine</string>
-  <string name="status_bar_vpn">VPN</string>
-  <!-- QS Tiles -->
-  <string name="quick_settings_reboot_label">Redémarrer</string>
-  <string name="quick_settings_reboot_recovery_label">Recovery</string>
-  <string name="quick_settings_reboot_bootloader_label">Bootloader</string>
-  <string name="quick_settings_poweroff_label">Éteindre</string>
-  <string name="quick_settings_screenshot_label">Capture d\'écran</string>
-  <string name="quick_settings_region_screenshot_label">Capture d\'écran partielle</string>
-  <string name="quick_settings_caffeine_label">Caféine</string>
-  <string name="accessibility_quick_settings_caffeine_off">Caféine désactivé</string>
-  <string name="accessibility_quick_settings_caffeine_on">Caféine activé</string>
-  <string name="caffeine_info_title">Caféine</string>
-  <string name="caffeine_info_message">La tuile caféine permet de maintenir l\'écran allumé en l\'absence d\'activité.\n\nL\'état de la tuile se réinitialise après extinction de l\'écran.</string>
-  <string name="theme_info_title">Thème</string>
-  <string name="theme_info_message">La tuile thème permet de changer la couleur d\'accentuation ou le style du thème système.\n\nPour basculer entre ces deux modes, effectuer un appui prolongé sur la tuile, puis faire défiler les options disponibles par appui simple.</string>
-  <!-- QS customizer -->
-  <string name="drag_or_tap_to_add_tiles">Glisser ou appuyer pour ajouter des tuiles</string>
-  <!-- Navigation bar Tile -->
-  <string name="quick_settings_navigation_bar">Barre de navigation</string>
-  <string name="quick_settings_smartbar">SmartBar</string>
-  <string name="quick_settings_fling">Fling</string>
-  <string name="quick_settings_navigation_default">Par défaut</string>
-  <string name="quick_settings_navigation_disabled">Désactivé</string>
+
   <!-- Theme tile -->
-  <string name="systemui_theme_style_title">Style</string>
-  <string name="systemui_theme_style_auto">Automatique</string>
-  <string name="systemui_theme_style_light">Clair</string>
-  <string name="systemui_theme_style_dark">Foncé</string>
+  <string name="system_theme_style_title">Style</string>
+  <string name="system_theme_style_auto">Automatique</string>
+  <string name="system_theme_style_light">Clair</string>
+  <string name="system_theme_style_dark">Foncé</string>
   <string name="quick_settings_theme_tile_title">Couleur d\'accentuation</string>
   <string name="quick_settings_theme_tile_accent_detail_title">Choisir une couleur</string>
   <string name="quick_settings_theme_tile_style_detail_title">Choisir un style</string>
@@ -104,21 +49,13 @@
   <string name="quick_settings_theme_tile_color_blue_grey">Bleu Gris</string>
   <string name="quick_settings_theme_tile_color_black">Noir</string>
   <string name="quick_settings_theme_tile_color_white">Blanc</string>
-  <!-- Indication on the keyguard that is shown when the device is charging with a turbo power charger. Should match keyguard_plugged_in_turbo_power_charging [CHAR LIMIT=40]-->
-  <string name="keyguard_indication_turbo_power_time">Recharge \"TurboPower\" (rechargé à 100 %% dans <xliff:g id="charging_time_left">%s</xliff:g>)</string>
-  <string name="keyguard_plugged_in_turbo_power_charging">\"TurboPower\" connecté</string>
-  <string name="keyguard_plugged_in_turbo_charging">Recharge \"TurboPower\" en cours</string>
-  <string name="quick_settings_cast_title">Diffuser</string>
-  <string name="quick_settings_cast_device_default_description">Prêt à diffuser</string>
-  <!-- Smart pixels QS tile -->
-  <string name="quick_settings_smart_pixels">Smart pixels</string>
-  <string name="quick_settings_smart_pixels_on_power_save">Activation automatique de Smart pixels</string>
-  <!-- Text to use when the number in a notification info is too large
-         (greater than status_bar_notification_info_maxnum, defined in
-         values/config.xml) and must be truncated.
-         [CHAR LIMIT=4] -->
-  <!-- Recents kill app -->
-  <string name="recents_app_killed">Application fermée</string>
-  <string name="recents_locked_app_kill_warning">Application verrouillée. Fermeture forcée, mais l\'application est conservée.</string>
-  <string name="recents_kill_error_warning">Impossible de forcer la fermeture de cette application. Abandon.</string>
+  <string name="quick_settings_theme_tile_color_user_one">#StayDirty</string>
+  <string name="quick_settings_theme_tile_color_user_two">Indigo</string>
+  <string name="quick_settings_theme_tile_color_user_three">Bleu</string>
+  <string name="quick_settings_theme_tile_color_user_four">Menthe</string>
+  <string name="quick_settings_theme_tile_color_user_five">Émeraude</string>
+  <string name="quick_settings_theme_tile_color_user_six">Sable</string>
+  <string name="quick_settings_theme_tile_color_user_seven">Bouton d\'or</string>
+  <string name="theme_info_title">Thème</string>
+  <string name="theme_info_message">La tuile thème permet de changer la couleur d\'accentuation ou le style du thème système.\n\nPour basculer entre ces deux modes, effectuer un appui prolongé sur la tuile, puis faire défiler les options disponibles par appui simple.</string>
 </resources>
