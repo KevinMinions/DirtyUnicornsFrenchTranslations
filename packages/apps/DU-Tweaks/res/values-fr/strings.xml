@@ -64,7 +64,7 @@
     <string name="traffic_summary">Réglages de l\'indicateur de vitesse de réseau sur la barre d\'état</string>
     <!-- Navigation -->
     <string name="buttons_title">Boutons</string>
-    <string name="buttons_summary">>Réglages des boutons physiques et du bouton Volume</string>
+    <string name="buttons_summary">Réglages des boutons physiques et du bouton Volume</string>
     <string name="navigationbar_title">Barre de navigation</string>
     <string name="navigationbar_summary">Réglages de Smartbar, Fling et Pulse</string>
     <!-- Multitasking -->
