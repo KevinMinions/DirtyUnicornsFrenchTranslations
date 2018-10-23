@@ -1,150 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2008 The Android Open Source Project
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
+<!--  Copyright (C) 2018 The OmniROM Project
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- Strings for settings -->
+    <!-- General -->
+    <string name="settings_title">Paramètres</string>
 
-    <!-- home_category -->
+    <!-- Categories -->
     <string name="home_category_title">Écran d\'accueil</string>
-    <string name="auto_add_shortcuts_label">Icônes ajoutées automatiquement</string>
-    <string name="auto_add_shortcuts_description">Ajouter automatiquement les icônes des applications nouvellement installées</string>
-    <string name="allow_rotation_title">Orientation de l\'écran</string>
-    <string name="allow_rotation_desc">Autoriser la rotation automatique de l\'écran d\'accueil lors du pivotement de l\'appareil</string>
-    <string name="title_show_google_app">Application Google</string>
-    <string name="title_google_app">Application Google</string>
-    <string name="msg_minus_one_on_left">Afficher le panneau de l\'application Google sur l\'écran d\'accueil le plus à gauche</string>
-
-    <!-- app_drawer_category -->
+    <string name="home_category_summary">Réglages du panneau de l\'application Google et plus</string>
+    <string name="icons_category_title">Icônes</string>
+    <string name="icons_category_summary">Réglages de l\'apparence des icônes et plus</string>
     <string name="app_drawer_category_title">Tiroir d\'applications</string>
-    <string name="title_app_suggestions">Suggestions d\'applications</string>
-    <string name="summary_app_suggestions">Afficher les suggestions d\'applications en haut</string>
+    <string name="app_drawer_category_summary">Réglages du tiroir d\'applications</string>
+    <string name="gestures_category_title">Gestes</string>
+    <string name="gestures_category_summary">Réglages pour une meilleur expérience</string>
 
-    <!-- Hidden app -->
-    <string name="hide_app">Masquage des applications</string>
-    <string name="hide_app_sum">Masquer des applications</string>
-    <string name="hide_app_selected">&#160;sélectionnée(s)</string>
-    <string name="hidden_app">Toutes les applications</string>
-    <string name="hide_selected">Masquer les applications sélectionnées</string>
-    <string name="more">Plus</string>
-    <string name="reset_hidden_apps">Réinitialiser</string>
-    <string name="reset_hidden_apps_done">Les applications précédemment masquées sont maintenant disponibles</string>
+    <!-- Sub categories -->
+    <string name="home_grid_title">Disposition de la grille</string>
+    <string name="icon_layout_title">Disposition des icônes</string>
 
-    <!-- icon_category -->
-    <string name="icon_category_title">Icônes d\'application</string>
-    <string name="icon_shape_override_label">Apparence des icônes</string>
-    <string name="icon_shape_system_default">Valeur système par défaut</string>
-    <string name="icon_shape_square">Carré</string>
-    <string name="icon_shape_squircle">Carrercle</string>
-    <string name="icon_shape_circle">Cercle</string>
-    <string name="icon_shape_teardrop">Goutte</string>
-    <string name="icon_shape_override_progress">Modification en cours</string>
-    <string name="pref_icon_pack">Paquet d\'icônes</string>
-    <string name="state_loading">Modification en cours</string>
+    <!-- Icon packs -->
+    <string name="icon_pack">Paquet d\'icônes</string>
+    <string name="icon_pack_summary">Modifier l\'apparence des icônes d\'applications</string>
 
-    <!-- widget_category -->
-    <string name="widget_category_title">Widgets</string>
-    <string name="smartspace_preferences_in_settings">Widget \"En bref\"</string>
-    <string name="smartspace_preferences_in_settings_desc">Régler le widget \"En bref\" disposé en haut de l\'écran d\'accueil affichant différentes informations</string>
-    <string name="smartspace_hours_mins">%1$s %2$s</string>
+    <!-- Icon shape -->
+    <string name="icon_shape_override_label_custom">Apparence des icônes</string>
 
-    <string name="other_category_title">Divers</string>
-    <string name="other_category_summary">Autres réglages</string>
+    <!-- Icon size -->
+    <string name="icon_size_title">Taille de l\'icône</string>
+    <string name="icon_size_extra_small">Minuscule</string>
+    <string name="icon_size_small">Petite</string>
+    <string name="icon_size_average">Par défaut</string>
+    <string name="icon_size_large">Grande</string>
+    <string name="icon_size_extra_large">Très grande</string>
 
-    <string name="msg_missing_notification_access">Pour afficher les pastilles de notification, activer les notifications de l\'application <xliff:g id="NAME">%1$s</xliff:g></string>
-    <string name="abandoned_promise_explanation">L\'application correspondant à cette icône n\'est pas installée. Supprimer cette icône, ou installer l\'application correspondante.</string>
-    <string name="long_press_widget_to_add">Appui prolongé pour sélectionner un widget</string>
-    <string name="long_accessible_way_to_add">Double appui et maintien pour sélectionner widget ou utiliser les actions personnalisées</string>
-    <string name="add_item_request_drag_hint">Appui prolongé pour placer l\'élément manuellement</string>
-    <string name="folder_tap_to_close">Appuyer pour fermer le dossier</string>
-    <string name="folder_tap_to_rename">Appuyer pour enregistrer le nouveau nom du dossier</string>
-    <string name="msg_disabled_by_admin">Désactivé par l\'administrateur</string>
-    <string name="settings_button_text">Paramètres</string>
-    <string name="smartspace_preferences">Préférences</string>
-    <string name="label_search">Rechercher</string>
-    <string name="label_voice_search">Recherche vocale</string>
-    <string name="about">À propos</string>
-    <string name="about_app_version">Version</string>
-    <string name="title_disable_suggestions_prompt">Désactiver les suggestions d\'applications ?</string>
-    <string name="msg_disable_suggestions_prompt">Les suggestions d\'applications ne s\'afficheront plus en haut du tiroir d\'applications, et les données d\'utilisation utilisées pour les créer seront supprimées définitivement.</string>
-    <string name="label_turn_off_suggestions">DÉSACTIVER</string>
+    <!-- Gestures -->
+    <string name="allow_swipe_down_clearall_title">Tout effacer</string>
+    <string name="allow_swipe_down_clearall_desc">Effectuer un geste vertical vers le bas dans la vue des applications récentes pour forcer la fermeture de toutes les applications</string>
 
-    <!-- About -->
-    <string name="about_credits">Crédits</string>
-    <string name="about_credits_ok">OK</string>
-    <string name="about_amirzaidi_title">Amir Zaidi</string>
-    <string name="about_amirzaidi_summary">Rétro-ingénierie et portage des fonctionnalités de \"Pixel Launcher\" sur Launcher 3</string>
+    <!-- Google Feed -->
+    <string name="google_feed_title">Panneau de l\'application Google</string>
+    <string name="google_feed_summary">Afficher le panneau de l\'application Google sur l\'écran d\'accueil le plus à gauche</string>
 
-    <string name="show_swipeup_arrow">Indicateur de déploiement</string>
-    <string name="show_swipeup_arrow_summary">Afficher la flèche d\'ouverture par glissement du menu des applications au-dessus du Dock</string>
-
-    <!-- Hide/Show search bars -->
-    <string name="bottom_search_bar_title">Barre de recherche inférieure</string>
-    <string name="bottom_search_bar_summary">Afficher la barre de recherche inférieure en dessous du Dock</string>
-    <string name="top_search_bar_title">Barre de recherche supérieure</string>
-    <string name="top_search_bar_summary">Afficher la barre de recherche supérieure en haut</string>
-
-    <!-- Home screen date and weather -->
-    <string name="pref_show_clock_weather">Date et météo</string>
-    <string name="pref_show_clock_weather_both">Afficher la date et la météo</string>
-    <string name="pref_show_clock_weather_nothing">Masquer</string>
-    <string name="pref_show_clock_weather_clock_only">Afficher la date uniquement</string>
-    <string name="pref_show_clock_weather_weather_only">Afficher la météo uniquement</string>
-
-    <!-- Grid size -->
-    <string name="grid_category_title">Colonnes et lignes</string>
+    <!-- Grid -->
+    <string name="num_default">Par défaut</string>
     <string name="number_of_columns_title">Nombre de colonnes</string>
     <string name="number_of_rows_title">Nombre de lignes</string>
     <string name="number_of_hotseat_title">Nombre d\'icônes de la zone des favoris</string>
-    <string name="icon_shape_rounded_square">Carré arrondi</string>
+    <string name="state_loading">Mise en place en cours\u2026</string>
 
-    <string name="num_default">Par défaut</string>
-    <string name="num_three">Trois</string>
-    <string name="num_four">Quatre</string>
-    <string name="num_five">Cinq</string>
-    <string name="num_six">Six</string>
-    <string name="num_seven">Sept</string>
-
-    <!-- Icon pack -->
-    <string name="default_iconpack_title">Par défaut</string>
-    <string name="icons_pack_name">Paquet d\'icônes</string>
-    <string name="edit_drop_target_label">Modifier</string>
-    <string name="edit_app">Modifier</string>
-    <string name="edit_hint">Nom de l\'icône</string>
-    <string name="reset_icon">Réinitialiser</string>
-    <string name="customize">Personnaliser</string>
-    <string name="visual">Visuel</string>
-    <string name="all_icons">Toutes les icônes</string>
-    <string name="similar_icons">Icônes similaires</string>
-    <string name="ok">OK</string>
-    <string name="icon_label">libellé</string>
-    <string name="loading">Chargement en cours</string>
-    <string name="icon_chooser">Sélecteur d\'icône</string>
-    <string name="icon_search">Rechercher des icônes</string>
-    <string name="action_edit">Modifier</string>
-    <string name="icon_pack_updated">Le pack d\'icônes du lanceur d\'application a été mis à jour, de nouvelles icônes pour les applications sont peut-être disponibles.</string>
-
-    <!-- Homescreen notification gestures -->
-    <string name="pref_homescreen_notification_gestures_title">Glissement vers le bas</string>
-    <string name="pref_homescreen_notification_gestures_summary">Sélectionner l\'action du geste par glissement vers le bas sur l\'écran d\'accueil</string>
-    <string name="pref_homescreen_notification_gestures_none">Aucun</string>
-    <string name="pref_homescreen_notification_gestures_notifications">Notifications</string>
-    <string name="pref_homescreen_notification_gestures_panel">Panneau de configuration rapide</string>
+    <!-- Show labels on icon -->
+    <string name="app_show_label_title">Libellés des applications</string>
+    <string name="desktop_show_label_summary">Afficher les libellés des applications sur l\'écran d\'accueil</string>
+    <string name="allapps_show_label_summary">Afficher les libellés des applications dans le tiroir d\'applications</string>
 
 </resources>
