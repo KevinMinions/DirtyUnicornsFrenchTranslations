@@ -47,6 +47,17 @@
     <!-- DU version in About phone -->
     <string name="rom_version_title">Version de DU</string>
 
+    <!-- System theme -->
+    <string name="system_theme_wallpaper">Automatique (basé sur le fond d\'écran)</string>
+    <string name="system_theme_light">Clair</string>
+    <string name="system_theme_dark">Foncé</string>
+
+    <!-- Selinux -->
+    <string name="selinux_status">État SELinux</string>
+    <string name="selinux_status_disabled">Désactivé</string>
+    <string name="selinux_status_permissive">Permissif</string>
+    <string name="selinux_status_enforcing">Application</string>
+
     <!-- Ambient category -->
     <string name="ambient_display_category">Affichage en mode Veille</string>
     <string name="custom_ambient_display_summary">Configurer l\'affichage en mode Veille</string>
