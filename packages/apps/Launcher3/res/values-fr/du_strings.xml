@@ -35,11 +35,13 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="icon_layout_title">Disposition des icônes</string>
 
     <!-- Icon packs -->
+    <string name="icon_pack_none">Aucun</string>
     <string name="icon_pack">Paquet d\'icônes</string>
     <string name="icon_pack_summary">Modifier l\'apparence des icônes d\'applications</string>
 
     <!-- Icon shape -->
     <string name="icon_shape_override_label_custom">Apparence des icônes</string>
+    <string name="icon_shape_rounded_square">Carré arrondi</string>
 
     <!-- Icon size -->
     <string name="icon_size_title">Taille de l\'icône</string>
@@ -63,6 +65,16 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="number_of_rows_title">Nombre de lignes</string>
     <string name="number_of_hotseat_title">Nombre d\'icônes de la zone des favoris</string>
     <string name="state_loading">Mise en place en cours\u2026</string>
+
+    <!-- Hidden apps -->
+    <string name="hide_app">Masquage des applications</string>
+    <string name="hide_app_sum">Masquer des applications</string>
+    <string name="hide_app_selected">&#160;sélectionnée(s)</string>
+    <string name="hidden_app">Toutes les applications</string>
+    <string name="hide_selected">Masquer les applications sélectionnées</string>
+    <string name="more">Plus</string>
+    <string name="reset_hidden_apps">Réinitialiser</string>
+    <string name="reset_hidden_apps_done">Les applications précédemment masquées sont maintenant disponibles</string>
 
     <!-- Show labels on icon -->
     <string name="app_show_label_title">Libellés des applications</string>
