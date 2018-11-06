@@ -73,6 +73,13 @@
     <string name="recents_title">Applications récentes</string>
     <string name="recents_summary">Réglages des applications récentes</string>
 
+    <!-- Power Menu -->
+    <string name="powermenu_reboot_title">Redémarrer</string>
+    <string name="powermenu_advanced_restart_title">Redémarrage optimisé</string>
+    <string name="powermenu_advanced_restart_summary">Activer le menu de redémarrage optimisé pour plus d\'options de redémarrage</string>
+    <string name="powermenu_lockdown_title">Écran de déverrouillage</string>
+    <string name="powermenu_screenshot_title">Capture d\'écran</string>
+
     <!-- Themes -->
     <string name="theme_category_title">Options de thème</string>
     <string name="disable_themes_installed_title">Les thèmes système ne sont pas disponibles afin d\'éviter des conflits avec Substratum. Désinstaller Substratum pour utiliser les thèmes système.</string>
