@@ -90,5 +90,6 @@
     <string name="theme_accent_picker_default">Par défaut</string>
     <string name="accent_picker_material_colors">Sélecteur de couleur</string>
     <string name="accent_picker_custom_colors">Personnalisée</string>
+    <string name="qs_styles_dialog_title">Réglages de l\'aspect des tuiles du panneau de configuration rapide</string>
 
 </resources>
