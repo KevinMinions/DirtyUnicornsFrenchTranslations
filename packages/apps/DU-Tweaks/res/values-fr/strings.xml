@@ -76,7 +76,7 @@
     <!-- Power Menu -->
     <string name="powermenu_reboot_title">Redémarrer</string>
     <string name="powermenu_advanced_restart_title">Redémarrage optimisé</string>
-    <string name="powermenu_advanced_restart_summary">Activer le menu de redémarrage optimisé pour plus d\'options de redémarrage</string>
+    <string name="powermenu_advanced_restart_summary">Afficher le menu permettant plus d\'options de redémarrage</string>
     <string name="powermenu_lockdown_title">Écran de déverrouillage</string>
     <string name="powermenu_screenshot_title">Capture d\'écran</string>
 
@@ -91,5 +91,21 @@
     <string name="accent_picker_material_colors">Sélecteur de couleur</string>
     <string name="accent_picker_custom_colors">Personnalisée</string>
     <string name="qs_styles_dialog_title">Réglages de l\'aspect des tuiles du panneau de configuration rapide</string>
+
+    <!-- Battery styles -->
+    <string name="battery_style_title">Icône batterie</string>
+    <string name="battery_style_summary">Régler l\'apparence de l\'icône de la batterie dans la barre d\'état</string>
+    <string name="battery_style_port">Portrait</string>
+    <string name="battery_style_circle">Cercle</string>
+    <string name="battery_style_dotted_circle">Cercle en pointillé</string>
+    <string name="battery_style_text">Texte</string>
+    <string name="battery_style_hidden">Masqué</string>
+
+    <!-- Battery percent -->
+    <string name="show_battery_percent_title">Niveau de charge</string>
+    <string name="show_battery_percent_summary">Afficher le pourcentage de la batterie</string>
+    <string name="battery_percent_hidden">Masqué</string>
+    <string name="battery_percent_outside">À côté de l\'icône</string>
+    <string name="battery_percent_inside">Dans l\'icône</string>
 
 </resources>
