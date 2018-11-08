@@ -25,5 +25,6 @@
     <string name="reboot_to_bootloader_message">Redémarrage Bootloader</string>
     <string name="reboot_title">Redémarrer</string>
     <string name="reboot_message">Redémarrage Système</string>
+    <string name="global_action_lockdown">Écran de déverrouillage</string>
 
 </resources>
