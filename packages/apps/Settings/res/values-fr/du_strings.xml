@@ -70,7 +70,7 @@
     <string name="torch_power_button_gesture_lp">Appui prolongé sur le bouton Marche/Arrêt</string>
 
     <!-- QS tile styles -->
-    <string name="qs_tile_style_title">Aspect des tuiles du panneau de configuration rapide</string>
+    <string name="qs_tile_style_title">Tuiles du panneau de configuration rapide</string>
     <string name="qs_tile_style_default">Valeur système par défaut</string>
     <string name="qs_tile_style_square">Carré</string>
     <string name="qs_tile_style_rounded_square">Carré arrondi</string>
