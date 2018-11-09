@@ -76,7 +76,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <!-- Hidden apps -->
     <string name="hide_app">Masquage des applications</string>
     <string name="hide_app_sum">Masquer des applications</string>
-    <string name="hide_app_selected">&#160;sélectionnée(s)</string>
+    <string name="hide_app_selected">&#160; sélectionnée(s)</string>
     <string name="hidden_app">Toutes les applications</string>
     <string name="hide_selected">Masquer les applications sélectionnées</string>
     <string name="more">Plus</string>
@@ -87,5 +87,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="app_show_label_title">Libellés des applications</string>
     <string name="desktop_show_label_summary">Afficher les libellés des applications sur l\'écran d\'accueil</string>
     <string name="allapps_show_label_summary">Afficher les libellés des applications dans le tiroir d\'applications</string>
+
+    <!-- Show searchbar -->
+    <string name="show_searchbar_title">Barre de recherche</string>
+    <string name="show_searchbar_summary">Afficher la barre de recherche sur l\'écran d\'accueil</string>
 
 </resources>
