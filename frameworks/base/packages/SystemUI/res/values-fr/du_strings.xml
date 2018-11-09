@@ -74,8 +74,8 @@
 
     <!-- Immersive tile -->
     <string name="quick_settings_immersive_tile">Mode immersif</string>
-    <string name="quick_settings_immersive_tile_statusbar">Immersive Barre d\'état</string>
-    <string name="quick_settings_immersive_tile_navbar">Immersive Barre de navigation</string>
+    <string name="quick_settings_immersive_tile_statusbar">Barre d\'état masquée</string>
+    <string name="quick_settings_immersive_tile_navbar">Barre de navigation masquée</string>
     <string name="quick_settings_immersive_tile_full">Complet</string>
 
     <!-- Caffeine tile -->
