@@ -90,6 +90,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
     <!-- Show searchbar -->
     <string name="show_searchbar_title">Barre de recherche</string>
-    <string name="show_searchbar_summary">Afficher la barre de recherche sur l\'écran d\'accueil</string>
+    <string name="show_searchbar_summary">Afficher la barre de recherche</string>
 
 </resources>
