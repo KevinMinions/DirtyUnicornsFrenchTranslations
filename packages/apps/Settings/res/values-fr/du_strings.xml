@@ -48,7 +48,7 @@
     <string name="rom_version_title">Version de DU</string>
 
     <!-- System theme -->
-    <string name="system_theme_wallpaper">Automatique (basé sur le fond d\'écran)</string>
+    <string name="system_theme_wallpaper">Automatique (en fonction de l\'heure de la journée)</string>
     <string name="system_theme_light">Clair</string>
     <string name="system_theme_dark">Foncé</string>
 
