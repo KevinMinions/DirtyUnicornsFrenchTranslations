@@ -74,14 +74,14 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="state_loading">Mise en place en cours\u2026</string>
 
     <!-- Hidden apps -->
-    <string name="hide_app">Masquage des applications</string>
+    <string name="hide_app">Affichage des applications</string>
     <string name="hide_app_sum">Masquer des applications</string>
     <string name="hide_app_selected">&#160; sélectionnée(s)</string>
     <string name="hidden_app">Toutes les applications</string>
     <string name="hide_selected">Masquer les applications sélectionnées</string>
     <string name="more">Plus</string>
     <string name="reset_hidden_apps">Réinitialiser</string>
-    <string name="reset_hidden_apps_done">Les applications précédemment masquées sont maintenant disponibles</string>
+    <string name="reset_hidden_apps_done">Les applications précédemment masquées sont maintenant affichées</string>
 
     <!-- Show labels on icon -->
     <string name="app_show_label_title">Libellés des applications</string>
