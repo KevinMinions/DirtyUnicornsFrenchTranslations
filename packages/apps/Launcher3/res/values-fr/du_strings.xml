@@ -85,8 +85,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
     <!-- Show labels on icon -->
     <string name="app_show_label_title">Libellés des applications</string>
-    <string name="desktop_show_label_summary">Afficher les libellés des applications sur l\'écran d\'accueil</string>
-    <string name="allapps_show_label_summary">Afficher les libellés des applications dans le tiroir d\'applications</string>
+    <string name="desktop_show_label_summary">Afficher les libellés des applications</string>
+    <string name="allapps_show_label_summary">Afficher les libellés des applications</string>
 
     <!-- Show searchbar -->
     <string name="show_searchbar_title">Barre de recherche</string>
