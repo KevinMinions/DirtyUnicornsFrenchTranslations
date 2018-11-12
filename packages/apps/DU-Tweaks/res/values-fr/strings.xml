@@ -73,6 +73,11 @@
     <string name="recents_title">Applications récentes</string>
     <string name="recents_summary">Réglages des applications récentes</string>
 
+    <!-- Lockscreen Media art -->
+    <string name="lockscreen_items_other">Autre</string>
+    <string name="media_art_title">Illustration du titre musical</string>
+    <string name="media_art_summary">Activer l\'illustration du titre musical en cours de lecture</string>
+
     <!-- Power Menu -->
     <string name="powermenu_reboot_title">Redémarrer</string>
     <string name="powermenu_advanced_restart_title">Redémarrage optimisé</string>
@@ -107,5 +112,9 @@
     <string name="battery_percent_hidden">Masqué</string>
     <string name="battery_percent_outside">À côté de l\'icône</string>
     <string name="battery_percent_inside">Dans l\'icône</string>
+
+    <!-- Volume rocker music control -->
+    <string name="volume_button_music_control_title">Contrôle de lecture</string>
+    <string name="volume_button_music_control_summary">Sur écran éteint, un appui prolongé sur les touches Volume change la chanson</string>
 
 </resources>
