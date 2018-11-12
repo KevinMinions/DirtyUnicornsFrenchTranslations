@@ -77,4 +77,8 @@
     <string name="qs_tile_style_squircle">Carrercle</string>
     <string name="qs_tile_style_tear_drop">Goutte</string>
 
+    <!-- Media gestures -->
+    <string name="prevent_ringing_option_mute_no_media">Désactivation du son</string>
+    <string name="prevent_ringing_option_mute_no_media_summary">Désactivé (Son désactivé, aucun fichier multimédia)</string>
+
 </resources>
