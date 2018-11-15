@@ -81,4 +81,8 @@
     <string name="prevent_ringing_option_mute_no_media">Désactivation du son</string>
     <string name="prevent_ringing_option_mute_no_media_summary">Désactivé (Son désactivé, aucun fichier multimédia)</string>
 
+    <!-- Swipe fp to dismiss notifications -->
+    <string name="fp_swipe_to_dismiss_notifications_title">Ignorer les notifications</string>
+    <string name="fp_swipe_to_dismiss_notifications_summary">Glisser vers la gauche ou la droite sur le capteur d\'empreintes digitales pour ignorer les notifications</string>
+
 </resources>
