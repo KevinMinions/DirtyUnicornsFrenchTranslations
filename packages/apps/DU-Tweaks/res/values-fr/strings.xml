@@ -117,4 +117,18 @@
     <string name="volume_button_music_control_title">Contrôle de lecture</string>
     <string name="volume_button_music_control_summary">Sur écran éteint, un appui prolongé sur les touches Volume change la chanson</string>
 
+    <!-- QS rows and columns -->
+    <string name="qs_rows_columns_title">Lignes et de colonnes</string>
+    <string name="qs_rows_portrait_title">Lignes de tuiles en mode portrait</string>
+    <string name="qs_rows_landscape_title">Lignes de tuiles en mode paysage</string>
+    <string name="qs_columns_portrait_title">Colonnes de tuiles en mode portrait</string>
+    <string name="qs_columns_landscape_title">Colonnes de tuiles en mode paysage</string>
+
+    <string name="qs_tile_title_visibility_title">Afficher le titre des tuiles</string>
+
+    <string name="status_bar_quick_qs_pulldown">Déroulement rapide</string>
+    <string name="quick_pulldown_none">Désactivé</string>
+    <string name="quick_pulldown_right">Tirer vers le bas du côté droit de la barre d\'état</string>
+    <string name="quick_pulldown_left">Tirer vers le bas du côté gauche de la barre d\'état</string>
+
 </resources>
