@@ -91,7 +91,7 @@
     <string name="disable_accents_installed_title">Couleur d\'accentuation n\'est pas disponible afin d\'éviter des conflits avec Substratum. Désinstaller Substratum pour utiliser les couleurs d\'accentuation.</string>
     <string name="accent_picker_dialog_title">Choisir une couleur d\'accentuation</string>
     <string name="theme_accent_picker_title">Couleur d\'accentuation</string>
-    <string name="theme_accent_picker_summary">Choisir la couleur d\'accentuation du thème système</string>
+    <string name="theme_accent_picker_summary">Réglages de la couleur d\'accentuation du thème système</string>
     <string name="theme_accent_picker_default">Par défaut</string>
     <string name="accent_picker_material_colors">Sélecteur de couleur</string>
     <string name="accent_picker_custom_colors">Personnalisée</string>
