@@ -91,4 +91,8 @@
     <string name="full_gesture_mode_dt2s_title">Veille par double appui</string>
     <string name="full_gesture_mode_dt2s_summary">Mettre l\'appareil en veille par double appui sur un espace libre de la barre de navigation vide (mais pas sur le bouton d\'accueil)</string>
 
+    <!-- strings.xml -->
+    <string name="swipe_up_to_switch_apps_title">Nouveau bouton d\'accueil</string>
+    <string name="swipe_up_to_switch_apps_summary">Effectuer un glissement avec un doigt vers le haut sur la touche d\'accueil pour changer d\'application.\nRépéter l\'opération pour afficher toutes les applications.\nCette option fonctionne sur tous les écrans.\nLe bouton \"Aperçu\" ne figure plus en bas à droite de l\'écran.</string>
+
 </resources>
