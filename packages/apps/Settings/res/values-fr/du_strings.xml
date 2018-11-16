@@ -60,7 +60,7 @@
 
     <!-- Ambient category -->
     <string name="ambient_display_category">Affichage en mode Veille</string>
-    <string name="custom_ambient_display_summary">Configurer l\'affichage en mode Veille</string>
+    <string name="custom_ambient_display_summary">Réglages de l\'affichage en mode Veille</string>
 
     <!-- Flashlight gestures -->
     <string name="double_tap_power_flashlight_screen_title">Lampe de poche</string>
