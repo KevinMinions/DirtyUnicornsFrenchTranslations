@@ -85,4 +85,10 @@
     <string name="fp_swipe_to_dismiss_notifications_title">Ignorer les notifications</string>
     <string name="fp_swipe_to_dismiss_notifications_summary">Glisser vers la gauche ou la droite sur le capteur d\'empreintes digitales pour ignorer les notifications</string>
 
+    <!-- Navbar gestures -->
+    <string name="full_gesture_mode_title">Mode de geste complet</string>
+    <string name="full_gesture_mode_summary">Ce mode désactive le bouton Retour permettant d\'assigner une action par glissement vers la gauche sur cet emplacement.\nL\'action par glissement vers la droite déclenche toujours l\'affichage de la dernière application et des applications récentes.\nLe retour sur l\'écran d\'accueil s\'effectue par un appui sur le bouton Accueil ou sur n\’importe quel espace vide de la barre de navigation.\nLorsque le clavier est affiché, un appui prolongé sur la barre de navigation permet de déplacer le curseur de texte.</string>
+    <string name="full_gesture_mode_dt2s_title">Veille par double appui</string>
+    <string name="full_gesture_mode_dt2s_summary">Mettre l\'appareil en veille par double appui sur un espace libre de la barre de navigation vide (mais pas sur le bouton d\'accueil</string>
+
 </resources>
