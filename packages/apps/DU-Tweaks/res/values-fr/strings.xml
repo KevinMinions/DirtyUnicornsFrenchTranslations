@@ -85,6 +85,13 @@
     <string name="powermenu_lockdown_title">Écran de déverrouillage</string>
     <string name="powermenu_screenshot_title">Capture d\'écran</string>
 
+    <!-- Recents icon packs -->
+    <string name="recents_icon_pack_title">Paquet d\'icônes</string>
+    <string name="recents_icon_pack_summary">Utiliser un paquet d\'icônes personnalisé</string>
+    <string name="no_iconpacks_summary">Aucun paquet d\'icônes installé</string>
+    <string name="dialog_pick_iconpack_title">Sélectionner un paquet d\'icônes</string>
+    <string name="default_iconpack_title">Icônes par défaut</string>
+
     <!-- Themes -->
     <string name="theme_category_title">Options de thème</string>
     <string name="disable_themes_installed_title">Les thèmes système ne sont pas disponibles afin d\'éviter des conflits avec Substratum. Désinstaller Substratum pour utiliser les thèmes système.</string>
