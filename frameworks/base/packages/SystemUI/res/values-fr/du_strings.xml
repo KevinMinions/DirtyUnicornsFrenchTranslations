@@ -19,6 +19,12 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- Screenshot Delete Toast -->
+    <string name="delete_screenshot_toast">Capture d\'écran supprimée</string>
+
+    <!-- QS customizer -->
+    <string name="drag_or_tap_to_add_tiles">Glisser ou appuyer pour ajouter des tuiles</string>
+
     <!-- Power menu -->
     <string name="global_action_restart_advanced">Redémarrage optimisé</string>
     <string name="global_action_restart_recovery">Recovery</string>
