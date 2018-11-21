@@ -32,6 +32,9 @@
     <string name="global_action_restart_ui">Interface</string>
     <string name="global_action_restart_hot">Hot Reboot</string>
 
+    <!-- SystemUI tuner -->
+    <string name="systemui_tuner_navbar_title">Barre de navigation d\'origine</string>
+
   <!-- Theme tile -->
   <string name="system_theme_style_title">Thème</string>
   <string name="system_theme_style_auto">Automatique</string>
