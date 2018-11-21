@@ -99,7 +99,7 @@
     <string name="theme_category_title">Options de thème</string>
     <string name="disable_themes_installed_title">Les thèmes système ne sont pas disponibles afin d\'éviter des conflits avec Substratum. Désinstaller Substratum pour utiliser les thèmes système.</string>
     <string name="disable_accents_installed_title">Couleur d\'accentuation n\'est pas disponible afin d\'éviter des conflits avec Substratum. Désinstaller Substratum pour utiliser les couleurs d\'accentuation.</string>
-    <string name="accent_picker_dialog_title">Choisir une couleur d\'accentuation</string>
+    <string name="accent_picker_dialog_title">Sélectionner une couleur d\'accentuation</string>
     <string name="theme_accent_picker_title">Couleur d\'accentuation</string>
     <string name="theme_accent_picker_summary">Réglages de la couleur d\'accentuation du thème système</string>
     <string name="theme_accent_picker_default">Par défaut</string>
