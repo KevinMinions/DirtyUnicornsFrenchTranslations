@@ -89,4 +89,8 @@
 
     <!-- Caffeine tile -->
     <string name="quick_settings_caffeine_label">Caféine</string>
+
+    <!-- strings.xml -->
+    <string name="quick_settings_cast_title">Diffuser</string>
+    <string name="quick_settings_cast_device_default_description">Prêt à diffuser</string>
 </resources>
