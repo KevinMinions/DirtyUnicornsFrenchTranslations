@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string msgid="6209940985205889239" name="mr_button_content_description">"Icône Cast"</string>
-    <string msgid="7205934955575650355" name="mr_cast_button_connected">"Icône Cast. Connecté"</string>
-    <string msgid="7767160474954808770" name="mr_cast_button_connecting">"Icône Cast. Connexion…"</string>
-    <string msgid="1214396433859225686" name="mr_cast_button_disconnected">"Icône Cast. Déconnecté"</string>
     <string msgid="7883700464756247478" name="mr_chooser_searching">"Recherche d\'appareils…"</string>
-    <string msgid="1469819231928206099" name="mr_chooser_title">"Caster sur"</string>
     <string msgid="8313236767081989488" name="mr_controller_album_art">"Image de l\'album"</string>
     <string msgid="2406876321200529148" name="mr_controller_casting_screen">"Diffusion de l\'écran"</string>
     <string msgid="1404151965680505956" name="mr_controller_close_description">"Fermer"</string>
