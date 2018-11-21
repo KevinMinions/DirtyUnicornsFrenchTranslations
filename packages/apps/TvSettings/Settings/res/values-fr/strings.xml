@@ -700,7 +700,6 @@
     <string name="device_rename_title" msgid="2629557295786267185">"Renommer ce <xliff:g id="DEVICEMODEL">%1$s</xliff:g>"</string>
     <string name="device_rename_description" msgid="2461752788563877107">"Le nom actuel de ce <xliff:g id="DEVICEMODEL">%1$s</xliff:g> est \"<xliff:g id="DEVICENAME">%2$s</xliff:g>\"."</string>
     <string name="device_name_suggestion_title" msgid="2312205155408810120">"Définir le nom de votre appareil"</string>
-    <string name="device_name_suggestion_summary" msgid="5657494684788779371">"Utilisez ce nom pour caster des photos, des vidéos ou d\'autres contenus depuis votre téléphone"</string>
     <string name="change_setting" msgid="2047402388786162246">"Modifier"</string>
     <string name="keep_settings" msgid="6798327196645732517">"Ne pas modifier"</string>
     <string name="apps_permissions" msgid="1283592091618660965">"Autorisations"</string>
