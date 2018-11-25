@@ -87,9 +87,9 @@
     <string name="powermenu_advanced_restart_summary">Afficher le menu permettant plus d\'options de redémarrage</string>
     <string name="powermenu_lockdown_title">Écran de déverrouillage</string>
     <string name="powermenu_screenshot_title">Capture d\'écran</string>
-    <string name="powermenu_disabled_title">Menu Marche/Arrêt</string>
+    <string name="powermenu_disabled_title">Affichage du menu Marche/Arrêt</string>
     <string name="powermenu_disabled_summary">Ne pas afficher la boîte de dialogue du menu Marche/Arrêt sur l\'écran de déverrouillage sécurisé</string>
-    <string name="powermenu_lockscreen_title">Affichage</string>
+    <string name="powermenu_lockscreen_title">Affichage du menu Marche/Arrêt</string>
     <string name="powermenu_lockscreen_summary">Afficher la boîte de dialogue du menu Marche/Arrêt sur l\'écran de déverrouillage sécurisé</string>
 
     <!-- Recents icon packs -->
