@@ -245,4 +245,24 @@
     <string name="clock_date_left">À gauche de l\'horloge</string>
     <string name="clock_date_position">Position de la date</string>
 
+    <!-- Tiles animation/interpolator style  -->
+    <string name="qs_animation_options_title">Animations</string>
+    <string name="qs_tile_animation_style_title">Style</string>
+    <string name="qs_tile_animation_duration_title">Vitesse</string>
+    <string name="qs_tile_animation_interpolator_title">Effet supplémentaire</string>
+    <string name="qs_tile_animation_style_off">Aucune animation</string>
+    <string name="qs_tile_animation_style_flip">Retournement</string>
+    <string name="qs_tile_animation_style_rotate">Rotation</string>
+    <string name="qs_tile_animation_duration_low">Lente</string>
+    <string name="qs_tile_animation_duration_default">Normale</string>
+    <string name="qs_tile_animation_duration_fast">Rapide</string>
+    <string name="qs_tile_animation_interpolator_linearInterpolator">Linéaire</string>
+    <string name="qs_tile_animation_interpolator_accelerateInterpolator">Accélérer</string>
+    <string name="qs_tile_animation_interpolator_decelerateInterpolator">Décélérer</string>
+    <string name="qs_tile_animation_interpolator_accelerateDecelerateInterpolator">Accélérer et décélérer</string>
+    <string name="qs_tile_animation_interpolator_bounceInterpolator">Rebondir</string>
+    <string name="qs_tile_animation_interpolator_overshootInterpolator">Surpasser</string>
+    <string name="qs_tile_animation_interpolator_anticipateInterpolator">Anticiper</string>
+    <string name="qs_tile_animation_interpolator_anticipateOvershootInterpolator">Anticiper et surpasser</string>
+
 </resources>
