@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2018 The Dirty Unicorns Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Attribution text shown at the end of the 'Ratings' menu. It indicates where those rating
+         descriptions come from. [CHAR LIMIT=NONE] -->
+    <string name="option_attribution">Sources pour les descriptions d\'évaluation</string>
+
+    <!-- Description of a card view to show Recording (DVR) history.[CHAR LIMIT=25]-->
+    <string name="dvr_history_card_view_title">Historique des enregistrements</string>
+
+    <!-- Description of failed recordings. [CHAR LIMIT=25] -->
+    <string name="dvr_recording_failed">Échec de l\'enregistrement</string>
+
+    <!-- Description of no recording history for now, and ask user to schedule recordings from
+         the program guide. -->
+    <string name="dvr_history_empty_state">Aucun historique d\'enregistrement.\nVous pouvez programmer des enregistrements à partir du guide des programmes.</string>
+
+    <!-- rating_system_strings.xml -->
+
+    <!-- Age based TV content rating strings used in DVB and ISDB.
+         For more info, please see STD-B10 in http://www.dibeg.org/techp/aribstd/aribstd.html (ISDB)
+         and Table 81 of DVB SI (EN 300 468 V1.14.1) in https://www.dvb.org/standards (DVB).-->
+    <string name="description_age_4">À partir de 4 ans</string>
+    <string name="description_age_5">À partir de 5 ans</string>
+    <string name="description_age_6">À partir de 6 ans</string>
+    <string name="description_age_7">À partir de 7 ans</string>
+    <string name="description_age_8">À partir de 8 ans</string>
+    <string name="description_age_9">À partir de 9 ans</string>
+    <string name="description_age_10">À partir de 10 ans</string>
+    <string name="description_age_11">À partir de 11 ans</string>
+    <string name="description_age_12">À partir de 12 ans</string>
+    <string name="description_age_13">À partir de 13 ans</string>
+    <string name="description_age_14">À partir de 14 ans</string>
+    <string name="description_age_15">À partir de 15 ans</string>
+    <string name="description_age_16">À partir de 16 ans</string>
+    <string name="description_age_17">À partir de 17 ans</string>
+    <string name="description_age_18">À partir de 18 ans</string>
+    <string name="description_age_19">À partir de 19 ans</string>
+    <string name="description_age_20">À partir de 20 ans</string>
+
+    <!-- TV content rating system strings for CA TV. These strings are from
+         http://www.cbsc.ca/english/agvot/englishsystem.php -->
+    <string name="description_ca_tv_en_exempt">les émissions exemptées de classement sont : les émissions d\’information, les émissions de sport, les documentaires, les émissions de causerie, clips vidéo, et les émissions de variété.</string>
+    <string name="description_ca_tv_en_c">Cette émission convient aux jeunes enfants de moins de 8 ans.</string>
+    <string name="description_ca_tv_en_c8">Cette émission convient aux jeunes enfants de moins de 8 ans. Le visionnage en compagnie d\’un adulte est recommandé pour les enfants âgés de moins de 8 ans.</string>
+    <string name="description_ca_tv_en_g">Cette émission convient à tout public et avec un visionnage appropriée pour toute la famille</string>
+    <string name="description_ca_tv_en_pg">Cette émission convient à un public large mais elle contient une violence légère ou occasionnelle qui pourrait troubler de jeunes enfants. Cette émission propose un contenu que les parents pourraient juger inapproprié pour les enfants entre 8 et 13 ans. De nombreux parents pourraient vouloir la regarder avec leurs jeunes enfants (âgés de moins de 8 ans).</string>
+    <string name="description_ca_tv_en_14">Cette émission est susceptible de présenter des contenus non adaptés aux enfants de moins de 14 ans. Contrôle parental nécessaire.</string>
+    <string name="description_ca_tv_en_18">Cette émission est destinée aux téléspectateurs de 18 ans et plus</string>
+
+    <!-- TV content rating system strings for DVB -->
+    <!-- A TV content rating of DVB for all ages [CHAR LIMIT=NONE] -->
+    <string name="description_fr_dvb_u">Tout public</string>
+    <!-- A TV content rating of DVB for all ages [CHAR LIMIT=NONE] -->
+    <string name="description_es_dvb_all">Tout public</string>
+    <!-- A TV content rating of DVB for children [CHAR LIMIT=NONE] -->
+    <string name="description_es_dvb_c">Pour enfants</string>
+    <!-- A TV content rating of DVB for adult [CHAR LIMIT=NONE] -->
+    <string name="description_es_dvb_x">Pour adultes</string>
+
+    <!-- A TV content rating of Korea for all ages [CHAR LIMIT=NONE] -->
+    <string name="description_kr_tv_all">Tout public : aucun aspect choquant pour les parents envisageant que leurs enfants regardent ce contenu..</string>
+    <!-- A TV content rating of Korea for persons aged 7 and above [CHAR LIMIT=NONE] -->
+    <string name="description_kr_tv_7">Contrôle parental recommandé. Les parents pourraient estimer que certains contenus ne sont pas adaptés aux enfants de moins de 7 ans.</string>
+    <!-- A TV content rating of Korea for persons aged 12 and above [CHAR LIMIT=NONE] -->
+    <string name="description_kr_tv_12">Contrôle parental recommandé. Les parents pourraient estimer que certains contenus ne sont pas adaptés aux enfants de moins de 12 ans.</string>
+
+</resources>
