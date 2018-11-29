@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2018 The Dirty Unicorns Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Name of this application when one uses USB tuners. It appears in TV app UI, as one of
+         available TV inputs. -->
+    <string name="ut_app_name">Tuner TV USB</string>
+    <!-- Name of this application when one uses network tuners. It appears in TV app UI, as one of
+         available TV inputs. -->
+    <string name="nt_app_name">Tuner TV Réseau (BETA)</string>
+    <!-- Message shown when the scanning process is being canceled by a user and the scanning
+         process needs the time to wait to finish the processing -->
+    <string name="ut_setup_cancel">Veuillez patienter : recherche en cours.</string>
+    <!-- Message shown when the scanned channels became invalid due to incompatible changes
+         found across application versions, hence a user is required to rescan the channels -->
+    <string name="ut_rescan_needed">Le logiciel tuner a été récemment mis à jour. Veuillez rechercher à nouveau les chaînes.</string>
+    <!-- Message that says audio of the current channel is not available due to surround sound
+         of TV device disabled -->
+    <string name="ut_surround_sound_disabled">Activer le son surround dans les paramètres de son du système pour activer l\'audio</string>
+    <!-- Message that says audio of the current channel is not available due to AC3 passthrough is not usable -->
+    <string name="audio_passthrough_not_supported">Impossible de lire de l'audio. Veuillez essayer une autre télévision</string>
+    <!-- Usb Tuner setup common UI breadcrumb -->
+    <string name="ut_setup_breadcrumb">Configuration du tuner</string>
+    <!-- Title for TV Tuner main setup menu when no channel exists -->
+    <string name="bt_setup_new_title">Configuration du tuner</string>
+    <!-- Title for USB tuner main setup menu when no channel exists -->
+    <string name="ut_setup_new_title">Configuration du tuner</string>
+    <!-- Title for network tuner main setup menu when no channel exists -->
+    <string name="nt_setup_new_title">Configuration du tuner</string>
+    <!-- Description for TV tuner main setup menu when no channel exists -->
+    <string name="bt_setup_new_description">Vérifiez que votre téléviseur est connecté à une source de signal TV.\n\nSi vous utilisez une antenne hertzienne, vous devriez peut-être ajuster son emplacement ou sa direction pour recevoir un plus grand nombre de canaux. Pour de meilleurs résultats, placez-le en hauteur et près d\'une fenêtre.</string>
+    <!-- Description for USB tuner main setup menu when no channel exists -->
+    <string name="ut_setup_new_description">Vérifiez que votre tuner TV USB est connecté à une source de signal TV.\n\nSi vous utilisez une antenne hertzienne, vous devriez peut-être ajuster son emplacement ou sa direction pour recevoir un plus grand nombre de canaux. Pour de meilleurs résultats, placez-le en hauteur et près d\'une fenêtre.</string>
+    <!-- Description for network tuner main setup menu when no channel exists -->
+    <string name="nt_setup_new_description">Vérifiez que votre tuner TV réseau est connecté à une source de signal TV.\n\nSi vous utilisez une antenne hertzienne, vous devriez peut-être ajuster son emplacement ou sa direction pour recevoir un plus grand nombre de canaux. Pour de meilleurs résultats, placez-le en hauteur et près d\'une fenêtre.</string>
+    <!-- Menu items for USB tuner main setup menu when no channel exists -->
+    <string-array name="ut_setup_new_choices">
+        <!-- Continue setup -->
+        <item>Continuer</item>
+        <!-- Exit setup -->
+        <item>Plus tard</item>
+    </string-array>
+    <!-- Title for tuner main setup menu when channel exists already -->
+    <string name="bt_setup_again_title">Relancer la configuration des canaux ?</string>
+    <!-- Description for TV tuner main setup menu when channel exists already -->
+    <string name="bt_setup_again_description">Cela supprimera les canaux du tuner TV et lancera à nouveau la recherche de nouveaux canaux.\n\nVérifiez que votre téléviseur est connecté à une source de signal TV.\n\nSi vous utilisez une antenne hertzienne, vous devriez peut-être ajuster son emplacement ou sa direction pour recevoir un plus grand nombre de canaux. Pour de meilleurs résultats, placez-le en hauteur et près d\'une fenêtre.</string>
+    <!-- Description for USB tuner main setup menu when channel exists already -->
+    <string name="ut_setup_again_description">Cela supprimera les canaux du tuner TV USB et lancera à nouveau la recherche de nouveaux canaux.\n\nVérifiez que votre tuner USB est connecté à une source de signal TV.\n\nSi vous utilisez une antenne hertzienne, vous devriez peut-être ajuster son emplacement ou sa direction pour recevoir un plus grand nombre de canaux. Pour de meilleurs résultats, placez-le en hauteur et près d\'une fenêtre.</string>
+    <!-- Description for network tuner main setup menu when channel exists already -->
+    <string name="nt_setup_again_description">Cela supprimera les canaux du tuner TV réseau et lancera à nouveau la recherche de nouveaux canaux.\n\nVérifiez que votre tuner TV réseau est connecté à une source de signal TV.\n\nSi vous utilisez une antenne hertzienne, vous devriez peut-être ajuster son emplacement ou sa direction pour recevoir un plus grand nombre de canaux. Pour de meilleurs résultats, placez-le en hauteur et près d\'une fenêtre.</string>
+    <!-- Menu items for USB tuner main setup menu when channel exists already -->
+    <string-array name="ut_setup_again_choices">
+        <!-- Continue setup -->
+        <item>Continuer</item>
+        <!-- Exit setup -->
+        <item>Annuler</item>
+    </string-array>
+    <!-- Title for connection type selection menu -->
+    <string name="ut_connection_title">Sélectionnez le type de connexion</string>
+    <!-- Description for connection type selection menu -->
+    <string name="ut_connection_description">Choisissez \"Antenne\" si une antenne externe est connectée au tuner. Choisissez \"Câble\" si vos chaînes proviennent d\'un fournisseur de services par câble. Si vous ne savez pas, les deux types seront analysés, mais cela peut prendre plus de temps.</string>
+    <!-- Menu items for connection type selection menu -->
+    <string-array name="ut_connection_choices">
+        <!-- Signal coming from the antenna that carries over-the-air, terrestrial channels -->
+        <item>Antenne</item>
+        <!-- Signal for cable television channels -->
+        <item>Câble</item>
+        <!-- Not sure what type of connection is provided for channel scanning -->
+        <item>Aucune idée</item>
+        <item translatable="false">Development only</item>
+    </string-array>
+    <!-- Title for channel scanning menu. Use this title with built-in tuners -->
+    <string name="bt_channel_scan">Réglages du Tuner TV</string>
+    <!-- Title for channel scanning menu. Use this title with USB tuners -->
+    <string name="ut_channel_scan">Réglages du Tuner TV USB</string>
+    <!-- Title for channel scanning menu. Use this title with network tuners -->
+    <string name="nt_channel_scan">Réglages du Tuner TV Réseau</string>
+    <!-- Message that says channel is not yet scanned during channel scanning process -->
+    <string name="ut_channel_scan_time">Cela peut prendre plusieurs minutes</string>
+    <!-- Message that says Tuner is not available -->
+    <string name="ut_channel_scan_tuner_unavailable">Le tuner est temporairement indisponible ou déjà utilisé par l\'enregistrement.</string>
+    <!-- Message that says channels are found during channel scanning process -->
+    <plurals name="ut_channel_scan_message">
+        <item quantity="one">%1$d canal trouvé</item>
+        <item quantity="other">%1$d canaux trouvés</item>
+    </plurals>
+    <!-- Title for a button which will stop channel scanning process -->
+    <string name="ut_stop_channel_scan">INTERROMPRE L\'ANALYSE DES CANAUX</string>
+
+    <!-- Title for lineup selection menu when TV lineups are found -->
+    <string name="ut_lineup_title_lineups_found" >Sélectionnez une gamme de TV</string>
+    <!-- Description for lineup selection menu when TV lineups are found.-->
+    <string name="ut_lineup_description_lineups_found" >Choisissez comment vous recevez votre signal TV.</string>
+    <!-- Title for lineup selection menu when no TV lineups is found -->
+    <string name="ut_lineup_title_lineups_not_found" >Aucune gamme de TV trouvée</string>
+    <!-- Description for lineup selection menu when no TV lineups is found -->
+    <string name="ut_lineup_description_lineups_not_found" >Assurez-vous que votre appareil est connecté à Internet et que le code postal est correct.</string>
+    <!-- Title for lineup selection menu when fetching lineups -->
+    <string name="ut_lineup_title_fetching_lineups">Récupération de la liste de gamme de TV en cours…</string>
+    <!-- Description for lineup selection menu when fetching lineups -->
+    <string name="ut_lineup_description_fetching_lineups">Cela peut prendre quelques minutes. Veuillez patienter…</string>
+    <!-- Description for a button when no channels match -->
+    <string name="ut_lineup_no_channels_matched">Aucun canal trouvé</string>
+    <!-- Number of matched channels for lineup selection menu when lineups were found -->
+    <plurals name="ut_lineup_channels_matched">
+        <item quantity="one"><xliff:g id="channels_matched_one">%1$d</xliff:g> canal trouvé</item>
+        <item quantity="other"><xliff:g id="channels_matched_other">%1$d</xliff:g> canaux trouvés</item>
+    </plurals>
+    <!-- A button to select a specific TV lineup of channels for the channels received by a "Television Antenna" -->
+    <string name="ut_lineup_name_antenna">Antenne</string>
+    <!-- Title for channel scanning result menu when channels were found -->
+    <plurals name="ut_result_found_title">
+        <item quantity="one">%1$d canal trouvé</item>
+        <item quantity="other">%1$d canaux trouvés</item>
+    </plurals>
+    <!-- Channel description for channel scanning result menu when channels were found "scan again" should match the button in string ut_result_found_choices-->
+    <string name="ut_result_found_description">Si cela semble incorrect, essayez de régler votre antenne et relancez l\'analyse.</string>
+    <!-- Rescan description for channel scanning result menu when channels were found -->
+    <!-- Menu items for channel scanning result menu when channels were found -->
+    <string-array name="ut_result_found_choices">
+        <item>OK</item>
+        <item>Relancer l\'analyse</item>
+    </string-array>
+    <!-- Title for channel scanning result menu when no channel was found -->
+    <string name="ut_result_not_found_title">Aucune chaîne trouvée</string>
+    <!-- Description for channel scanning result menu when no channel was found -->
+    <string name="bt_result_not_found_description">L\'analyse n\'a trouvé aucun canal. Vérifiez que votre téléviseur est connecté à une source de signal TV.\n\nSi vous utilisez une antenne hertzienne, vous devriez peut-être ajuster son emplacement ou sa direction pour recevoir un plus grand nombre de canaux. Pour de meilleurs résultats, placez-le en hauteur et près d\'une fenêtre.</string>
+    <!-- Description for channel scanning result menu when no channel was found with USB tuners-->
+    <string name="ut_result_not_found_description">L\'analyse n\'a trouvé aucun canal. Vérifiez que votre tuner USB est connecté à une source de signal TV.\n\nSi vous utilisez une antenne hertzienne, vous devriez peut-être ajuster son emplacement ou sa direction pour recevoir un plus grand nombre de canaux. Pour de meilleurs résultats, placez-le en hauteur et près d\'une fenêtre.</string>
+    <!-- Description for channel scanning result menu when no channel was found with network
+         tuners -->
+    <string name="nt_result_not_found_description">L\'analyse n\'a trouvé aucun canal. Vérifiez que votre tuner TV réseau est connecté à une source de signal TV.\n\nSi vous utilisez une antenne hertzienne, vous devriez peut-être ajuster son emplacement ou sa direction pour recevoir un plus grand nombre de canaux. Pour de meilleurs résultats, placez-le en hauteur et près d\'une fenêtre.</string>
+    <!-- Menu items for channel scanning result menu when no channel was found -->
+    <string-array name="ut_result_not_found_choices">
+        <item>Relancer l\'analyse</item>
+        <item>OK</item>
+    </string-array>
+
+    <!-- Notification of USB channel tuner setup strings. -->
+    <!-- Name of notification channel which is for tuner setup. "USB Tuner" is a TV Tuner that is connected via a USB connection.-->
+    <string name="ut_setup_notification_channel_name" >Réglages du Tuner TV USB</string>
+    <!-- Content title of the notification to launch the setup application of
+         USB tuner TV input for scanning channels. -->
+    <string name="ut_setup_notification_content_title">Rechercher des chaînes de télévision</string>
+    <!-- Content text and info of the notification to launch the setup application of
+         built-in tuner TV input for scanning channels. -->
+    <string name="bt_setup_notification_content_text">Réglages du Tuner TV</string>
+    <!-- Content text and info of the notification to launch the setup application of
+         USB tuner TV input for scanning channels. -->
+    <string name="ut_setup_notification_content_text">Réglages du Tuner TV USB</string>
+    <!-- Content text and info of the notification to launch the setup application of
+         network tuner TV input for scanning channels. -->
+    <string name="nt_setup_notification_content_text">Réglages du Tuner TV Réseau</string>
+
+    <!-- Message when USB tuner device is unplugged or disconnected. [CHAR LIMIT=NONE] -->
+    <string name="msg_usb_tuner_disconnected">Tuner TV USB déconnecté.</string>
+    <!-- Message when Network tuner device is unplugged or disconnected. [CHAR LIMIT=NONE] -->
+    <string name="msg_network_tuner_disconnected">Tuner TV Réseau déconnecté.</string>
+
+    <!-- Title of postal/zip code input guided step fragment  [CHAR LIMIT=30] -->
+    <string name="postal_code_guidance_title">Saisir le code postal</string>
+    <!-- Description of postal/zip code input guided step fragment  [CHAR LIMIT=NONE] -->
+    <string name="postal_code_guidance_description">L\'application Live TV utilisera le code postal pour vous fournir un guide complet des programmes pour les chaînes de télévision.</string>
+    <!-- Description of postal/zip code input edit text view to prompt users entering ZIP Code  [CHAR LIMIT=30] -->
+    <string name="postal_code_action_description">Saisissez votre code postal</string>
+    <!-- Warning message shown in description field of postal/zip code input edit text view when user enters an invalid ZIP Code and presses Done [CHAR LIMIT=30] -->
+    <string name="postal_code_invalid_warning">Code postal incorrect</string>
+
+</resources>
