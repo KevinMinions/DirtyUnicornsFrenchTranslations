@@ -98,6 +98,10 @@
     <!-- Vibrate on plug -->
     <string name="vibration_on_charge_state_changed_title">Vibrer au branchement</string>
 
+    <!-- Scramble PIN layout on lockscreen -->
+    <string name="unlock_scramble_pin_layout_title">Disposition aléatoire</string>
+    <string name="unlock_scramble_pin_layout_summary">Modifier l\'ordre des numéros du pavé numérique de manière aléatoire pour la saisie du code PIN de déverrouillage</string>
+
     <!-- strings.xml -->
     <string name="swipe_up_to_switch_apps_title">Nouveau bouton d\'accueil</string>
     <string name="swipe_up_to_switch_apps_summary">Effectuer un glissement avec un doigt vers le haut sur la touche d\'accueil pour changer d\'application.\nRépéter l\'opération pour afficher toutes les applications.\nCette option fonctionne sur tous les écrans.\nLe bouton \"Aperçu\" ne figure plus en bas à droite de l\'écran.</string>
