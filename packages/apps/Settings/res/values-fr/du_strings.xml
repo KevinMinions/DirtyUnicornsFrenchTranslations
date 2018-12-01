@@ -112,4 +112,11 @@
     <string name="suggested_lock_settings_custom_title" product="device">Sécurisez votre appareil</string>
     <string name="suggested_lock_settings_custom_title" product="default">Sécurisez votre téléphone</string>
 
+    <!-- Advanced night mode brightness -->
+    <string name="night_brightness_value_title">Niveau de luminosité lorsque \"Éclairage nocturne\" est activé</string>
+    <string name="night_auto_value_disabled">Désactivé</string>
+    <string name="night_auto_value_min">Luminosité minimale</string>
+    <string name="night_bright_low">Luminosité faible</string>
+    <string name="night_bright_midlow">Luminosité moyenne</string>
+
 </resources>
