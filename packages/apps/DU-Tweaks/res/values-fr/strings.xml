@@ -265,4 +265,7 @@
     <string name="qs_tile_animation_interpolator_anticipateInterpolator">Anticiper</string>
     <string name="qs_tile_animation_interpolator_anticipateOvershootInterpolator">Anticiper et surpasser</string>
 
+    <!-- DT2S on lockscreen -->
+    <string name="double_tap_sleep_lockscreen">Veille par double appui</string>
+
 </resources>
