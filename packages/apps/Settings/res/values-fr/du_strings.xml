@@ -41,6 +41,10 @@
     <string name="sub_deactivate_failed">Échec de la désactivation</string>
     <string name="available_sims_title">Cartes SIM disponibles</string>
 
+    <!-- Option defining the phone ringtone for slot1 on Muilti SIM device -->
+    <string name="ringtone1_title">Sonnerie - Carte SIM 1</string>
+    <string name="ringtone2_title">Sonnerie - Carte SIM 2</string>
+
     <!-- Density category -->
     <string name="density_category">Densité</string>
 
@@ -118,5 +122,13 @@
     <string name="night_auto_value_min">Luminosité minimale</string>
     <string name="night_bright_low">Luminosité faible</string>
     <string name="night_bright_midlow">Luminosité moyenne</string>
+
+    <!-- Battery charge warning -->
+    <string name="notification_sound_battery_charge_title">Sonnerie d\'avertissement de niveau de charge de la batterie</string>
+    <string name="notification_battery_charge_level_title">Avertissement de niveau de charge de la batterie</string>
+    <string name="notification_battery_charge_level_summary">Émettre une sonnerie lorsque la batterie atteint le niveau de charge spécifié lors de son rechargement</string>
+    <string name="notification_battery_charge_level_seek_bar">Niveau de batterie</string>
+    <string name="notification_battery_charge_level_ringtone">Sonnerie</string>
+    <string name="notification_battery_charge_level_silent">Silencieux</string>
 
 </resources>
