@@ -93,4 +93,8 @@
     <!-- strings.xml -->
     <string name="quick_settings_cast_title">Diffuser</string>
     <string name="quick_settings_cast_device_default_description">Prêt à diffuser</string>
+
+    <!-- Button that controls inversion of layout of navigation bar -->
+    <string name="nav_bar_layout_inverse_title">Inverser les boutons</string>
+    <string name="nav_bar_layout_inverse_summary">Inverser l\'ordre des boutons Applications récentes et Retour</string>
 </resources>
