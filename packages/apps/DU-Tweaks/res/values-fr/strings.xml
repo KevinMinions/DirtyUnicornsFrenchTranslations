@@ -196,8 +196,8 @@
     <string name="pulse_empty_block_size">Espacement des blocs</string>
 
     <!-- Stock navbar -->
-    <string name="systemui_tuner_navbar_title">Barre de navigation système</string>
-    <string name="systemui_tuner_navbar_enabled_summary">Réglages de la barre de navigation système</string>
+    <string name="systemui_tuner_navbar_title">Disposition</string>
+    <string name="systemui_tuner_navbar_enabled_summary">Réglages de la disposition de la barre de navigation</string>
     <string name="systemui_tuner_navbar_disabled_summary">Les gestes de la barre de navigation sont activés. Il faut les désactiver pour pouvoir utiliser ces options.</string>
     <string name="swipe_up_to_switch_apps_custom_summary">Activer les gestes sur la barre de navigation</string>
 
