@@ -76,6 +76,11 @@
     <!-- Sub categories -->
     <string name="sub_cat_advanced">Avancé</string>
 
+    <!-- Heads up -->
+    <string name="heads_up_title">Notifications flottantes</string>
+    <string name="heads_up_summary_enabled">Notifications flottantes activées</string>
+    <string name="heads_up_summary_disabled">Notifications flottantes désactivées</string>
+
     <!-- Lockscreen Media art -->
     <string name="lockscreen_items_other">Autre</string>
     <string name="media_art_title">Illustration du titre musical</string>
