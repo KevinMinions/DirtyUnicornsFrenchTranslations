@@ -223,6 +223,10 @@
     <string name="ambient_ticker_footer">Afficher les informations de la piste musicale en cours d\'écoute sur l\'écran de veille.\n\nLors du démarrage d\'une nouvelle piste musicale, ces informations s\'affichent au centre de l\'écran de veille, que l\'option \"Affichage en mode Veille\" soit ou non activée.\n\nUn double appui sur les informations de la piste musicale en cours d\'écoute permet de passer à la piste musicale suivante.</string>
     <string name="force_ambient_for_media_title">Activer</string>
 
+    <!-- DU logo -->
+    <string name="du_logo_title">Logo DU</string>
+    <string name="du_logo_summary">Afficher le logo de DU sur la gauche de la barre d\'état</string>
+
     <!-- Status bar clock and date options -->
     <string name="status_bar_title">Barre d\'état</string>
     <string name="status_bar_style_title">Aspect</string>
