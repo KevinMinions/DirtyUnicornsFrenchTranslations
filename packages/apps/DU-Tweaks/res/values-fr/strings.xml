@@ -316,5 +316,12 @@
     <string name="action_launch_camera">Démarrer l\'appareil photo</string>
     <string name="action_last_app">Démarrer la dernière application</string>
     <string name="action_splitscreen">Écran partagé</string>
+    <string name="action_flashlight">Lampe de poche</string>
+    <string name="action_clear_notifications">Effacer les notifications</string>
+    <string name="action_volume_panel">Panneau de volume</string>
+    <string name="action_kill_app">Fermeture forcée de l\'application</string>
+    <string name="action_screen_off">Éteindre l\'écran</string>
+    <string name="action_notifications">Notifications</string>
+    <string name="action_power_menu">Menu Marche/Arrêt/string>
 
 </resources>
