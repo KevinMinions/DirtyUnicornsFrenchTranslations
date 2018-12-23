@@ -322,6 +322,6 @@
     <string name="action_kill_app">Fermeture forcée de l\'application</string>
     <string name="action_screen_off">Éteindre l\'écran</string>
     <string name="action_notifications">Notifications</string>
-    <string name="action_power_menu">Menu Marche/Arrêt/string>
+    <string name="action_power_menu">Menu Marche/Arrêt</string>
 
 </resources>
