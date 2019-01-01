@@ -19,6 +19,14 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- Screen pinning -->
+    <string name="screen_pinning_description_custom">Cet écran est épinglé jusqu\'à l\'annulation de l\'opération. Pour annuler l\'épinglage, effectuer un appui prolongé sur le bouton \"Retour\".</string>
+    <string name="screen_pinning_description_recents_invisible_custom">Cet écran est épinglé jusqu\'à l\'annulation de l\'opération. Pour annuler l\'épinglage, effectuer un appui prolongé sur le bouton \"Retour\".</string>
+    <string name="screen_pinning_description_accessible_custom">Cet écran est épinglé jusqu\'à l\'annulation de l\'opération. Pour annuler l\'épinglage, effectuer un appui prolongé sur le bouton \"Retour\".</string>
+    <string name="screen_pinning_description_recents_invisible_accessible_custom">Cet écran est épinglé jusqu\'à l\'annulation de l\'opération. Pour annuler l\'épinglage, effectuer un appui prolongé sur le bouton \"Retour\".</string>
+    <string name="screen_pinning_toast_custom">Pour annuler l\'épinglage, effectuer un appui prolongé sur le bouton \"Retour\".</string>
+    <string name="screen_pinning_toast_recents_invisible_custom">Pour annuler l\'épinglage, effectuer un appui prolongé sur le bouton \"Retour\".</string>
+
     <!-- Screenshot Delete Toast -->
     <string name="delete_screenshot_toast">Capture d\'écran supprimée</string>
 
