@@ -143,7 +143,8 @@
     <string name="qs_columns_portrait_title">Colonnes de tuiles en mode portrait</string>
     <string name="qs_columns_landscape_title">Colonnes de tuiles en mode paysage</string>
 
-    <string name="qs_tile_title_visibility_title">Afficher le titre des tuiles</string>
+    <string name="qs_tile_title_visibility_title">Titre des tuiles</string>
+    <string name="qs_tile_title_visibility_summary">Afficher les titres sous les tuiles du panneau de configuration</string>
 
     <string name="status_bar_quick_qs_pulldown">Déroulement rapide</string>
     <string name="quick_pulldown_none">Désactivé</string>
@@ -333,6 +334,21 @@
     <string name="action_screen_off">Éteindre l\'écran</string>
     <string name="action_notifications">Notifications</string>
     <string name="action_power_menu">Menu Marche/Arrêt</string>
+
+    <!-- Lockscreen items -->
+    <string name="lockscreen_clock_title">Horloge</string>
+    <string name="lockscreen_clock_summary">Afficher le widget Horloge</string>
+    <string name="lockscreen_info_title">Éléments sous le widget Horloge</string>
+    <string name="lockscreen_info_summary">Afficher la date, la météo, les alarmes et Ne pas déranger</string>
+
+    <!-- Lockscreen clock styles -->
+    <string name="lockscreen_clock_selection_title">Aspect</string>
+    <string name="lockscreen_clock_selection_digital">Par défaut</string>
+    <string name="lockscreen_clock_selection_digital_bold">Numérique (gras)</string>
+    <string name="lockscreen_clock_selection_analog">Analogique</string>
+    <string name="lockscreen_clock_selection_du">Analogique (DU)</string>
+    <string name="lockscreen_clock_selection_sammy">Sammy</string>
+    <string name="lockscreen_clock_selection_sammy_bold">Sammy (gras)</string>
 
     <!-- Weather -->
     <string name="weather_unit">Unité de température</string>
