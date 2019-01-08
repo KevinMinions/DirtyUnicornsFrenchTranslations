@@ -334,6 +334,7 @@
     <string name="action_screen_off">Éteindre l\'écran</string>
     <string name="action_notifications">Notifications</string>
     <string name="action_power_menu">Menu Marche/Arrêt</string>
+    <string name="action_screenshot">Capture d\'écran</string>
 
     <!-- Lockscreen items -->
     <string name="lockscreen_clock_title">Horloge</string>
