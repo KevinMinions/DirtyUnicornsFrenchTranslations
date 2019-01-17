@@ -94,4 +94,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="show_searchbar_title">Barre de recherche</string>
     <string name="show_searchbar_summary">Afficher la barre de recherche</string>
 
+    <!-- aoscp_strings.xml -->
+
+    <!-- QSB -->
+    <string name="hotseat_qsb_preferences">Préférences</string>
+    <string name="label_search">Rechercher</string>
+    <string name="label_voice_search">Recherche vocale</string>
+
 </resources>
