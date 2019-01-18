@@ -22,10 +22,13 @@
     <string name="pick_up_summary">Afficher les notifications lors de la saisie du téléphone</string>
 
     <!-- Proximity sensor -->
-    <string name="priximity_sensor_title">Capteur de proximité</string>
+    <string name="proximity_sensor_title">Capteur de proximité</string>
     <string name="hand_wave_gesture_title">Geste de la main</string>
     <string name="hand_wave_gesture_summary">Afficher les notifications lors du passage de la main devant le téléphone</string>
     <string name="pocket_gesture_title">Poche</string>
     <string name="pocket_gesture_summary">Afficher les notifications en sortant le téléphone de la poche</string>
+
+    <string name="aod_setting_title">Mode Veille permanent</string>
+    <string name="aod_setting_summary">Toujours utiliser la fonctionnalité \"affichage en mode Veille\" lorsque l\'appareil est en veille</string>
 
 </resources>
