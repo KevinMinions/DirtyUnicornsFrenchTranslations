@@ -112,6 +112,10 @@
     <string name="keyguard_indication_dash_charging_time"><xliff:g id="percentage">%2$s</xliff:g> • Rechargement Dash en cours… (Complètement chargé dans (<xliff:g id="charging_time_left" example="4 hours and 2 minutes">%s</xliff:g>)</string>
     <string name="keyguard_plugged_in_dash_charging">Rechargement Dash</string>
 
+    <!-- Navbar Dimensions -->
+    <string name="navigation_bar_height_title">Hauteur</string>
+    <string name="navigation_bar_width_title">Largeur</string>
+
     <!-- strings.xml -->
     <string name="quick_settings_cast_title">Diffuser</string>
     <string name="quick_settings_cast_device_default_description">Prêt à diffuser</string>
