@@ -114,6 +114,8 @@
 
     <!-- Navbar Dimensions -->
     <string name="navigation_bar_height_title">Hauteur</string>
+    <string name="navigation_bar_height_tablets_portrait_title">Hauteur (portrait)</string>
+    <string name="navigation_bar_height_tablets_landscape_title">Hauteur (paysage)</string>
     <string name="navigation_bar_width_title">Largeur</string>
 
     <!-- strings.xml -->
