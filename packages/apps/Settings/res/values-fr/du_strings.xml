@@ -133,7 +133,7 @@
 
     <!-- Battery temp -->
     <string name="battery_temp_title">Température de la batterie</string>
-    <string name="battery_temp_summary">Appuyer pour changer l\'échelle</string>
+    <string name="battery_temp_summary">Appuyer ici pour changer l\'unité de mesure de la température</string>
 
 
     <!-- Face auto unlock -->
