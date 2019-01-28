@@ -214,6 +214,10 @@
     <string name="show_navbar_arrow_keys_title">Touches de direction du clavier</string>
     <string name="show_navbar_arrow_keys_summary">Afficher les touches de direction gauche et droite en présence du clavier dans la barre de navigation</string>
 
+    <!-- Swap hw keys -->
+    <string name="swap_navigation_keys_title">Inverser les boutons physiques</string>
+    <string name="swap_navigation_keys_title_summary">Inverser l\'ordre des boutons Applications récentes et Retour</string>
+
     <!-- ChooserActivity blacklist -->
     <string name="chooser_activity_blacklist_title">Applications exclues</string>
     <string name="chooser_activity_blacklist_summary">Applications à ne pas afficher lors de l\'utilisation de la fonction \"Partager via\"</string>
