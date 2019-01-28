@@ -35,6 +35,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="home_grid_title">Disposition de la grille</string>
     <string name="icon_layout_title">Disposition des icônes</string>
 
+    <!-- Icon labels -->
+    <string name="allapps_long_labels_title">Libellés des applications</string>
+    <string name="allapps_long_labels_summary">Afficher les libellés des applications sur deux lignes</string>
+
     <!-- Icon packs -->
     <string name="icon_pack_none">Aucun</string>
     <string name="icon_pack">Paquet d\'icônes</string>
@@ -46,11 +50,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
     <!-- Icon size -->
     <string name="icon_size_title">Taille de l\'icône</string>
-    <string name="icon_size_extra_small">Minuscule</string>
-    <string name="icon_size_small">Petite</string>
-    <string name="icon_size_average">Par défaut</string>
-    <string name="icon_size_large">Grande</string>
-    <string name="icon_size_extra_large">Très grande</string>
 
     <!-- Gestures -->
     <string name="allow_swipe_down_clearall_title">Tout effacer</string>
@@ -105,11 +104,14 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="show_searchbar_title">Barre de recherche</string>
     <string name="show_searchbar_summary">Afficher la barre de recherche</string>
 
-    <!-- aoscp_strings.xml -->
-
     <!-- QSB -->
     <string name="hotseat_qsb_preferences">Préférences</string>
     <string name="label_search">Rechercher</string>
     <string name="label_voice_search">Recherche vocale</string>
+
+    <!-- Lock desktop -->
+    <string name="lock_desktop_title">Verrouillage de l\'écran d\'accueil</string>
+    <string name="lock_desktop_summary">Empêcher la modification de l\'écran d\'accueil</string>
+    <string name="lock_desktop_toast">Écran d\'accueil verrouillé. Le déverrouiller pour continuer.</string>
 
 </resources>
