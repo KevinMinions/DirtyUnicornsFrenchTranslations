@@ -100,9 +100,6 @@
     <!-- Recents icon packs -->
     <string name="recents_icon_pack_title">Paquet d\'icônes</string>
     <string name="recents_icon_pack_summary">Utiliser un paquet d\'icônes personnalisé</string>
-    <string name="no_iconpacks_summary">Aucun paquet d\'icônes installé</string>
-    <string name="dialog_pick_iconpack_title">Sélectionner un paquet d\'icônes</string>
-    <string name="default_iconpack_title">Icônes par défaut</string>
 
     <!-- Themes -->
     <string name="theme_category_title">Options de thème</string>
@@ -266,6 +263,18 @@
     <string name="clock_date_right">À droite de l\'horloge</string>
     <string name="clock_date_left">À gauche de l\'horloge</string>
     <string name="clock_date_position">Position de la date</string>
+
+    <!-- Carrier Label -->
+    <string name="carrier_options">Affichage</string>
+    <string name="custom_carrier_label_title">Libellé</string>
+    <string name="custom_carrier_label_explain">Saisir un nouveau libellé. Laisser vide pour revenir au libellé d\'origine.</string>
+    <string name="custom_carrier_label_notset">Non défini</string>
+    <string name="show_carrier_title">Libellé opérateur</string>
+    <string name="show_carrier_disabled">Désactivé</string>
+    <string name="show_carrier_keyguard">Écran de déverrouillage</string>
+    <string name="show_carrier_statusbar">Barre d\'état</string>
+    <string name="show_carrier_enabled">Sur les deux</string>
+    <string name="carrier_label_warning_text">Utiliser des frimousses dans le libellé opérateur peut entraîner des problèmes de visibilité sur des fonds d\'écran plus clairs</string>
 
     <!-- Tiles animation/interpolator style  -->
     <string name="qs_animation_options_title">Animations</string>
