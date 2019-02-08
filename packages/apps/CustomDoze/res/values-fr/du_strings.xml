@@ -14,6 +14,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <string name="ambient_display_title">Affichage en mode Veille</string>
+
+    <string name="ambient_display_notifications">Nouvelles notifications</string>
     <string name="ambient_display_summary">Réveiller l\'appareil lors de la réception de notifications</string>
 
     <!-- Tilt sensor -->
