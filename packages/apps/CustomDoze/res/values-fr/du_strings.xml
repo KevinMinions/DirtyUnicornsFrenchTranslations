@@ -31,7 +31,7 @@
     <string name="pocket_gesture_summary">Afficher les notifications en sortant le téléphone de la poche</string>
 
     <string name="aod_setting_title">Mode Veille permanent</string>
-    <string name="aod_setting_summary">Toujours utiliser la fonctionnalité \"affichage en mode Veille\" lorsque l\'appareil est en veille</string>
+    <string name="aod_setting_summary">Afficher l\'heure, les icônes de notification et d\'autres informations. Augmente l\'utilisation de la batterie.</string>
 
     <string name="doze_brightness_title">Luminosité en mode Veille</string>
     <string name="doze_brightness_summary">Régler les valeurs de luminosité en mode Veille</string>
