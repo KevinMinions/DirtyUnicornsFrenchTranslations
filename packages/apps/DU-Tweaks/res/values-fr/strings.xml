@@ -274,7 +274,6 @@
     <string name="show_carrier_keyguard">Écran de déverrouillage</string>
     <string name="show_carrier_statusbar">Barre d\'état</string>
     <string name="show_carrier_enabled">Sur les deux</string>
-    <string name="carrier_label_warning_text">Utiliser des frimousses dans le libellé opérateur peut entraîner des problèmes de visibilité sur des fonds d\'écran plus clairs</string>
 
     <!-- Tiles animation/interpolator style  -->
     <string name="qs_animation_options_title">Animations</string>
