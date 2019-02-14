@@ -68,6 +68,8 @@
     <string name="navigation_options_title">Barre de navigation</string>
     <string name="navigation_options_summary">Réglages des options de la barre de navigation</string>
     <!-- Multitasking -->
+    <string name="active_edge_title">Bord actif</string>
+    <string name="active_edge_summary">Réglages des options \"Bord actif\"</string>
     <string name="headsup_title">Notifications flottantes</string>
     <string name="headsup_summary">Réglages des notifications flottantes</string>
     <string name="recents_title">Applications récentes</string>
@@ -365,7 +367,10 @@
     <string name="lockscreen_clock_selection_sammy">Sammy</string>
     <string name="lockscreen_clock_selection_sammy_bold">Sammy (gras)</string>
 
-    <!-- Weather -->
-    <string name="weather_unit">Unité de température</string>
+    <!-- Active edge -->
+    <string name="active_edge_actions_title">Action par appui</string>
+    <string name="active_edge_sensitivity_title">Niveau d\'appui</string>
+    <string name="active_edge_wake_title">Autoriser lorsque l\'écran est éteint</string>
+    <string name="active_edge_wake_summary">Déclenchez n\'importe quelle action même si l\'écran est éteint</string>
 
 </resources>
