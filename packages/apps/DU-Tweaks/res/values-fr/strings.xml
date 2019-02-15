@@ -372,5 +372,6 @@
     <string name="active_edge_sensitivity_title">Niveau d\'appui</string>
     <string name="active_edge_wake_title">Autoriser lorsque l\'écran est éteint</string>
     <string name="active_edge_wake_summary">Déclenchez n\'importe quelle action même si l\'écran est éteint</string>
+    <string name="active_edge_footer_info">Certaines actions par appui ne permettent pas d\'activer l\'affichage</string>
 
 </resources>
