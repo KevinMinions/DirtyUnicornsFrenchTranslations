@@ -351,6 +351,8 @@
     <string name="action_power_menu">Menu Marche/Arrêt</string>
     <string name="action_screenshot">Capture d\'écran</string>
     <string name="action_qs_panel">Panneau de configuration rapide</string>
+    <string name="action_app_action">Application</string>
+    <string name="action_ringer_modes">Sonnerie</string>
 
     <!-- Lockscreen items -->
     <string name="lockscreen_clock_title">Horloge</string>
@@ -371,7 +373,9 @@
     <string name="active_edge_actions_title">Action par appui</string>
     <string name="active_edge_sensitivity_title">Niveau d\'appui</string>
     <string name="active_edge_wake_title">Autoriser lorsque l\'écran est éteint</string>
-    <string name="active_edge_wake_summary">Déclenchez n\'importe quelle action même si l\'écran est éteint</string>
+    <string name="active_edge_wake_summary">Déclencher n\'importe quelle action même si l\'écran est éteint</string>
+    <string name="active_edge_app_select_title">Sélectionner l\'application</string>
+    <string name="active_edge_app_select_summary">Sélectionner une application à démarrer avec \"Action par appui\"</string>
     <string name="active_edge_footer_info">Certaines actions par appui ne permettent pas d\'activer l\'affichage</string>
 
 </resources>
