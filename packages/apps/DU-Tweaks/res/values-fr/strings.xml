@@ -314,8 +314,9 @@
     <string name="button_settings_title">Boutons</string>
     <string name="button_settings_title_summary">Actions des boutons physiques</string>
     <string name="button_settings_description">Réglages des actions des boutons physiques de l\'appareil</string>
+    <string name="app_picker_dialog_title">Sélectionner une application</string>
     <string name="button_backlight_title">Rétroéclairage</string>
-    <string name="button_backlight_summary">Activer le rétroéclairage pour les boutons capacitives</string>
+    <string name="button_backlight_summary">Activer le rétroéclairage pour les boutons capacitifs</string>
     <string name="button_backlight_on_touch_only_title">Appui sur un bouton</string>
     <string name="button_backlight_on_touch_only_summary">Activer le délai de rétroéclairage uniquement lors d\'un appui sur un bouton</string>
     <string name="button_timeout_title">Délai de rétroéclairage (secondes)</string>
@@ -333,7 +334,9 @@
     <string name="camera_key_title">Bouton Appareil photo</string>
     <string name="short_press_title">Action par appui simple</string>
     <string name="long_press_title">Action par appui prolongé</string>
+    <string name="long_press_custom_app_title">Application par appui prolongé</string>
     <string name="double_tap_title">Action par double appui</string>
+    <string name="double_tap_custom_app_title">Application par double appui</string>
     <string name="action_nothing">Aucune action</string>
     <string name="action_menu">Ouvrir/fermer le menu</string>
     <string name="action_app_switch">Applications récentes</string>
