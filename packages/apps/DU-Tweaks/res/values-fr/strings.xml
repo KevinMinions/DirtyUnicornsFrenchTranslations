@@ -373,11 +373,14 @@
     <string name="lockscreen_clock_selection_sammy_bold">Sammy (gras)</string>
 
     <!-- Active edge -->
+    <string name="active_edge_short_actions_title">Action par appui court</string>
+    <string name="active_edge_long_actions_title">Action par appui prolongé</string>
     <string name="active_edge_actions_title">Action par appui</string>
     <string name="active_edge_sensitivity_title">Niveau d\'appui</string>
     <string name="active_edge_wake_title">Autoriser lorsque l\'écran est éteint</string>
     <string name="active_edge_wake_summary">Déclencher n\'importe quelle action même si l\'écran est éteint</string>
-    <string name="active_edge_app_select_title">Sélectionner l\'application</string>
+    <string name="active_edge_ss_app_select_title">Sélectionner l\'application pour l\'appui court</string>
+    <string name="active_edge_ls_app_select_title">Sélectionner l\'application pour l\'appui prolongé</string>
     <string name="active_edge_app_select_summary">Sélectionner une application à démarrer avec \"Action par appui\"</string>
     <string name="active_edge_footer_info">Certaines actions par appui ne permettent pas d\'activer l\'affichage</string>
 
