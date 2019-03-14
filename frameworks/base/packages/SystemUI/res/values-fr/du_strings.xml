@@ -30,7 +30,7 @@
     <string name="drag_or_tap_to_add_tiles">Glisser ou appuyer pour ajouter des tuiles</string>
     <!-- Power menu -->
     <string name="global_action_restart_advanced">Redémarrage optimisé</string>
-    <string name="global_action_restart_recovery">Récupération</string>
+    <string name="global_action_restart_recovery">Recovery</string>
     <string name="global_action_restart_bootloader">Bootloader</string>
     <string name="global_action_restart_ui">Interface</string>
     <string name="global_action_restart_hot">Hot Reboot</string>
@@ -106,5 +106,5 @@
     <!-- QuickSettings: Cast title [CHAR LIMIT=NONE] -->
     <string name="quick_settings_cast_title">Diffuser</string>
      <!-- QuickSettings: Cast detail panel, default device description [CHAR LIMIT=NONE] -->
-    <string name="quick_settings_cast_device_default_description">>Prêt à diffuser</string>
+    <string name="quick_settings_cast_device_default_description">Prêt à diffuser</string>
 </resources>
