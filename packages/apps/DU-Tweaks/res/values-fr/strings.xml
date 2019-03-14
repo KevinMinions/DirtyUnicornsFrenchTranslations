@@ -31,7 +31,7 @@
     <string name="device_extras_title">Réglages spécifiques</string>
     <string name="device_extras_summary">Réglages spécifiques de cet appareil</string>
     <string name="expanded_desktop_title">Bureau étendu</string>
-    <string name="expanded_desktop_summary">Réglages de l\'affichage de la barre d\'état par application et de la barre de navigation par application</string>
+    <string name="expanded_desktop_summary">Réglages de l\'affichage de la barre d\'état et de la barre de navigation par application</string>
     <string name="miscellaneous_title">Divers</string>
     <string name="miscellaneous_summary">Réglages divers</string>
     <string name="powermenu_title">Menu Marche/Arrêt</string>
@@ -142,7 +142,7 @@
     <string name="pulse_speed_slow">Lente</string>
     <string name="pulse_speed_very_slow">Très lente</string>
     <string name="pulse_help_policy_notice_summary">Pulse ne fonctionne pas avec certaines sources audio lors de l\'écoute de musique sur le(s) haut-parleur(s) de l\'appareil</string>
-    <string name="pulse_settings">Impulsion</string>
+    <string name="pulse_settings">Pulse</string>
     <string name="pulse_settings_summary">Égaliseur audio sur la barre de navigation</string>
     <string name="fling_show_pulse_title">Pulse</string>
     <string name="fling_show_pulse_summary">Animation à l\'aspect d\'un égaliseur audio sur la barre de navigation</string>
@@ -325,7 +325,7 @@
     <string name="lockscreen_clock_selection_digital_bold">Numérique (gras)</string>
     <string name="lockscreen_clock_selection_analog">Analogique</string>
     <string name="lockscreen_clock_selection_du">Analogique (DU)</string>
-    <string name="lockscreen_clock_selection_sammy">Empilée</string>
+    <string name="lockscreen_clock_selection_sammy">Sammy</string>
     <string name="lockscreen_clock_selection_sammy_bold">Sammy (gras)</string>
     <!-- Active edge -->
     <string name="active_edge_short_actions_title">Action par appui court</string>
