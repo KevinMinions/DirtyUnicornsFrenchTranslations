@@ -36,6 +36,16 @@
     <string name="icon_pack">Paquet d\'icônes</string>
     <string name="icon_pack_summary">Modifier l\'apparence des icônes d\'applications</string>
     <string name="icon_pack_none">Par défaut</string>
+    <string name="edit_drop_target_label">Modifier</string>
+    <string name="edit_hint">Nom de l\'icône</string>
+    <string name="reset_icon">Réinitialiser</string>
+    <string name="all_icons">Toutes les icônes</string>
+    <string name="similar_icons">Icônes similaires</string>
+    <string name="ok">OK</string>
+    <string name="icon_label">Libellé</string>
+    <string name="loading">Chargement en cours</string>
+    <string name="icon_chooser">Sélecteur d\'icônes</string>
+    <string name="icon_search">Rechercher des icônes</string>
     <!-- Icon shape -->
     <string name="icon_shape_override_label_custom">Apparence des icônes</string>
     <string name="icon_shape_rounded_square">Carré arrondi</string>
