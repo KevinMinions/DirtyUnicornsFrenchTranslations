@@ -46,6 +46,8 @@
     <string name="loading">Chargement en cours</string>
     <string name="icon_chooser">Sélecteur d\'icônes</string>
     <string name="icon_search">Rechercher des icônes</string>
+    <!-- Toast message for alerting users that no icon packs are available. -->
+    <string name="msg_no_icon_pack">Aucun paquet d\'icônes disponible</string>
     <!-- Icon shape -->
     <string name="icon_shape_override_label_custom">Apparence des icônes</string>
     <string name="icon_shape_rounded_square">Carré arrondi</string>
