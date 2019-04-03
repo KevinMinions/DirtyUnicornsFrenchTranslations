@@ -22,10 +22,15 @@
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
     <string name="hex">Hex :</string>
-    <string name="set">Définir</string>
+    <string name="set">Régler</string>
     <string name="color_default">Par défaut</string>
 
     <string name="active_edge_app_select_title">Sélectionner l\'application</string>
     <string name="active_edge_activity_select_title">Sélectionner l\'activité</string>
+
+    <string name="edit_hint">Valeur</string>
+    <string name="seek_value_edit_label">Régler la valeur</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annuler</string>
 
 </resources>
