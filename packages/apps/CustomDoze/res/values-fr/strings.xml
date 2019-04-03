@@ -18,7 +18,7 @@
     <string name="ambient_display_summary">Activer l\'écran lors de la réception de notifications</string>
     <!-- Tilt sensor -->
     <string name="tilt_sensor_title">Accéléromètre</string>
-    <string name="pick_up_title">Prise en main</string>
+    <string name="pick_up_title">Saisir le téléphone pour le consulter</string>
     <string name="pick_up_summary">Afficher les notifications lorsque l\'appareil est pris en main</string>
     <!-- Proximity sensor -->
     <string name="proximity_sensor_title">Capteur de proximité</string>
@@ -27,7 +27,7 @@
     <string name="pocket_gesture_title">Poche</string>
     <string name="pocket_gesture_summary">Afficher les notifications lorsque l\'appareil est retiré de la poche</string>
     <string name="aod_setting_title">Toujours activé</string>
-    <string name="aod_setting_summary">Afficher l\'heure, les icônes de notification et d\'autres informations. Augmente l\'utilisation de la batterie.</string>
+    <string name="aod_setting_summary">Afficher l’heure, les icônes de notification et autres infos. Utilisation de la batterie accrue.</string>
     <string name="doze_brightness_title">Luminosité en mode Veille</string>
     <string name="doze_brightness_summary">Régler les valeurs de luminosité en mode Veille</string>
     <string name="night_brightness_value">Éclairage nocturne</string>
@@ -35,5 +35,5 @@
     <string name="high_brightness_value">Luminosité moyenne</string>
     <string name="sun_brightness_value">Luminosité élevée</string>
     <string name="reset_hidden_apps">Tout réinitialiser</string>
-    <string name="footer_info">Si le mode Toujours activé est défini, la luminosité est adaptée aux spécifications matérielles et à celles du gestionnaire d\'alimentation. Les valeurs ci-dessus ne sont donc pas inconditionnellement prises en compte.</string>
+    <string name="footer_info">Si le mode Toujours activé est défini, la luminosité est adaptée aux spécifications matérielles et à celles du gestionnaire d\'alimentation. Les valeurs ci-dessus ne sont donc pas inconditionnellement prises en compte.\n\nAppui prolongé sur la valeur du texte de gauche pour la régler manuellement.</string>
 </resources>
