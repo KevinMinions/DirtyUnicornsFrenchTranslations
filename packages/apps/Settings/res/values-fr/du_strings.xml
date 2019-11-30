@@ -22,6 +22,12 @@
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, DO NOT TRANSLATE. -->
     <string name="radio_info_imsi_label">IMSI :</string>
 
+    <!-- Back gesture settings -->
+    <string name="back_gesture_settings_dialog_title">Sensibilité du retour en arrière</string>
+    <string name="back_gesture_sensitivity_dialog_message">Une sensibilité plus élevée peut entrer en conflit avec les gestes d\'application impliquant les bords de l\'écran</string>
+    <string name="back_gesture_arrow_title">Animation du retour en arrière</string>
+    <string name="back_gesture_arrow_message">Masquer la flèche avec le geste de retour en arrière</string>
+
     <string name="fp_swipe_to_dismiss_notifications_title">Ignorer les notifications</string>
     <string name="fp_swipe_to_dismiss_notifications_summary">Glisser vers la gauche ou la droite sur le capteur d\'empreintes digitales pour ignorer les notifications</string>
 </resources>
