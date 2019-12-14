@@ -104,3 +104,4 @@
     <string name="network_traffic_autohide_threshold_title">Seuil de masquage automatique (KB/s)</string>
     <string name="network_traffic_hidearrow">Flèches de l\'indicateur</string>
     <string name="network_traffic_hidearrow_summary">Masquer les flèches de l\'indicateur de vitesse de réseau</string>
+</resources>
