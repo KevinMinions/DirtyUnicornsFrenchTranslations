@@ -104,4 +104,11 @@
     <string name="network_traffic_autohide_threshold_title">Seuil de masquage automatique (KB/s)</string>
     <string name="network_traffic_hidearrow">Flèches de l\'indicateur</string>
     <string name="network_traffic_hidearrow_summary">Masquer les flèches de l\'indicateur de vitesse de réseau</string>
+
+    <!-- Advanced Reboot Menu -->
+    <string name="powermenu_reboot_title">Redémarrer</string>
+    <string name="powermenu_advanced_restart_title">Redémarrage optimisé</string>
+    <string name="powermenu_advanced_restart_summary">Afficher le menu incluant davantage d\'options de redémarrage</string>
+    <string name="powermenu_screenshot_title">Capture d\'écran</string>
+
 </resources>
