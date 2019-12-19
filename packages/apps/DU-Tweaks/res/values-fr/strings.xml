@@ -109,6 +109,7 @@
     <string name="powermenu_reboot_title">Redémarrer</string>
     <string name="powermenu_advanced_restart_title">Redémarrage optimisé</string>
     <string name="powermenu_advanced_restart_summary">Afficher le menu incluant davantage d\'options de redémarrage</string>
+    <string name="powermenu_lockdown_title">Écran de déverrouillage</string>
     <string name="powermenu_screenshot_title">Capture d\'écran</string>
 
 </resources>
