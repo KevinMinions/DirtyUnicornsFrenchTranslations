@@ -31,4 +31,7 @@
     <string name="misc_category_title">Divers</string>
     <string name="misc_category_summary">Options supplémentaires</string>
 
+    <!-- Google Feed -->
+    <string name="settings_feed">Afficher le panneau de l\'application Google</string>
+
 </resources>
