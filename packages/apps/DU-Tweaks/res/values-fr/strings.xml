@@ -112,4 +112,44 @@
     <string name="powermenu_lockdown_title">Écran de déverrouillage</string>
     <string name="powermenu_screenshot_title">Capture d\'écran</string>
 
+    <!-- QS layout -->
+    <string name="qs_layout_title">Disposition</string>
+    <string name="qs_rows_portrait_title">Lignes de tuiles en mode portrait</string>
+    <string name="qs_rows_landscape_title">Lignes de tuiles en mode paysage</string>
+    <string name="qs_columns_portrait_title">Colonnes de tuiles en mode portrait</string>
+    <string name="qs_columns_landscape_title">Colonnes de tuiles en mode paysage</string>
+
+    <!-- Quick QS pulldown -->
+    <string name="status_bar_quick_qs_pulldown">Déroulement rapide</string>
+    <string name="quick_pulldown_none">Désactivé</string>
+    <string name="quick_pulldown_right">Tirer vers le bas du côté droit de la barre d\'état</string>
+    <string name="quick_pulldown_left">Tirer vers le bas du côté gauche de la barre d\'état</string>
+
+    <!-- Tiles animation/interpolator style  -->
+    <string name="qs_animation_options_title">Animations</string>
+    <string name="qs_tile_animation_style_title">Style</string>
+    <string name="qs_tile_animation_duration_title">Vitesse</string>
+    <string name="qs_tile_animation_interpolator_title">Effet supplémentaire</string>
+    <string name="qs_tile_animation_style_off">Aucune animation</string>
+    <string name="qs_tile_animation_style_flip">Retournement</string>
+    <string name="qs_tile_animation_style_rotate">Rotation</string>
+    <string name="qs_tile_animation_duration_low">Lente</string>
+    <string name="qs_tile_animation_duration_default">Normale</string>
+    <string name="qs_tile_animation_duration_fast">Rapide</string>
+    <string name="qs_tile_animation_interpolator_linearInterpolator">Linéaire</string>
+    <string name="qs_tile_animation_interpolator_accelerateInterpolator">Accélérer</string>
+    <string name="qs_tile_animation_interpolator_decelerateInterpolator">Décélérer</string>
+    <string name="qs_tile_animation_interpolator_accelerateDecelerateInterpolator">Accélérer et décélérer</string>
+    <string name="qs_tile_animation_interpolator_bounceInterpolator">Rebondir</string>
+    <string name="qs_tile_animation_interpolator_overshootInterpolator">Surpasser</string>
+    <string name="qs_tile_animation_interpolator_anticipateInterpolator">Anticiper</string>
+    <string name="qs_tile_animation_interpolator_anticipateOvershootInterpolator">Anticiper et surpasser</string>
+    <string name="qs_set_animation_style">%1$s</string>
+    <string name="qs_set_animation_duration">%1$s</string>
+    <string name="qs_set_animation_interpolator">%1$s</string>
+
+    <!-- QS visibility -->
+    <string name="qs_tile_title_visibility_title">Titre des tuiles</string>
+    <string name="qs_tile_title_visibility_summary">Afficher les titres sous les tuiles du panneau de configuration</string>
+
 </resources>
