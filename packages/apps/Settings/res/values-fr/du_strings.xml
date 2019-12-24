@@ -40,4 +40,7 @@
     <string name="selinux_status_permissive">Permissif</string>
     <string name="selinux_status_enforcing">Application</string>
 
+    <!-- Enable/Disable Screenshot sound -->
+    <string name="screenshot_sound_title">Sons de capture d\'écran</string>
+
 </resources>
