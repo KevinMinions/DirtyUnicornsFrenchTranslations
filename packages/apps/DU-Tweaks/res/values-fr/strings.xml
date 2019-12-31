@@ -85,6 +85,7 @@
     <string name="theme_accent_picker_title">Couleur d\'accentuation</string>
     <string name="theme_accent_picker_summary">Réglages de la couleur d\'accentuation du thème système</string>
     <string name="theme_accent_picker_default">Par défaut</string>
+    <string name="accent_picker_stock_colors">D\'origine</string>
     <string name="accent_picker_material_colors">Sélecteur de couleur</string>
     <string name="accent_picker_custom_colors">Personnalisée</string>
     <string name="qs_styles_dialog_title">Réglages de l\'aspect des tuiles du panneau de configuration rapide</string>
@@ -111,6 +112,7 @@
     <string name="powermenu_advanced_restart_summary">Afficher le menu incluant davantage d\'options de redémarrage</string>
     <string name="powermenu_lockdown_title">Écran de déverrouillage</string>
     <string name="powermenu_screenshot_title">Capture d\'écran</string>
+    <string name="powermenu_screenrecord_title">Enregistrement de l\'écran</string>
 
     <!-- QS layout -->
     <string name="qs_layout_title">Disposition</string>
@@ -147,6 +149,10 @@
     <string name="qs_set_animation_style">%1$s</string>
     <string name="qs_set_animation_duration">%1$s</string>
     <string name="qs_set_animation_interpolator">%1$s</string>
+
+    <!-- Option to show brightness bar in quick settings -->
+    <string name="show_brightness_title">Curseur de luminosité</string>
+    <string name="show_brightness_summary">Afficher le curseur de luminosité</string>
 
     <!-- QS visibility -->
     <string name="qs_tile_title_visibility_title">Titre des tuiles</string>
