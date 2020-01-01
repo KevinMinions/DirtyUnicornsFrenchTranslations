@@ -18,7 +18,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Screen record -->
-    <string name="screenrecord_stopdot_label">Afficher le témoins</string>
+    <string name="screenrecord_stopdot_label">Afficher le témoin</string>
     <string name="screenrecord_low_quality_label">Basse qualité</string>
 
     <!-- Power menu item for taking a screenshot [CHAR LIMIT=20]-->
