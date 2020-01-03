@@ -42,7 +42,7 @@
     <string name="quick_settings_theme_tile_accent_detail_title">Sélectionner la couleur d\'accentuation</string>
     <string name="quick_settings_theme_tile_style_detail_title">Sélectionner le thème</string>
     <string name="quick_settings_theme_tile_color_default">Par défaut</string>
-    <string name="quick_settings_theme_tile_color_space">Espace</string>
+    <string name="quick_settings_theme_tile_color_space">Bleu nuit</string>
     <string name="quick_settings_theme_tile_color_purple">Violet</string>
     <string name="quick_settings_theme_tile_color_orchid">Orchidée</string>
     <string name="quick_settings_theme_tile_color_ocean">Océan</string>
@@ -65,5 +65,8 @@
     <string name="quick_settings_theme_tile_color_red">Rouge</string>
     <string name="quick_settings_theme_tile_color_teal">Turquoise</string>
     <string name="quick_settings_theme_tile_color_yellow">Jaune</string>
+
+    <!-- Caffeine tile -->
+    <string name="quick_settings_caffeine_label">Caféine</string>
 
 </resources>
