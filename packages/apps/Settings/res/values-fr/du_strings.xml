@@ -22,6 +22,10 @@
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, DO NOT TRANSLATE. -->
     <string name="radio_info_imsi_label">IMSI :</string>
 
+    <!-- Themes -->
+    <string name="du_themes_title">Thèmes</string>
+    <string name="du_themes_summary">Je vois la vie en rose</string>
+
     <!-- Back gesture settings -->
     <string name="back_gesture_settings_dialog_title">Sensibilité du retour en arrière</string>
     <string name="back_gesture_sensitivity_dialog_message">Une sensibilité plus élevée peut entrer en conflit avec les gestes d\'application impliquant les bords de l\'écran</string>
@@ -51,5 +55,12 @@
 
     <!-- Enable/Disable Screenshot sound -->
     <string name="screenshot_sound_title">Sons de capture d\'écran</string>
+
+    <!-- Wake on plug -->
+    <string name="wake_when_plugged_or_unplugged_title">Réveiller au branchement</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Allumer l\'écran lorsque le chargeur est branché ou débranché</string>
+
+    <!-- Vibrate on plug -->
+    <string name="vibration_on_charge_state_changed_title">Vibrer au branchement</string>
 
 </resources>
