@@ -44,10 +44,10 @@
 
     <!-- Statusbar icons -->
     <string name="statusbar_icons_default">Par défaut</string>
-    <string name="statusbar_icons_filled">Pleine</string>
-    <string name="statusbar_icons_rounded">Fine</string>
-    <string name="statusbar_icons_circular">Très fine</string>
+    <string name="statusbar_icons_filled">Pleines</string>
+    <string name="statusbar_icons_rounded">Fines</string>
+    <string name="statusbar_icons_circular">Très fines</string>
     <string name="statusbar_icons_title">Icônes de la barre d\'état</string>
-    <string name="statusbar_icons_dialog_title">Jeu d\'icônes de la barre d\'état</string>
+    <string name="statusbar_icons_dialog_title">Icônes de la barre d\'état</string>
 
 </resources>
