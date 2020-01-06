@@ -79,6 +79,15 @@
     <string name="recents_title">Applications récentes</string>
     <string name="recents_summary">Réglages des applications récentes</string>
 
+    <!-- Lockscreen clock style -->
+    <string name="lockscreen_clock_title">Horloge</string>
+    <string name="lockscreen_clock_dialog_title">Afficher le widget Horloge</string>
+    <string name="lockscreen_clock_hide">Masqué</string>
+    <string name="lockscreen_clock_default">Par défaut</string>
+    <string name="lockscreen_clock_default_bold">Par défaut (gras)</string>
+    <string name="lockscreen_clock_sammy">Sammy</string>
+    <string name="lockscreen_clock_sammy_bold">Sammy (gras)</string>
+
     <!-- Flashlight gestures -->
     <string name="double_tap_power_flashlight_title">Lampe de poche en mode veille</string>
     <string name="torch_power_button_gesture_none">Désactivé</string>
