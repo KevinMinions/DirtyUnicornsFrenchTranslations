@@ -50,4 +50,37 @@
     <string name="statusbar_icons_title">Icônes de la barre d\'état</string>
     <string name="statusbar_icons_dialog_title">Icônes de la barre d\'état</string>
 
+    <!-- Accents -->
+    <string name="accent_colors_space">Bleu nuit</string>
+    <string name="accent_colors_purple">Violet</string>
+    <string name="accent_colors_orchid">Orchidée</string>
+    <string name="accent_colors_ocean">Océan</string>
+    <string name="accent_colors_green">Vert</string>
+    <string name="accent_colors_cinnamon">Cannelle</string>
+    <string name="accent_colors_amber">Ambre</string>
+    <string name="accent_colors_blue">Bleu</string>
+    <string name="accent_colors_bluegrey">Bleu gris</string>
+    <string name="accent_colors_brown">Marron</string>
+    <string name="accent_colors_cyan">Cyan</string>
+    <string name="accent_colors_deeporange">Orange foncé</string>
+    <string name="accent_colors_deeppurple">Violet foncé</string>
+    <string name="accent_colors_grey">Gris</string>
+    <string name="accent_colors_indigo">Indigo</string>
+    <string name="accent_colors_lightblue">Bleu clair</string>
+    <string name="accent_colors_lightgreen">Vert clair</string>
+    <string name="accent_colors_lime">Vert citron</string>
+    <string name="accent_colors_orange">Orange</string>
+    <string name="accent_colors_pink">Rose</string>
+    <string name="accent_colors_red">Rouge</string>
+    <string name="accent_colors_teal">Turquoise</string>
+    <string name="accent_colors_yellow">Jaune</string>
+
+    <!-- Themes -->
+    <string name="theme_type_title">Thème du système</string>
+    <string name="theme_type_summary">Sélectionner le thème</string>
+    <string name="theme_type_light">Clair</string>
+    <string name="theme_type_google_dark">Foncé Google</string>
+    <string name="theme_type_pitch_black">Pitch black</string>
+    <string name="theme_type_solarized_dark">Foncé solarisé</string>
+
 </resources>
