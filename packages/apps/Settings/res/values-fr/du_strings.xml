@@ -63,6 +63,7 @@
 
     <!-- Ambient Display wake gestures/music ticker -->
     <string name="ambient_wake_gestures_title">Affichage en mode veille</string>
+    <string name="doze_always_on_title">Affichage en mode veille</string>
     <string name="ambient_wake_gestures_summary">Les gestes effectués déclenchent l\'affichage en mode veille plutôt que l\'écran de déverrouillage classique</string>
     <string name="pulse_on_new_tracks_title">Informations de la piste musicale</string>
     <string name="pulse_on_new_tracks_summary">Afficher les informations de la piste musicale en cours d\'écoute sur l\'écran de veille. Un double appui sur les informations de la piste musicale en cours d\'écoute permet de passer à la piste musicale suivante.</string>
