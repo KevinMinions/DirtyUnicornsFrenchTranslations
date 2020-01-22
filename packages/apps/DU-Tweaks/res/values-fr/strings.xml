@@ -81,6 +81,9 @@
     <string name="recents_title">Applications récentes</string>
     <string name="recents_summary">Réglages des applications récentes</string>
 
+    <!-- Sub categories -->
+    <string name="sub_category_other">Divers</string>
+
     <!-- Lockscreen clock style -->
     <string name="lockscreen_clock_title">Horloge</string>
     <string name="lockscreen_clock_dialog_title">Afficher le widget Horloge</string>
@@ -114,6 +117,8 @@
     <string name="powermenu_lockdown_title">Écran de déverrouillage</string>
     <string name="powermenu_screenshot_title">Capture d\'écran</string>
     <string name="powermenu_screenrecord_title">Enregistrement de l\'écran</string>
+    <string name="powermenu_lockscreen_title">Affichage du menu Marche/Arrêt</string>
+    <string name="powermenu_lockscreen_summary">Afficher la boîte de dialogue du menu Marche/Arrêt sur l\'écran de déverrouillage sécurisé</string>
 
     <!-- QS layout -->
     <string name="qs_layout_title">Disposition</string>
@@ -202,6 +207,17 @@
     <string name="du_logo_title">Logo DU</string>
     <string name="du_logo_summary">Afficher le logo de DU sur la gauche de la barre d\'état</string>
 
+    <!-- Carrier Label -->
+    <string name="carrier_options">Affichage</string>
+    <string name="custom_carrier_label_title">Libellé</string>
+    <string name="custom_carrier_label_explain">Saisir un nouveau libellé. Laisser vide pour revenir au libellé d\'origine.</string>
+    <string name="custom_carrier_label_notset">Non défini</string>
+    <string name="show_carrier_title">Libellé opérateur</string>
+    <string name="show_carrier_disabled">Désactivé</string>
+    <string name="show_carrier_keyguard">Écran de déverrouillage</string>
+    <string name="show_carrier_statusbar">Barre d\'état</string>
+    <string name="show_carrier_enabled">Sur les deux</string>
+
     <!-- Motion Sense -->
     <string name="ambient_display_wake_screen_summary">Pour afficher l\'heure, les notifications et d\'autres informations, saisir le téléphone</string>
     <string name="ambient_display_wake_screen_summary_on">Activé</string>
@@ -256,5 +272,10 @@
     <string name="action_volume_panel">Panneau de volume</string>  
     <string name="action_screen_off">Éteindre l\'écran</string>
     <string name="action_screenshot">Capture d\'écran</string>
+
+    <!-- Lockscreen media artwork -->
+    <string name="lockscreen_media_blur_title">Niveau de flou de l\'illustration</string>
+    <string name="show_lockscreen_media_art_title">Illustration du titre musical</string>
+    <string name="lockscreen_media_art_options_title">Affichage sur l\'écran de déverrouillage</string>
 
 </resources>
