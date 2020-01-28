@@ -36,8 +36,12 @@
     <string name="ambient_display_custom_title">Réglages personnalisées</string>
     <string name="ambient_display_custom_summary">Réveiller l\'écran par l\'affichage des notifications ou par divers gestes</string>
 
+    <!-- Scramble PIN layout on lockscreen -->
+    <string name="unlock_scramble_pin_layout_title">Disposition aléatoire</string>
+    <string name="unlock_scramble_pin_layout_summary">Modifier l\'ordre des numéros du pavé numérique de manière aléatoire pour la saisie du code PIN de déverrouillage</string>
+
     <!-- Back gesture settings -->
-    <string name="back_gesture_settings_dialog_title">Sensibilité du retour en arrière</string>
+    <string name="back_gesture_settings_dialog_title">Retour en arrière</string>
     <string name="back_gesture_sensitivity_dialog_message">Une sensibilité plus élevée peut entrer en conflit avec les gestes d\'application impliquant les bords de l\'écran</string>
     <string name="back_gesture_area_dead_zone_title">Zone morte arrière</string>
     <string name="back_gesture_area_dead_zone_message">Régler la zone de l\'écran où le geste peut être déclenché, afin d\'éviter les conflits avec les gestes intégrés à l\'application</string>
