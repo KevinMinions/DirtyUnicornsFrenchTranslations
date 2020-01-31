@@ -57,8 +57,8 @@
     <string name="density_category">Densité</string>
 
     <!-- Customize your device -->
-    <string name="custom_style_suggestion_title">Personnalisation de l\'appareil</string>
-    <string name="custom_style_suggestion_summary">Thèmes, polices d\'écriture et bien plus</string>
+    <string name="custom_style_suggestion_title">Personnalisez votre appareil</string>
+    <string name="custom_style_suggestion_summary">Essayez différent thèmes, polices d\'écriture et bien plus</string>
 
     <!-- SELinux Status -->
     <string name="selinux_status">État SELinux</string>
