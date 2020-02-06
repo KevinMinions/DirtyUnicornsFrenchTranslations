@@ -160,6 +160,10 @@
     <string name="qs_brightness_slider_title">Curseur de luminosité</string>
     <string name="qs_brightness_slider_summary">Afficher le curseur de luminosité</string>
 
+    <!-- Qs auto-brightness icon -->
+    <string name="qs_autobrightness_icon_title">Curseur de luminosité</string>
+    <string name="qs_autobrightness_icon_summary">Afficher le curseur de luminosité</string>
+
     <!-- QS visibility -->
     <string name="qs_tile_title_visibility_title">Titre des tuiles</string>
     <string name="qs_tile_title_visibility_summary">Afficher les titres sous les tuiles du panneau de configuration</string>
