@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2017-2019 The Dirty Unicorns Project
+<!-- Copyright (C) 2017-2020 The Dirty Unicorns Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -161,8 +161,8 @@
     <string name="qs_brightness_slider_summary">Afficher le curseur de luminosité</string>
 
     <!-- Qs auto-brightness icon -->
-    <string name="qs_autobrightness_icon_title">Curseur de luminosité</string>
-    <string name="qs_autobrightness_icon_summary">Afficher le curseur de luminosité</string>
+    <string name="qs_autobrightness_icon_title">Icône de luminosité</string>
+    <string name="qs_autobrightness_icon_summary">Afficher l\'icône de luminosité</string>
 
     <!-- QS visibility -->
     <string name="qs_tile_title_visibility_title">Titre des tuiles</string>
