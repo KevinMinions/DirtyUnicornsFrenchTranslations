@@ -83,10 +83,10 @@
     <string name="theme_type_solarized_dark">Foncé solarisé</string>
     <string name="theme_other_category_title">Divers</string>
     <string name="theme_backup_title">Sauvegarde de thème</string>
-    <string name="theme_backup_summary">Sauvegarder la configuration de thème actuelle</string>
+    <string name="theme_backup_summary">Sauvegarder les réglages du thème actuel</string>
     <string name="theme_backup_reach_limit_summary">Limite de sauvegarde atteinte</string>
     <string name="theme_restore_title">Restaurer le thème</string>
-    <string name="theme_restore_summary">Restaurer une configuration de thème sauvegardée</string>
+    <string name="theme_restore_summary">Restaurer les réglages d\'un thème sauvegardé</string>
     <string name="theme_restore_no_backup_summary">Aucune sauvegarde disponible</string>
     <string name="theme_name_exist_warning">Ce nom de sauvegarde existe déjà. Saisir un nouveau nom de sauvegarde.</string>
     <string name="theme_button_apply_theme">Appliquer le thème</string>
@@ -96,6 +96,7 @@
     <string name="theme_switch_restore_font_type">Police d\'écriture</string>
     <string name="theme_switch_restore_adaptative_icons">Apparence des icônes</string>
     <string name="theme_switch_restore_sb_icons">Icônes de la barre d\'état</string>
+    <string name="theme_switch_restore_wallpaper">Fond d\'écran</string>
     <string name="theme_backup_edittext_hint">Sauvegarde_</string>
     <string name="theme_backup_dialog_title">Fond d\'écran animé détecté</string>
     <string name="theme_backup_dialog_message">Présence d\'un fond d\'écran animé.\n\nLes fonds d\'écran animés ne sont pas sauvegardés. Le fond d\'écran par défaut est sauvegardé à la place.</string>
