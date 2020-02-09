@@ -103,4 +103,17 @@
     <string name="theme_backup_dialog_positive">OK</string>
     <string name="theme_backup_dialog_negative">Annuler</string>
 
+    <!-- Theme schedule -->
+    <string name="theme_schedule_title">Planification horaire</string>
+    <string name="theme_schedule_summary">Planifier un horaire pour les thèmes système</string>
+    <string name="theme_schedule_dyn_summary">Thème planifié</string>
+    <string name="theme_schedule_theme_title">Planification horaire</string>
+    <string name="theme_schedule_theme_summary">Sélectionner un thème à planifier</string>
+    <string name="theme_schedule_none">Aucun</string>
+    <string name="theme_schedule_custom_time">Régler l\'heure de planification</string>
+    <string name="theme_schedule_applied">thème appliqué</string>
+    <string name="theme_schedule_start_scheduled">thème planifié à</string>
+    <string name="theme_schedule_repeat_title">Récurrence</string>
+    <string name="theme_schedule_repeat_summary">Planifier quotidiennement</string>
+
 </resources>
