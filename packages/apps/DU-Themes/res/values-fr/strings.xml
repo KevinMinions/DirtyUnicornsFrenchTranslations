@@ -106,7 +106,7 @@
     <!-- Theme schedule -->
     <string name="theme_schedule_title">Planification horaire</string>
     <string name="theme_schedule_summary">Planifier un horaire pour les thèmes système</string>
-    <string name="theme_schedule_dyn_summary">Thème planifié</string>
+    <string name="theme_schedule_dyn_summary">thème planifié</string>
     <string name="theme_schedule_theme_title">Planification horaire</string>
     <string name="theme_schedule_theme_summary">Sélectionner un thème à planifier</string>
     <string name="theme_schedule_none">Aucun</string>
