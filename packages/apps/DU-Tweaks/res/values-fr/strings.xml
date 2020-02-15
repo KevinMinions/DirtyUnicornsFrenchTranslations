@@ -276,6 +276,10 @@
     <string name="action_volume_panel">Panneau de volume</string>  
     <string name="action_screen_off">Éteindre l\'écran</string>
     <string name="action_screenshot">Capture d\'écran</string>
+    <string name="action_app_action">Application</string>
+    <string name="active_edge_ss_app_select_title">Application par appui court</string>
+    <string name="active_edge_ls_app_select_title">Application par appui prolongé</string>
+    <string name="active_edge_app_select_summary">Choisir une application à démarrer</string>
 
     <!-- Lockscreen media artwork -->
     <string name="lockscreen_media_blur_title">Niveau de flou de l\'illustration</string>
