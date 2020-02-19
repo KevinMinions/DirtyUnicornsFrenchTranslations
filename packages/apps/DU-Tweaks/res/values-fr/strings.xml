@@ -207,10 +207,6 @@
     <!-- DT2S on lockscreen -->
     <string name="double_tap_sleep_lockscreen">Veille par double appui</string>
 
-    <!-- DU logo -->
-    <string name="du_logo_title">Logo DU</string>
-    <string name="du_logo_summary">Afficher le logo de DU sur la gauche de la barre d\'état</string>
-
     <!-- Carrier Label -->
     <string name="carrier_options">Affichage</string>
     <string name="custom_carrier_label_title">Libellé</string>
