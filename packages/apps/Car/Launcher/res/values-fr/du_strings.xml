@@ -15,8 +15,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-
-    <string name="all_apps">Toutes les applications</string>
+    <string name="app_launcher_title_all_apps">Toutes les applications</string>
+    <string name="app_launcher_title_media_only">Applications multimédia</string>
 
     <string name="driving_toast_text">
         <xliff:g id="app_name" example="Settings">%1$s</xliff:g> ne peut pas être utilisé en conduisant.
