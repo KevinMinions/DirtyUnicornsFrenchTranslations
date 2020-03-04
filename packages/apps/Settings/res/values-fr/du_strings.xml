@@ -30,6 +30,10 @@
     <string name="du_changelog_title">Notes de version</string>
     <string name="du_changelog_summary">Afficher le résumé des changements majeurs</string>
 
+    <!-- Update notifer -->
+    <string name="du_notifier_title">Notifications de mise à jour</string>
+    <string name="du_notifier_summary">Afficher une notification lorsqu\'une mise à jour est disponible</string>
+
     <!-- Strings for suggestion card's close button [CHAR LIMIT=20] -->
     <string name="suggestion_button_close">Fermer</string>
 
