@@ -54,6 +54,8 @@
     <!-- Icon manager -->
     <string name="systemui_tuner_icon_manager_title">Réglages des icônes</string>
     <string name="misc_statusbar_items_category_title">Divers</string>
+    <string name="show_lte_fourgee_title">Icône \"4G\"</string>
+    <string name="show_lte_fourgee_summary">Afficher l\'icône \"4G\" plutôt que \"LTE\" sur la barre d\'état et dans le panneau de configuration rapide</string>
 
     <!-- DU logo -->
     <string name="du_logo_title">Logo DU</string>
