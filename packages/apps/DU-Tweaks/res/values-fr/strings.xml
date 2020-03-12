@@ -247,6 +247,10 @@
     <string name="gesture_skip_on_summary">Passer à la piste musicale suivante ou précédente activé</string>
     <string name="gesture_skip_summary">Passer à la piste musicale suivante ou précédente</string>
     <string name="gesture_skip_title">Saut de piste musicale</string>
+    <string name="gesture_tap_off_summary">Désactivé</string>
+    <string name="gesture_tap_on_summary">Activé</string>
+    <string name="gesture_tap_summary">Mettre en pause ou reprendre la piste musicale en appuyant sur l\'air au-dessus du téléphone</string>
+    <string name="gesture_tap_title">Pause</string>
     <string name="wake_screen_aware_disabled_info_dialog_content">Les fonctionnalités \"Perception de geste\", et \"Saisir le téléphone\" ne sont pas prises en charge dans ce pays</string>
     <string name="wake_screen_aware_off_dialog_content">Pour utiliser \"Saisir le téléphone\", activer \"Perception de geste\"</string>
     <string name="wake_screen_aware_off_dialog_title">\"Saisir le téléphone\" désactivé</string>
