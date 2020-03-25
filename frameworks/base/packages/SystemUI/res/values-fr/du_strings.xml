@@ -20,6 +20,9 @@
     <string name="smartspace_now">Maintenant</string>
     <string name="smartspace_pill_text_format">%1$s : %2$s</string>
 
+    <!-- Screenshot toast -->
+    <string name="delete_screenshot_toast">Capture d\'écran supprimée</string>
+
     <!-- Screen pinning -->
     <string name="screen_pinning_description_custom">Cet écran est épinglé jusqu\'à l\'annulation de l\'opération. Pour annuler l\'épinglage, effectuer un appui prolongé sur le bouton \"Retour\".</string>
     <string name="screen_pinning_description_recents_invisible_custom">Cet écran est épinglé jusqu\'à l\'annulation de l\'opération. Pour annuler l\'épinglage, effectuer un appui prolongé sur le bouton \"Retour\".</string>
