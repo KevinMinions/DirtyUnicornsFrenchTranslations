@@ -339,4 +339,12 @@
    <string name="back_swipe_extended_title">Zone de déclenchement élargie</string>
    <string name="back_swipe_extended_summary">Déclencher uniquement si le glissement dépasse les 3\/4 de la taille de l\'écran</string>
 
+    <!-- Gesture navbar handle -->
+    <string name="gesture_navbar_handle_title">Handle bar size</string>
+    <!-- En attendant une traduction correcte -->
+    <string name="gesture_navbar_handle_hidden">Cachée</string>
+    <string name="gesture_navbar_handle_default">Par défaut</string>
+    <string name="gesture_navbar_handle_middle">Milieu</string>
+    <string name="gesture_navbar_handle_large">Grande</string>
+
 </resources>
