@@ -107,4 +107,7 @@
     <!-- Vibrate on plug -->
     <string name="vibration_on_charge_state_changed_title">Vibrer au branchement</string>
 
+    <!-- Notification log -->
+    <string name="notification_log_summary">Afficher l\'historique des notifications</string>
+
 </resources>
