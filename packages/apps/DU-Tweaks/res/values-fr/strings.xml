@@ -300,8 +300,6 @@
    <string name="gesture_nav_tweaks_footer_info">Pour choisir une activité d\'application spécifique pour le glissement, appuyer longuement sur n\'importe quelle application dans le sélecteur d\'application.\n\nSi le lanceur s\'affiche, faire glisser le doigt tout en bas de l\'écran pour déclencher l\'action.</string>
    <string name="back_swipe_extended_title">Zone de déclenchement élargie</string>
    <string name="back_swipe_extended_summary">Déclencher uniquement si le glissement dépasse les 3\/4 de la taille de l\'écran</string>
-    <string name="back_swipe_extended_title">Extended swipe action</string>
-    <string name="back_swipe_extended_summary">Trigger action if the swipe is horizontally wider than 3\/4 of display size</string>
     <!-- Gesture navbar handle -->
     <string name="gesture_navbar_handle_title">Disposition du bouton</string>
     <string name="gesture_navbar_handle_hidden">Masquée</string>
