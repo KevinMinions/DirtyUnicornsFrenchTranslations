@@ -88,7 +88,7 @@
     <string name="notification_log_summary">Afficher l\'historique des notifications</string>
 
     <!-- Touch sensitivity -->
-    <string name="touch_sensitivity_summary">Améliorer la détection des appuis sur l'écran, lors de l\'utilisation d\'une protection d\'écran</string>
+    <string name="touch_sensitivity_summary">Améliorer la détection des appuis sur l\'écran, lors de l\'utilisation d\'une protection d\'écran</string>
     <string name="touch_sensitivity_title">Sensibilité des appuis</string>
     <string name="keywords_touch_sensitivity">appui, sensibilité, protection d\'écran, film, réactivité</string>
 </resources>
