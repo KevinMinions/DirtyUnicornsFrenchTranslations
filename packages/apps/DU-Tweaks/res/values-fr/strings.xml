@@ -301,11 +301,12 @@
    <string name="back_swipe_extended_title">Zone de déclenchement élargie</string>
    <string name="back_swipe_extended_summary">Déclencher uniquement si le glissement dépasse les 3\/4 de la taille de l\'écran</string>
     <!-- Gesture navbar handle -->
-    <string name="gesture_navbar_handle_title">Disposition du bouton</string>
-    <string name="gesture_navbar_handle_hidden">Masquée</string>
-    <string name="gesture_navbar_handle_default">Par défaut</string>
-    <string name="gesture_navbar_handle_middle">Milieu</string>
-    <string name="gesture_navbar_handle_large">Grande</string>
+    <string name="gesture_navbar_handle_title">Style d\'affichage de la barre de navigation</string>
+    <string name="gesture_navbar_hidden">Barre de navigation cachée</string>
+    <string name="gesture_navbar_handle_hidden">Pilule cachée</string>
+    <string name="gesture_navbar_handle_default">Pilule normale</string>
+    <string name="gesture_navbar_handle_middle">Pilule moyenne</string>
+    <string name="gesture_navbar_handle_large">Pilule large</string>
 
     <string name="show_media_heads_up_title">Notifications flottantes</string>
     <string name="show_media_heads_up_summary">Afficher une notification flottante lors du changement de piste musicale, si le lecteur n\'est pas déjà affiché</string>
