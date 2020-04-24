@@ -91,4 +91,10 @@
     <string name="touch_sensitivity_summary">Améliorer la détection des appuis sur l\'écran, lors de l\'utilisation d\'une protection d\'écran</string>
     <string name="touch_sensitivity_title">Sensibilité des appuis</string>
     <string name="keywords_touch_sensitivity">appui, sensibilité, protection d\'écran, film, réactivité</string>
+
+    <!-- Quick statusbar header & statusbar battery percentage -->
+    <string name="battery_percentage_category_title">Niveau de charge</string>
+    <string name="sb_battery_percentage">Barre d\'état</string>
+    <string name="qs_battery_percentage">Entête du panneau de configuration rapide</string>
+    <string name="qs_battery_percentage_description">Afficher le pourcentage de la batterie sur l\'entête du panneau de configuration rapide</string>
 </resources>
