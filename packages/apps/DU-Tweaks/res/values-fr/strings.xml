@@ -180,7 +180,7 @@
     <string name="status_bar_battery_percentage_text_inside">Dans l\'icône</string>
     <string name="status_bar_battery_percentage_text_next">À côté de l\'icône</string>
     <string name="qs_battery_percentage_title">Niveau de charge du panneau de configuration rapide</string>
-    <string name="qs_battery_percentage_summary">Afficher le pourcentage de batterie sur l\'en-tête du panneau de configuration rapide plutôt que l\'estimation de la durée restante de batterie</string>
+    <string name="qs_battery_percentage_summary">Afficher le pourcentage de batterie sur l\'entête du panneau de configuration rapide plutôt que l\'estimation de la durée restante de batterie</string>
     <!-- DT2S on lockscreen -->
     <string name="double_tap_sleep_lockscreen">Veille par double appui</string>
     <!-- Carrier Label -->
