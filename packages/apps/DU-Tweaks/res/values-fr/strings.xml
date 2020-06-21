@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2017-2019 The Dirty Unicorns Project
+<!-- Copyright (C) 2017-2020 The Dirty Unicorns Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -28,6 +28,8 @@
     <string name="bottom_nav_statusbar_title">Barre d\'état</string>
     <string name="bottom_nav_navigation_title">Navigation</string>
     <string name="bottom_nav_multitasking_title">Multi-tâche</string>
+    <string name="accessibility_description">Écran</string>
+    <string name="accessibility_item_description">%1$s élément du menu</string>
     <!-- Categories -->
     <!-- System -->
     <string name="device_extras_title">Réglages spécifiques</string>
@@ -167,7 +169,7 @@
     <string name="clock_date_left">À gauche de l\'horloge</string>
     <string name="clock_date_position">Position de la date</string>
     <!-- Battery Styles -->
-    <string name="battery_percent_title">Niveau de charge de la barre d\état</string>
+    <string name="battery_percent_title">Affichage du pourcentage sur la barre d\'état</string>
     <string name="status_bar_battery_style_title">Apparence</string>
     <string name="status_bar_battery_style_icon_portrait">Icône portrait (par défaut)</string>
     <string name="status_bar_battery_style_circle">Cercle</string>
@@ -179,8 +181,8 @@
     <string name="status_bar_battery_percentage_default">Masqué (par défaut)</string>
     <string name="status_bar_battery_percentage_text_inside">Dans l\'icône</string>
     <string name="status_bar_battery_percentage_text_next">À côté de l\'icône</string>
-    <string name="qs_battery_percentage_title">Niveau de charge du panneau de configuration rapide</string>
-    <string name="qs_battery_percentage_summary">Afficher le pourcentage de batterie sur l\'entête du panneau de configuration rapide plutôt que l\'estimation de la durée restante de batterie</string>
+    <string name="qs_battery_percentage_title">Affichage du pourcentage sur le panneau de configuration</string>
+    <string name="qs_battery_percentage_summary">Afficher le pourcentage de la batterie sur l\'entête du panneau de configuration rapide plutôt que l\'estimation de la durée restante</string>
     <!-- DT2S on lockscreen -->
     <string name="double_tap_sleep_lockscreen">Veille par double appui</string>
     <!-- Carrier Label -->
@@ -306,7 +308,7 @@
    <string name="left_swipe_key_title">Glissement vers la gauche</string>
    <string name="right_swipe_key_title">Glissement vers la droite</string>
    <string name="navbar_gesture_tweaks_pref_title">Gestes</string>
-   <string name="navbar_gesture_tweaks_pref_summary">Réglages des gestes et les actions</string>
+   <string name="navbar_gesture_tweaks_pref_summary">Réglages des gestes et des actions</string>
    <string name="long_back_swipe_timeout_title">Délai de déclenchement du glissement prolongé</string>
    <string name="left_swipe_actions_title">Glissement prolongé vers la gauche</string>
    <string name="left_swipe_app_action_title">Choisir une application</string>
