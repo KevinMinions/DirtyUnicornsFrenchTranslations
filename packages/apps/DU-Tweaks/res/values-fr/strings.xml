@@ -348,10 +348,10 @@
     <string name="pulse_render_mode_solid_lines">Lignes pleines</string>
     <string name="pulse_color">Couleur</string>
     <string name="pulse_color_mode">Mode de couleur</string>
-    <string name="pulse_color_accent">Accent</string>
+    <string name="pulse_color_accent">Couleur d\'accentuation</string>
     <string name="pulse_color_custom">Sur mesure</string>
     <string name="pulse_color_lava_lamp">Lampe Lava</string>
-    <string name="pulse_color_auto">Illustration des albums</string>
+    <string name="pulse_color_auto">Couleur de l\'illustration de l\'album</string>
     <string name="pulse_color_chooser">Choisir la couleur</string>
     <string name="smoothing_enabled_title">Activer le lissage</string>
     <string name="smoothing_enabled_summary">Chaque bloc est animé de manière plus fluide</string>
