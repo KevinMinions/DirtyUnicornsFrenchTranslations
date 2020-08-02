@@ -168,6 +168,9 @@
     <string name="clock_date_right">À droite de l\'horloge</string>
     <string name="clock_date_left">À gauche de l\'horloge</string>
     <string name="clock_date_position">Position de la date</string>
+    <string name="status_bar_clock_hide_on_home_title">Écran d\'accueil</string>
+    <string name="status_bar_clock_hide_on_home_summary_on">Masquer l\'horloge sur l\'écran d\'accueil</string>
+    <string name="status_bar_clock_hide_on_home_summary_off">Ne pas masquer l\'horloge sur l\'écran d\'accueil</string>
     <!-- Battery Styles -->
     <string name="battery_percent_title">Affichage du pourcentage sur la barre d\'état</string>
     <string name="status_bar_battery_style_title">Apparence</string>
