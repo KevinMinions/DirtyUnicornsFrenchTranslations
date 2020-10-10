@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/*
+* Copyright (C) 2017 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+ -->
+
+<resources>
+    <string name="hotseat_edu_title_migrate_landscape">Retrouvez vos applications favorites au bas de votre écran d\'accueil</string>
+    <string name="hotseat_edu_message_migrate_landscape">Les suggestions d\'applications permettent d\'afficher vos applications favorites au bas de votre écran d\'accueil. Elles s\'adaptent à vos habitudes d\'utilisation. Les icônes auparavant affichées au bas de l\'écran seront déplacées vers le haut.</string>
+    <!-- action shown to toggle predictions after onboarding -->
+    <string name="hotseat_prediction_settings">Paramètres</string>
+    <!-- tip shown when user migrates and predictions are enabled in hotseat -->
+    <string name="hotsaet_tip_prediction_enabled">Suggestions d\'applications activées</string>
+    <!-- tip shown when hotseat edu is requested while predictions are disabled -->
+    <string name="hotsaet_tip_prediction_disabled">Suggestions d\'applications désactivées</string>
+</resources>
