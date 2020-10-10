@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <string name="app_name">Messenger</string>
+    <plurals name="notification_new_message">
+        <item quantity="one">Nouveau message</item>
+        <item quantity="other">%d nouveaux messages</item>
+    </plurals>
+
+    <string name="action_mute">Couper le son</string>
+    <string name="action_unmute">Rétablir le son</string>
+    <string name="action_play">Lire</string>
+    <string name="action_mark_as_read">Marquer comme lu</string>
+    <string name="action_repeat">Répéter</string>
+    <string name="action_reply">Répondre</string>
+    <string name="action_stop">Arrêter</string>
+    <string name="action_close_messages">Fermer</string>
+
+    <string name="auto_reply_message">Je suis en train de conduire</string>
+    <string name="auto_reply_failed_message">Impossible d\'envoyer la réponse. Veuillez réessayer.</string>
+    <string name="auto_reply_device_disconnected">Impossible d\'envoyer la réponse. Aucun appareil connecté.</string>
+
+    <string name="tts_sender_says">%s dit</string>
+
+    <string name="tts_says_verb">dit</string>
+
+    <string name="tts_failed_toast">Échec de la lecture du texte !</string>
+    <string name="reply_message_display_template">\"%s\"</string>
+    <string name="caned_message_driving_right_now">Réponse automatique : Je suis en train de conduire.</string>
+    <string name="message_sent_notice">Réponse envoyée à %s</string>
+
+    <string name="sms_channel_name">Canal SMS</string>
+    <string name="sms_channel_description">Service de réception de SMS</string>
+
+    <!-- Default Sender name that appears in message notification if sender name is not available. [CHAR_LIMIT=NONE] -->
+    <string name="name_not_available">Nom indisponible</string>
+    <!-- Separator between names in a list (i.e. ", " for "Harry, Ron"). [CHAR_LIMIT=NONE] -->
+    <string name="name_separator">,&#160;</string>
+
+    <string name="app_running_msg_channel_name">Non classé</string>
+    <string name="app_running_msg_notification_title">Service de messagerie activé</string>
+    <string name="app_running_msg_notification_content">Réception de SMS par Bluetooth</string>
+</resources>
