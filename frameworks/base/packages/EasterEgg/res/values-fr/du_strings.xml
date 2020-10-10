@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="notification_channel_name"">Nouveaux chats</string>
+    <string name="notification_channel_name">Nouveaux chats</string>
     <string name="notification_title">Un chat est arrivé</string>
     <string name="default_cat_name">Chat #%s</string>
     <string name="directory_name">Chats</string>
-    <string name="confirm_delete">Oublier %s?</string>
+    <string name="confirm_delete">Oublier %s ?</string>
     <string-array name="food_names">
         <item>Coupelle vide</item>
         <item>Croquettes</item>
@@ -20,6 +20,6 @@
     <string name="control_food_title">Coupelle de nourriture</string>
     <string name="control_food_subtitle">Appuyez pour recharger</string>
     <string name="control_food_status_full">Pleine</string>
-    <string name="control_food_status_empty"">Vide</string>
+    <string name="control_food_status_empty">Vide</string>
 </resources>
 
