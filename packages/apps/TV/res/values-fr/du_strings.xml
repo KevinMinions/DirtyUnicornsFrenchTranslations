@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2019 The Dirty Unicorns Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Attribution text shown at the end of the 'Ratings' menu. It indicates where those rating
+         descriptions come from. [CHAR LIMIT=NONE] -->
+    <string name="option_attribution">Sources pour les descriptions d\'évaluation</string>
+
+    <!-- Description of a card view to show Recording (DVR) history.[CHAR LIMIT=25]-->
+    <string name="dvr_history_card_view_title">Historique des enregistrements</string>
+
+    <!-- Description of failed recordings. [CHAR LIMIT=25] -->
+    <string name="dvr_recording_failed">Échec de l\'enregistrement</string>
+
+    <!-- Description of no recording history for now, and ask user to schedule recordings from
+         the program guide. -->
+    <string name="dvr_history_empty_state">Aucun historique d\'enregistrement.\nVous pouvez programmer des enregistrements à partir du guide des programmes.</string>
+
+    <!-- rating_system_strings.xml -->
+
+    <!-- Age based TV content rating strings used in DVB and ISDB.
+         For more info, please see STD-B10 in http://www.dibeg.org/techp/aribstd/aribstd.html (ISDB)
+         and Table 81 of DVB SI (EN 300 468 V1.14.1) in https://www.dvb.org/standards (DVB).-->
+    <string name="description_age_4">À partir de 4 ans</string>
+    <string name="description_age_5">À partir de 5 ans</string>
+    <string name="description_age_6">À partir de 6 ans</string>
+    <string name="description_age_7">À partir de 7 ans</string>
+    <string name="description_age_8">À partir de 8 ans</string>
+    <string name="description_age_9">À partir de 9 ans</string>
+    <string name="description_age_10">À partir de 10 ans</string>
+    <string name="description_age_11">À partir de 11 ans</string>
+    <string name="description_age_12">À partir de 12 ans</string>
+    <string name="description_age_13">À partir de 13 ans</string>
+    <string name="description_age_14">À partir de 14 ans</string>
+    <string name="description_age_15">À partir de 15 ans</string>
+    <string name="description_age_16">À partir de 16 ans</string>
+    <string name="description_age_17">À partir de 17 ans</string>
+    <string name="description_age_18">À partir de 18 ans</string>
+    <string name="description_age_19">À partir de 19 ans</string>
+    <string name="description_age_20">À partir de 20 ans</string>
+
+    <!-- strings-custom.xml -->
+    <string name="setup_sources_description2"
+        meaning="Live TV version of setup_sources_description2"
+        ><xliff:g id="app_name">Live TV</xliff:g> combine l\'expérience des chaînes de télévision traditionnelles avec les chaînes de diffusion par Internet fournies par les applications.
+\n\nCommencez par configurer les sources de chaînes déjà installées. Ou parcourez Google Play Store pour plus d\'applications proposant des chaînes en direct.</string>
+
+    <!-- TV content rating system strings for CA TV. These strings are from
+         http://www.cbsc.ca/english/agvot/englishsystem.php -->
+    <string name="description_ca_tv_en_exempt">les émissions exemptées de classement sont : les émissions d\’information, les émissions de sport, les documentaires, les émissions de causerie, clips vidéo, et les émissions de variété.</string>
+    <string name="description_ca_tv_en_c">Cette émission convient aux jeunes enfants de moins de 8 ans.</string>
+    <string name="description_ca_tv_en_c8">Cette émission convient aux jeunes enfants de moins de 8 ans. Le visionnage en compagnie d\’un adulte est recommandé pour les enfants âgés de moins de 8 ans.</string>
+    <string name="description_ca_tv_en_g">Cette émission convient à tout public et avec un visionnage appropriée pour toute la famille</string>
+    <string name="description_ca_tv_en_pg">Cette émission convient à un public large mais elle contient une violence légère ou occasionnelle qui pourrait troubler de jeunes enfants. Cette émission propose un contenu que les parents pourraient juger inapproprié pour les enfants entre 8 et 13 ans. De nombreux parents pourraient vouloir la regarder avec leurs jeunes enfants (âgés de moins de 8 ans).</string>
+    <string name="description_ca_tv_en_14">Cette émission est susceptible de présenter des contenus non adaptés aux enfants de moins de 14 ans. Contrôle parental nécessaire.</string>
+    <string name="description_ca_tv_en_18">Cette émission est destinée aux téléspectateurs de 18 ans et plus</string>
+
+    <!-- TV content rating system strings for DVB -->
+    <!-- A TV content rating of DVB for all ages [CHAR LIMIT=NONE] -->
+    <string name="description_fr_dvb_u">Tout public</string>
+    <!-- A TV content rating of DVB for all ages [CHAR LIMIT=NONE] -->
+    <string name="description_es_dvb_all">Tout public</string>
+    <!-- A TV content rating of DVB for children [CHAR LIMIT=NONE] -->
+    <string name="description_es_dvb_c">Pour enfants</string>
+    <!-- A TV content rating of DVB for adult [CHAR LIMIT=NONE] -->
+    <string name="description_es_dvb_x">Pour adultes</string>
+
+    <!-- A TV content rating of Korea for all ages [CHAR LIMIT=NONE] -->
+    <string name="description_kr_tv_all">Tout public : aucun aspect choquant pour les parents envisageant que leurs enfants regardent ce contenu..</string>
+    <!-- A TV content rating of Korea for persons aged 7 and above [CHAR LIMIT=NONE] -->
+    <string name="description_kr_tv_7">Contrôle parental recommandé. Les parents pourraient estimer que certains contenus ne sont pas adaptés aux enfants de moins de 7 ans.</string>
+    <!-- A TV content rating of Korea for persons aged 12 and above [CHAR LIMIT=NONE] -->
+    <string name="description_kr_tv_12">Contrôle parental recommandé. Les parents pourraient estimer que certains contenus ne sont pas adaptés aux enfants de moins de 12 ans.</string>
+    <!-- Label of the item in the "channel menu" that changes the current TV channel in the "up"
+         direction, to the next larger channel number. [CHAR LIMIT=23] -->
+    <string name="channels_item_up">Chaîne suivante</string>
+    <!-- Label of the item in the "channel menu" that changes the current TV channel in the "down"
+         direction, to the next smaller channel number. [CHAR LIMIT=23] -->
+    <string name="channels_item_down">Chaîne précédente</string>
+    <!-- Description on the locked screen when current channel is locked by parental control and talk back is turned on.
+        "press select" refers to a button on the remote.  [CHAR LIMIT=NONE] -->
+    <string name="tvview_channel_locked_talkback">Pour regarder cette chaîne, appuyez sur \"Sélectionner\" et entrez votre code PIN</string>
+    <!-- Description on the locked screen when the rating of the current content is restricted by parental control and talk back is turned on.
+     "press select" refers to a button on the remote.[CHAR LIMIT=NONE] -->
+    <string name="tvview_content_locked_talkback">Pour regarder ce programme, appuyez sur \"Sélectionner\" et entrez votre code PIN</string>
+    <!-- Description on the locked screen when the current content is unrated and it's restricted by parental control and talk back is turned on.
+    "press select" refers to a button on the remote.[CHAR LIMIT=NONE] -->
+    <string name="tvview_content_locked_unrated_talkback">Ce programme n\'est pas classé.\nPour regarder ce programme, appuyez sur \"Sélectionner\" et entrez votre code PIN</string>
+    <!-- Description on the locked screen with the rating when the rating of the current content is restricted by parental control and talk back is turned on. [CHAR LIMIT=NONE]
+     "press select" refers to a button on the remote.-->
+    <string name="tvview_content_locked_format_talkback">Ce programme est classé \"<xliff:g id="rating" example="TV_MA">%1$s</xliff:g>\".\nPour regarder ce programme, appuyez sur \"Sélectionner\" et entrez votre code PIN.</string>
+    <!-- Message displayed when a TV input (eg HDMI Cable) is not physically connected. [CHAR LIMIT=NONE] -->
+    <string name="msg_channel_unavailable_not_connected">Aucun signal. Veuillez vérifier votre connexion.</string>
+    <!-- Description of failed recordings. [CHAR LIMIT=25] -->
+    <string name="dvr_recording_failed_no_period">Échec de l\'enregistrement</string>
+    <!-- Description of recording conflicts. [CHAR LIMIT=25] -->
+    <string name="dvr_recording_conflict">Conflit pour l\'enregistrement</string>
+    <!-- Button label to schedule a recording. -->
+    <string name="dvr_detail_schedule_recording">Enregistrement programmé</string>
+    <!-- Description of failed recordings caused by system failures. -->
+    <string name="dvr_recording_failed_system_failure">Erreur système. (Code d\'erreur : <xliff:g id="errorCode" example="0">%1$d</xliff:g>)</string>
+    <!-- Description of failed recordings when they are not started correctly. -->
+    <string name="dvr_recording_failed_not_started">Enregistrement non débuté. Veuillez vérifier les connexions de l\'antenne et du disque dur (le cas échéant).</string>
+    <!-- Description of failed recordings when required resource is busy. -->
+    <string name="dvr_recording_failed_resource_busy">Échec de syntonisation sur la chaîne. Causes possibles : signal faible, mauvaise connexion d\'antenne ou conflit d\'enregistrement.</string>
+    <!-- Description of failed recordings when the input is unavailable. -->
+    <string name="dvr_recording_failed_input_unavailable"><xliff:g id="inputId" example="com.example.partnersupportsampletvinput/.SampleTvInputService">%1$s</xliff:g> indisponible</string>
+    <!-- Description of failed recordings when the input doesn't support recording. -->
+    <string name="dvr_recording_failed_input_dvr_unsupported">L\'enregistrement de cette chaîne n\'est pas pris en charge</string>
+    <!-- Description of failed recordings when the space is insufficient. -->
+    <string name="dvr_recording_failed_insufficient_space">Espace insuffisant. Veuillez connecter un périphérique de stockage externe ou supprimer des enregistrements existants.</string>
+    <!-- DVR history list strings -->
+    <!-- Short description of failed recordings. -->
+    <string name="dvr_recording_failed_short">Échec</string>
+    <!-- Short description of failed recordings when they are not started correctly. -->
+    <string name="dvr_recording_failed_not_started_short">Impossible de débuter l\'enregistrement</string>
+    <!-- Short description of failed recordings when required resource is busy. -->
+    <string name="dvr_recording_failed_resource_busy_short">Échec de syntonisation sur la chaîne</string>
+    <!-- Short description of failed recordings when the input is unavailable. -->
+    <string name="dvr_recording_failed_input_unavailable_short"><xliff:g id="inputId" example="com.example.partnersupportsampletvinput/.SampleTvInputService">%1$s</xliff:g> indisponible</string>
+    <!-- Short description of failed recordings when the input doesn't support recording. -->
+    <string name="dvr_recording_failed_input_dvr_unsupported_short">Enregistrement non pris en charge</string>
+    <!-- Short description of failed recordings when the space is insufficient. -->
+    <string name="dvr_recording_failed_insufficient_space_short">Espace insuffisant</string>
+    <!-- Title of the dialog to show storage permission rationale -->
+    <string name="write_storage_permission_rationale_title">Autorisation nécessaire</string>
+    <!-- The users has asked to delete TV programs they have recorded, however the application
+        first needs a system permission to delete files.
+        This is the text of a dialog that explains to the users they will be asked to grant
+        Live TV permission to delete files.
+        "Allow Live TV to access photos, media, and files on your device?\" is from the text
+        from the system message at
+       https://tc.corp.google.com/btviewer/messagedetail?project=AndroidPlatform&msgId=7885942926944299560
+        -->
+    <string name="write_storage_permission_rationale_description">Vous serez invité à, \"Autoriser <xliff:g id="app_name">Chaînes</xliff:g> a accéder à des photos, des fichiers multimédias et des fichiers sur votre appareil ?\"\n
+        Sélectionner \"Autoriser\", permet à <xliff:g id="app_name">Chaînes</xliff:g> de libérer immédiatement de l\'espace de stockage lors de la suppression de programmes enregistrés. Cela libère plus d\'espace disponible pour les nouveaux enregistrements.</string>
+
+    <!-- Display name of DVR recording service's notification channel. [CHAR LIMIT=50] -->
+    <string name="dvr_notification_channel_name" ><xliff:g id="app_name">Chaînes</xliff:g> DVR</string>
+    <!-- Content title of DVR recording service's notification. [CHAR LIMIT=50] -->
+    <string name="dvr_notification_content_title" ><xliff:g id="app_name">Chaînes</xliff:g> DVR</string>
+    <!-- Content text of DVR recording service's notification during recording. [CHAR LIMIT=NONE] -->
+    <string name="dvr_notification_content_text_recording" ><xliff:g id="app_name">Chaînes</xliff:g> en cours d\'enregistrement</string>
+    <!-- Content text of DVR recording service's notification during updating schedules. [CHAR LIMIT=NONE] -->
+    <string name="dvr_notification_content_text_loading" ><xliff:g id="app_name">Chaînes</xliff:g> : mise à jour des enregistrements programmés</string>
+
+    <!-- Title of screen with settings for the recording of a TV Program or Series. [CHAR LIMIT=50] -->
+    <string name="dvr_series_settings_title">Paramètres d\'enregistrement</string>
+
+    <!--  Button text that deletes scheduled future recordings of a TV Program or Series. [CHAR LIMIT=50] -->
+    <string name="dvr_action_delete_schedule">Supprimer la programmation</string>
+    <!--  Button text that records the selected program. [CHAR LIMIT=50] -->
+    <string name="dvr_action_record_program">Enregistrer le programme</string>
+    <!-- Button text that invokes android internal storage settings activity.
+         [CHAR LIMIT=50] -->
+    <string name="dvr_action_error_storage_settings">Paramètres de stockage</string>
+
+    <!-- Title of a dialog box displayed when a previously scheduled recording requires an action.[CHAR LIMIT=50] -->
+    <string name="dvr_epg_channel_watch_conflict_dialog_title">Programmation à venir</string>
+    <!-- Description in a dialog box displayed when a previously scheduled recording requires an action. [CHAR LIMIT=NONE] -->
+    <string name="dvr_epg_channel_watch_conflict_dialog_description">Le programme ne sera pas enregistré si vous continuez à regarder cette chaîne. Annulez l\'enregistrement, ou la chaîne actuelle sera bloquée lors du démarrage de l\'enregistrement</string>
+
+    <!-- Dialog description which will be shown when the current DVR storage is not accessible. [CHAR LIMIT=NONE]  -->
+    <string name="dvr_error_missing_storage_description">Une partie du stockage utilisé pour l'enregistrement est manquante. Veuillez connecter le lecteur externe que vous avez précédemment utilisé pour réactiver l\'enregistrement. Alternativement, vous pouvez le supprimer dans les paramètres de stockage, s\'il n\'est plus disponible.</string>
+    <!-- A toast message displad to the user when the recording being requested to play is not found in storage. [CHAR LIMIT=NONE] -->
+    <string name="dvr_toast_recording_deleted">Enregistrement introuvable</string>
+
+    <!-- Text desplayed on screen to show that the current program is being recorded until the time listed. [CHAR LIMIT=30] -->
+    <string name="dvr_recording_till_format">Enregistrement jusqu\'à <xliff:g id="recordingEndTime" example="9:00pm">%1$s</xliff:g></string>
+</resources>
