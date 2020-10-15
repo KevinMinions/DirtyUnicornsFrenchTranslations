@@ -1,11 +1,11 @@
 ![LogoFR](https://raw.githubusercontent.com/KowalskiOmniROM/DirtyUnicornsFrenchTranslations/p9x/images/DU-13_-_Logo-FR_-_500p.png)
 
-# Fichiers de traduction pour Dirty Unicorns 14 (Android 10.0) #
+# Fichiers de traduction pour Dirty Unicorns 15 (Android 11.0) #
 
 Ce repertoire contient simplement les fichiers de traductions nécessaires
 pour compiler Dirty Unicorns 14 (Android 10.0) en français.
 
-# TranslationTools pour Dirty Unicorns 14 #
+# TranslationTools pour Dirty Unicorns 15 #
 ![TranslationTools](https://raw.githubusercontent.com/KowalskiOmniROM/DirtyUnicornsFrenchTranslations/p9x/images/2018-09-19-TranslationTools_-_DU_9-0_500.png)
 
 
