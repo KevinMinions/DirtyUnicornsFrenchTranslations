@@ -1,4 +1,4 @@
-![LogoFR](https://raw.githubusercontent.com/KowalskiOmniROM/DirtyUnicornsFrenchTranslations/p9x/images/DU-13_-_Logo-FR_-_500p.png)
+![LogoFR](https://raw.githubusercontent.com/KevinMinions/DirtyUnicornsFrenchTranslations/r11x/images/2020-10-15-DU%20Logo%20500p%20(Bas%C3%A9e%20sur%20Oeuf%20De%20Paque%20Android%2011).jpg)
 
 # Fichiers de traduction pour Dirty Unicorns 15 (Android 11.0) #
 
