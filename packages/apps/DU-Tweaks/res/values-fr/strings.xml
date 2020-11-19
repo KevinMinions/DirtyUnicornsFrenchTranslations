@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2017-2019 The Dirty Unicorns Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Dirty Tweaks -->
+    <string name="dirtytweaks_title">Dirty Tweaks</string>
+    <string name="dirtytweaks_summary">Améliorez votre expérience</string>
+    <!-- The Team -->
+    <string name="dialog_team_title">L\'équipe</string>
+    <string name="developer_title">Développeur</string>
+    <string name="maintainer_title">Mainteneur</string>
+    <string name="server_admin_title">Administrateur</string>
+    <!-- Bottom navigation -->
+    <string name="bottom_nav_system_title">Système</string>
+    <string name="bottom_nav_lockscreen_title">Écran de déverrouillage</string>
+    <string name="bottom_nav_statusbar_title">Barre d\'état</string>
+    <string name="bottom_nav_navigation_title">Navigation</string>
+    <string name="bottom_nav_multitasking_title">Multi-tâche</string>
+    <string name="accessibility_description">Écran</string>
+    <string name="accessibility_item_description">%1$s élément du menu</string>
+    <!-- Categories -->
+    <!-- System -->
+    <string name="device_extras_title">Réglages spécifiques</string>
+    <string name="device_extras_summary">Réglages spécifiques de cet appareil</string>
+    <string name="miscellaneous_title">Divers</string>
+    <string name="miscellaneous_summary">Réglages divers</string>
+    <string name="powermenu_title">Menu Marche/Arrêt</string>
+    <string name="powermenu_summary">Réglages des options du menu Marche/Arrêt</string>
+    <!-- Lockscreen -->
+    <string name="lockscreen_items_title">Écran de déverrouillage</string>
+    <string name="lockscreen_items_summary">Réglages des éléments à afficher sur l\'écran de déverrouillage</string>
+    <!-- Statusbar -->
+    <string name="battery_options_title">Batterie</string>
+    <string name="battery_options_summary">Réglages de l\'icône de la batterie de la barre d\'état et de la tuile du panneau de configuration</string>
+    <string name="carrier_label_title">Libellé opérateur</string>
+    <string name="carrier_label_summary">Réglages du libellé opérateur de la barre d\'état</string>
+    <string name="clock_options_title">Horloge</string>
+    <string name="clock_options_summary">Réglages de l\'horloge de la barre d\'état</string>
+    <string name="icon_manager_title">Gestionnaire d\'icônes</string>
+    <string name="icon_manager_summary">Réglages de l\'affichage des éléments de la barre d\'état</string>
+    <string name="quicksettings_title">Panneau de configuration</string>
+    <string name="quicksettings_summary">Réglages du panneau de configuration</string>
+    <string name="traffic_title">Indicateur de trafic</string>
+    <string name="traffic_summary">Réglages de l\'indicateur de vitesse de réseau sur la barre d\'état</string>
+    <!-- Navigation -->
+    <string name="buttons_title">Boutons</string>
+    <string name="buttons_summary">Réglages des boutons physiques et du bouton Volume</string>
+    <string name="navigation_options_title">Barre de navigation</string>
+    <string name="navigation_options_summary">Réglages des options de la barre de navigation</string>
+    <!-- Multitasking -->
+    <string name="aware_settings_title">Perception de geste</string>
+    <string name="aware_settings_summary">Réglages Perception de geste</string>
+    <string name="active_edge_title">Bord actif</string>
+    <string name="active_edge_summary">Réglages des options \"Bord actif\"</string>
+    <!-- Sub categories -->
+    <string name="sub_category_other">Divers</string>
+
+    <!-- Network Traffic -->
+    <string name="network_traffic_state_title">Afficher l\'indicateur de vitesse de réseau</string>
+    <string name="network_traffic_autohide_threshold_title">Seuil de masquage automatique (KB/s)</string>
+
+    <!-- Motion Sense -->
+    <string name="ambient_display_wake_screen_summary">Pour afficher l\'heure, les notifications et d\'autres informations, saisir le téléphone</string>
+    <string name="aware_display_settings_title">Écran de déverrouillage</string>
+    <string name="gesture_silence_title">Interruptions silencieuses</string>
+    <string name="gesture_skip_title">Saut de piste musicale</string>
+
+    <!-- Button backlight -->
+    <string name="button_backlight_title">Rétroéclairage</string>
+
+    <!-- Pulse -->
+    <string name="pulse_settings">Pulse</string>
+</resources>
